@@ -10,13 +10,17 @@ from pathlib import Path
 from model import model
 import time
 from tqdm import tqdm
+from nltk.translate.bleu_score import sentence_bleu
 
 
 def read_input(task):
 	assert task in {"copy", "reverse", "sort"}
-	path = Path("data")
-	train_f = path / ("train.txt")
-	test_f = path / ("test.txt")
+	# modify the path
+	relativePath = "toy_data/" + "toy_" + task + "/"
+	path = Path(relativePath)
+
+	train_f = path / ("train/sources.txt")
+	test_f = path / ("test/sources.txt")
 	
 	with open(train_f, encoding='utf-8', errors='ignore') as train_file:
 		train_inputs = [line.split() for line in train_file]
