@@ -1,1000 +1,1000 @@
-0 1 10 10 11 11 14 14 14 2 7 9 Charlie Tracy 笑 笑
-1 10 11 13 13 13 6 7 9 9 Jialu Tracy 哭
-0 0 0 1 10 12 13 13 14 3 3 4 Tracy 哭 笑 笑
-11 11 14 14 2 2 3 3 6 7 8 9 9 Jialu Tracy
-1 11 13 13 14 4 5 6 7 8 Charlie Charlie Tracy 笑
-1 10 11 11 12 12 13 14 6 6 7 9 Tracy 笑
-12 12 12 13 14 14 2 2 3 3 4 5 9 Jialu Tracy 哭 哭 笑
-0 0 10 12 14 14 2 3 3 3 7 9 9 Charlie Charlie Charlie Jialu Tracy Tracy 哭
-11 12 2 7 Charlie Jialu 哭
-10 11 12 13 14 2 2 3 4 5 6 7 7 8 8 9 Jialu 哭 笑
-0 2 3 9 Jialu Tracy Tracy 哭
-1 12 13 6 6 7 7 8 Charlie Charlie 哭 笑 笑
-1 3 4 5 9 9 Charlie 哭 笑
-0 0 10 11 13 3 3 4 5 8 Charlie Jialu Jialu Jialu Tracy 哭
-0 1 1 2 2 6 6 7 7 Charlie Jialu 哭 哭 笑 笑
-0 10 10 11 12 14 14 14 3 3 3 8 9 Jialu
-0 13 3 5 5 6 6 6 7 7 8 8 8 Charlie Jialu Jialu Jialu Tracy
-0 10 12 12 13 14 4 5 6 7 7 Jialu 笑 笑
-12 2 3 3 3 3 7 8 9 9 Charlie Charlie Jialu Tracy
-11 4 4 6 Charlie 笑
-0 10 12 12 13 14 14 14 2 3 4 7 7 7 7 8 9 Jialu 哭 笑
-1 10 11 12 Charlie
-1 10 10 11 12 12 2 5 7 7 8 Tracy Tracy 笑 笑
-12 12 14 14 2 2 3 4 5 6 7 9 Charlie Tracy Tracy 笑
-1 1 1 10 11 11 12 12 12 12 2 4 4 4 6 7 Jialu 哭 哭
-1 10 11 11 12 13 2 2 3 3 4 5 6 7 7 8 9 Charlie Jialu 哭
-0 1 11 13 2 2 4 4 4 5 5 7 8 9 9 Charlie 哭 哭 笑 笑
-1 12 12 14 14 3 8 9 Charlie Tracy
-0 0 10 10 11 11 11 14 14 14 3 3 5 6 8 Charlie Jialu Jialu 哭
-0 1 1 11 12 14 2 2 3 5 7 Charlie Jialu 哭 笑
-0 0 1 1 2 2 3 3 6 6 6 8 8 Charlie 哭 笑
-1 14 2 5 9 Charlie Charlie Charlie Jialu
-0 1 12 13 13 2 4 5 6 7 Charlie Charlie Tracy 哭 哭
-1 11 7 8 Charlie Tracy
-10 11 12 13 14 14 14 6 6 6 8 8 Charlie Jialu 笑 笑
-12 13 14 3 4 4 6 6 8 8 8 9 Charlie Tracy
-0 10 10 11 12 12 5 6 9 Charlie Jialu 哭
-1 11 13 14 2 2 2 2 3 5 7 9 Charlie 哭
-0 10 12 14 3 4 8 9 Jialu Tracy
-0 11 11 12 13 14 14 14 2 6 Jialu 哭
-0 10 14 3 4 4 6 7 7 9 Charlie 哭 哭
-10 6 6 9 哭 哭 笑
-0 0 1 1 1 1 10 10 12 5 6 8 9 9 Jialu Tracy Tracy 笑
-12 12 13 2 4 5 5 Tracy 哭
-0 1 11 11 13 13 4 4 6 6 8 9 Tracy
-10 11 11 12 2 2 4 4 6 6 7 7 Charlie Charlie Jialu 哭 哭 哭 笑
-0 0 1 1 10 10 11 12 12 13 14 2 2 3 3 7 8 9 Tracy 笑
-5 5 9 Tracy Tracy
-0 1 13 4 4 5 6 7 Charlie Jialu
-1 10 10 13 14 2 6 8 哭 哭 笑
-0 1 1 12 12 14 14 8 笑
-0 0 12 12 13 13 3 3 4 8 9 Charlie Jialu Tracy 笑 笑
-0 11 11 2 5
-1 10 11 14 2 3 3 4 5 6 7 7 8 8 9 Charlie 哭
-0 11 11 3 7 哭
-1 5 8 9 9 Charlie
-11 12 13 14 2 8 8 9 9 Tracy
-0 1 10 12 14 2 2 3 4 5 6 6 7 9 Charlie
-0 10 11 12 14 5 6 8 8 Charlie 哭
-0 1 10 13 14 5 5 7 Tracy Tracy
-11 12 13 13 14 3 Jialu Jialu 笑
-1 10 10 11 12 14 2 3 3 4 4 5 6 9 9 9 Charlie
-0 1 1 1 11 13 4 5 7 7 Charlie Jialu 哭
-12 13 14 3 7 7 7 8 9 9 Charlie Tracy Tracy 哭 哭 笑 笑
-0 0 1 1 10 11 2 2 3 4 4 6 7 7 7 Charlie Jialu Tracy 哭 哭
-0 10 13 14 14 14 3 4 6 8 Charlie Jialu Jialu
-10 13 3 8 Charlie Tracy
-1 1 1 11 11 11 13 14 14 14 14 3 4 4 6 7 Jialu 哭 笑
-0 13 2 7 Tracy 笑
-0 12 13 2 5 6 Charlie Charlie Charlie Jialu Jialu 哭
-0 10 11 11 11 11 12 12 12 13 14 3 4 5 7 7 Charlie
-0 0 1 1 1 10 11 12 13 2 3 4 7 9 Jialu Tracy Tracy 哭
-10 10 2 2 4 5 6 8 Charlie Charlie Charlie Tracy 哭
-10 12 14 9 笑
-12 12 3 5 6 7 9 9 Charlie Charlie Tracy Tracy 笑
-0 0 1 1 10 10 12 3 5 6 8 9 Tracy 哭 笑 笑
-1 10 11 12 4 6 6 7 9 哭 笑
-0 11 14 14 2 5 5 6 7 7 7 Charlie 哭 笑
-1 12 13 2 5 7 7 9 Jialu Tracy Tracy
-0 0 1 10 12 13 2 3 6 7 8 9 9 Charlie Charlie Jialu Tracy 哭 哭 笑
-12 12 13 3 4 8 9 Tracy Tracy 哭 笑
-10 13 14 3 3 笑
-0 0 0 1 11 12 12 12 2 7 7 7 9 9 9 Charlie Jialu Tracy 哭
-10 12 13 3 4 6 9 Charlie Tracy Tracy 哭 笑
-1 11 12 2 2 3 3 3 4 5 5 6 8 Jialu 哭 笑
-1 12 2 4 5 8 9 Jialu 笑 笑 笑 笑
-3 4 9 Charlie Jialu Jialu Jialu 哭 哭
-1 1 10 11 11 12 12 13 13 13 2 3 4 5 5 6 7 哭 哭
-10 11 11 12 12 14 2 4 5 6 6 9 Tracy Tracy 哭 笑
-1 10 13 14 14 2 3 4 4 5 6 6 8 9 Charlie 哭
-0 10 10 12 2 2 2 3 8 9 Charlie Tracy
-1 1 11 11 13 13 5 7 笑 笑
-0 0 0 13 14 2 2 8 9 9 Tracy Tracy 笑 笑
-1 10 14 5 9 Jialu Tracy 哭
-0 10 11 11 12 2 4 6 8 8 Charlie Jialu 哭 笑
-10 11 12 12 13 3 3 5 7 9 Jialu 哭
-0 1 11 12 2 5 5 5 6 8 9 Charlie Tracy
-0 1 11 12 14 2 5 5 5 6 7 8 Tracy Tracy
-0 8 8 9 哭
-0 1 1 3 4 6 6 Jialu Tracy 哭 笑
-0 1 10 11 13 14 7
-10 7 8 Tracy 哭 笑
-13 13 4 4 7
-0 0 1 11 12 12 12 13 13 14 2 3 6 8 8 9 Charlie 笑
-1 1 13 14 2 3 5 7 8 Tracy Tracy 笑 笑
-0 1 12 12 13 14 7 8 9 Charlie Charlie Charlie Jialu 哭 哭 笑
-10 11 12 6 8 Tracy
-11 13 13 14 4 4 5 5 7 8 Charlie Tracy Tracy 哭 笑 笑
-11 6 7 7 Charlie 哭 笑
-0 1 1 10 11 11 14 4 5 8 笑
-0 10 10 13 14 14 3 3 4 5 6 6 7 7 哭 哭 笑
-0 1 1 1 1 11 2 3 5 8 8 Tracy Tracy
-0 1 14 2 2 3 4 6 6 7 Jialu Jialu Tracy Tracy 哭
-10 11 11 13 3 4 6 8 Jialu
-1 12 12 14 2 2 2 4 8
-0 10 11 12 2 4 7 7 7 Jialu Tracy 哭 笑
-12 13 14 14 5 6 6 Charlie Tracy
-0 1 10 10 11 12 13 14 4 4 4 4 8 9 Tracy 哭
-0 0 1 13 2 3 5 7 7 9 9 Charlie Tracy Tracy 哭 笑 笑 笑
-0 1 11 12 12 13 4 8 8 9 9 9 Charlie Jialu Tracy 哭 哭 笑
-0 11 14 2 5 5 7 8
-0 0 0 1 10 13 13 13 2 2 4 4 7 8 8 Tracy 哭
-1 1 10 11 12 12 13 14 14 3 6 9 9 Tracy
-0 13 13 4 4 4 5 6 7 8 Charlie Jialu Jialu Jialu 笑
-0 1 1 10 12 12 14 3 3 4 4 5 6 7 7 9 Jialu Tracy 笑
-1 1 10 11 13 2 2 4 5 5 5 8 8 8 Jialu
-0 0 0 1 1 1 1 13 14 14 4 4 7 8 9 9 Charlie Tracy 笑
-1 4 5 7 笑
-11 13 14 6 7 9 Jialu Jialu
-11 4 8 9 Charlie Charlie Tracy 笑
-1 10 11 14 3 3 4 5 7 8 Charlie Charlie Jialu Jialu Tracy 哭
-13 14 9 9 Charlie Tracy 哭
-10 12 12 13 14 14 2 3 3 4 7 8 8 8 Jialu Jialu 哭 哭 哭 笑
-0 1 11 14 14 4 5 5 Jialu Jialu Jialu Tracy 哭 笑
-10 13 2 4 9 哭
-0 1 11 12 12 13 13 2 2 3 4 4 5 5 6 8 9 9 Jialu Tracy
-1 1 1 13 2 2 4 5 9 Charlie Charlie
-4 4 4 6 7 Jialu Tracy Tracy
-0 1 1 10 11 12 13 13 5 5 5 6 8 9 Charlie Tracy
-1 11 2 6 Jialu 哭 哭 笑
-1 12 14 6 Jialu Tracy 哭
-1 1 10 14 3 3 4 4 6 9 Charlie Tracy 哭 笑
-0 10 10 14 14 5 5 7 7 Jialu
-12 13 14 2 3 8 Jialu Tracy
-1 1 10 12 12 13 13 2 7 8 Charlie Jialu Tracy 笑
-1 12 13 5 5 7 Charlie Charlie
-0 0 0 0 1 11 11 3 4 4 6 6 6 9 Jialu 哭 哭 哭 笑
-0 0 10 13 14 6 9 Jialu
-0 10 13 4 6 7 8 9 Charlie Jialu
-12 14 3 3 8 9 Jialu Tracy
-1 12 13 3 3 3 4 5 5 6 6 7 Charlie Tracy Tracy 哭 笑 笑
-0 1 1 1 10 10 11 12 2 3 6 7 9 Charlie 哭 笑 笑
-0 1 1 10 11 12 14 2 3 3 4 4 7 8 Charlie Charlie 哭 哭 笑
-0 13 14 3 Charlie Charlie 哭
-0 12 12 14 14 2 2 3 4 8 哭
-0 11 11 11 12 13 5 Charlie Jialu 笑
-1 12 12 3 4 6 7 8 哭
-0 1 2 4 7 8
-1 1 14 2 3 4 7 7 7 9 9 Jialu Jialu
-10 10 12 13 13 13 14 2 3 4 4 6 8 Tracy
-1 12 12 13 13 2 2 2 3 5 6 7 7 9 Charlie Jialu 笑
-1 10 2 3 6 6 8 哭 笑
-12 14 2 2 4 7 8 8 9 Tracy 笑
-0 1 11 11 11 12 12 13 2 3 3 4 4 6 6 7 9 Tracy Tracy
-1 13 13 14 4 4 5 5 5 7 9 Charlie Jialu Tracy Tracy 哭
-0 1 11 12 2 7 8
-0 12 12 13 3 6 哭 哭 笑 笑
-0 0 1 12 13 13 14 2 5 8 9 Jialu Jialu Tracy
-0 1 12 13 13 13 14 2 2 3 5 7 Jialu Tracy
-0 1 11 11 4 6 6 6 6 8
-2 4 5 5 Charlie Jialu
-0 1 11 13 14 14 2 4 6 8 8 Jialu Jialu Tracy 哭 笑
-12 13 14 2 6 Tracy 哭 笑
-0 10 10 12 14 2 4 5 5 5 6 Jialu 笑 笑
-0 10 10 12 12 14 2 2 3 5 9 9 9 9 Jialu Tracy 哭 哭 笑
-0 0 0 1 10 14 14 14 8 9 9 哭
-0 12 13 2 4 Charlie
-1 14 14 4 5 5 7 8 9 笑
-1 11 11 12 2 4 5 5 7 Charlie Jialu 哭 笑
-1 11 3 5 5 Charlie 哭
-1 13 2 4 8 9 Jialu Tracy Tracy
-1 11 14 2 3 4 6 8 8 9 Charlie Tracy 哭
-1 13 13 14 3 4 4 8 Charlie Jialu Tracy 哭
-11 13 13 14 2 3 6 9 Jialu Jialu Jialu 哭 笑
-10 10 10 10 11 14 4 7 Charlie Jialu Tracy Tracy
-10 10 11 11 11 12 12 14 5 6 7 9 Charlie 哭 笑
-11 12 12 13 2 3 8 8 8 Charlie 哭 笑
-0 11 14 14 3 7 7 7 9 9 Tracy Tracy
-0 1 10 10 11 11 12 14 2 3 3 5 7 8 8 9 9 Jialu 笑
-0 11 14 14 14 2 3 4 6 7 7 7 7 7 9 9 Charlie 笑
-11 12 2 3 4 7 8 Jialu 哭 笑
-0 1 1 11 12 13 14 4 4 5 5 7 8 8 9 9 Tracy 哭 笑
-1 11 14 Jialu Jialu
-0 1 12 12 12 13 14 2 4 4 8 9 9 Tracy Tracy Tracy 哭
-0 0 1 1 1 14 14 5 5 7 9
-1 11 12 13 13 14 2 5 6 7 Jialu 哭 笑
-13 14 2 2 2 3 Jialu Tracy 笑
-10 11 13 14 14 3 4 4 6 7 7 8 8 Tracy Tracy Tracy 哭 哭 哭
-0 0 1 12 13 2 3 7 9 9 9 Jialu Jialu Jialu Tracy 哭 哭
-0 1 11 9 Jialu Jialu 笑
-0 0 1 10 10 10 10 11 2 3 4 5 7 8 Charlie
-1 11 11 13 14 3 3 5 7 9 Charlie Tracy Tracy 哭 哭 哭 笑
-0 1 1 12 13 13 13 13 9 Jialu 笑
-0 11 14 2 3 3 4 6 8 9
-0 12 13 13 13 14 2 2 3 7 7 7 9 9 Charlie Tracy 笑 笑
-1 10 11 12 12 13 13 4 7 7 8 9 9 9 Jialu 哭 哭 笑
-12 14 2 9 Charlie
-11 4 4 5 9 Charlie Tracy 哭
-13 3 3 Tracy Tracy
-0 2 3 3 3 4 4 5 6 7 9 Charlie Tracy
-10 10 12 12 13 2 3 3 5 5 8 9 9 Jialu Jialu Tracy Tracy Tracy 哭 笑
-0 1 1 11 12 13 13 2 2 3 3 3 3 5 6 9 9 Jialu Tracy 哭
-0 11 12 12 2 3 4 5 6 6 7 7 9 Jialu Jialu Tracy 笑
-3 3 5 Jialu 哭
-0 0 12 2 9 Tracy
-1 1 10 11 12 13 14 14 14 2 3 6 7 Charlie 哭 哭
-0 1 11 11 12 13 14 7 9
-1 11 14 3 6 Jialu
-0 11 2 2 3 4 5 8 Charlie Jialu Tracy Tracy
-0 1 12 3 5 8 Charlie Charlie Jialu Tracy Tracy 哭
-1 1 10 11 12 12 14 2 3 4 8 8 Jialu Jialu Jialu Jialu 哭 笑
-10 11 11 13 2 3 4 4 6 7 Charlie Charlie Jialu 哭
-10 11 12 13 2 5 5 5 6 8 9 Jialu Tracy 笑 笑
-0 0 1 11 6 8 9 Jialu
-2 3 4 4 6 Charlie Jialu 哭
-1 11 2 4 8 Charlie Charlie
-10 12 12 13 3 3 4 5 8 Jialu Jialu Jialu 笑
-4 4 9 Jialu 笑
-1 11 2 2 3 6 7 7 Charlie Jialu 哭 笑
-0 10 13 14 2 2 3 6 7 Jialu Jialu 笑 笑
-1 13 14 2 3 4 5 7 9 9 Charlie Tracy 笑
-0 12 14 2 2
-1 12 12 13 4 7 9 Jialu 笑
-3 3 4 6 7 8 8 Charlie Charlie Charlie Charlie Tracy Tracy Tracy Tracy 笑 笑 笑 笑
-10 12 14 2 4 4 Tracy 哭 笑
-0 11 4 7 Charlie Jialu
-0 11 12 13 14 4 5 5 6 8 9 Jialu Tracy 哭
-1 10 10 11 13 2 3 4 Charlie
-1 12 12 2 3 4 6 7 7 Charlie Tracy 笑 笑
-0 1 10 12 2 2 3 6 6 9 Charlie Charlie Jialu Tracy Tracy 笑
-14 3 9 Tracy 哭 笑
-10 12 13 14 2 3 3 4 5 7 8 9 哭
-10 11 11 14 2 2 3 3 4 Jialu Jialu Tracy
-1 1 1 10 11 12 12 12 12 13 2 2 6 7 8 Jialu Jialu 哭 笑 笑
-0 0 0 1 10 10 10 11 12 13 6 6 9 9 Tracy Tracy 哭 笑
-1 10 11 11 13 14 3 4 4 5 6 7 7 8 Charlie 哭
-9 Charlie Charlie Jialu Tracy 哭
-0 10 12 12 14 14 4 5 7 9 Charlie Charlie 笑
-1 11 13 14 2 3 3 4 5 5 6 6 7 8 Tracy 笑
-10 11 11 6 Jialu Jialu Tracy 哭 笑
-1 11 4 8 8 8 9 Charlie Jialu 笑 笑 笑
-0 0 1 10 13 13 3 4 5 6 6 7 7 Charlie Tracy 哭
-1 1 10 11 14 3 4 7 8 8 8 9 Tracy Tracy Tracy 笑
-1 14 3 4 5 6 6 6 7 7 9 Charlie Tracy 笑 笑
-11 2 6 6 7 7 9 Charlie 哭
-12 13 14 14 2 2 5 5 6 7 Charlie 哭 笑
-11 12 12 13 13 14 14 2 4 5 6 8 Jialu
-0 0 0 0 10 12 2 3 3 5 6 7 哭
-0 10 11 11 13 13 7 8 8 Jialu Tracy 哭
-1 10 4 5 5 8 9 9 哭 笑
-0 10 10 11 11 11 14 2 6 6 6 Charlie Jialu Tracy Tracy 笑 笑
-10 11 13 8 Jialu
-0 0 11 3 4 8 Charlie Jialu Jialu 哭
-1 13 13 6 8 哭 哭
-1 10 10 10 10 11 11 2 2 6 7 7 Tracy 笑 笑 笑
-0 0 0 10 11 13 14 14 14 3 4 4 5 5 6 6 7 7 8 Charlie
-13 14 5 6 8 Charlie 笑 笑
-0 0 0 1 1 10 13 14 14 5 6 Charlie Jialu 笑
-0 0 13 14 3 4 Charlie Charlie Charlie Jialu 哭
-0 0 1 10 11 11 3 3 4 5 6 7 7 9 Tracy Tracy Tracy Tracy 哭 哭
-10 10 13 3 5 6 8 9 Charlie Charlie
-0 0 12 2 4 5 8 9 Jialu Tracy 哭 哭 笑
-0 1 1 11 11 13 14 14 3 4 4 5 7 7 9 Jialu Jialu 哭
-1 1 10 12 14 2 4 5 5 9 Charlie 哭
-0 12 12 13 3 5 8 9 Charlie 哭
-10 11 12 14 14 3 3 6 8 8 Charlie 哭 哭
-11 13 14 2 3 4 4 4 5 9 9 9 Jialu Jialu 哭
-0 0 11 12 13 6 Charlie 哭
-1 1 1 14 3 4 5 6 8 9 9 Charlie Charlie Jialu 笑 笑
-10 10 11 12 13 14 2 8 9 Tracy 哭 笑
-1 10 11 12 14 3 4 5 6 6 7 9 9 Tracy Tracy
-0 0 13 5 5
-14 14 2 6 7
-0 1 1 11 11 3 4 6 6 8 8 8 Charlie Tracy Tracy
-11 11 14 2 3 3 4 7 8 9 9 9 哭
-11 12 13 5 6 9 Charlie Charlie Jialu
-0 1 10 2 4 4 5 7 8 9 Charlie Jialu 哭
-0 1 10 12 13 2 3 3 5 5 7 8 9 Jialu Jialu Tracy
-12 12 2 3 7 8 哭
-0 12 12 12 6 6 6 Jialu
-0 10 10 12 13 13 3 7 7 8 Jialu Tracy 笑
-0 11 2 3 7 8 Tracy Tracy Tracy Tracy 哭 笑 笑
-1 1 11 14 14 3 4 5 6 7 Tracy Tracy 哭
-1 10 12 2 4 6 6 Charlie
-10 10 11 12 13 2 5 7 8 Charlie Charlie 哭
-0 1 10 11 11 12 14 2 4 9 Charlie Charlie Charlie Jialu 笑 笑
-0 12 12 7 9 Charlie Jialu 笑
-0 1 11 12 3 6 6 8 9 Charlie Charlie Charlie Tracy 哭 哭
-11 11 14 9 Jialu Tracy
-0 1 10 10 10 10 11 13 2 2 8 Charlie Charlie Tracy
-1 11 11 14 14 14 2 3 6 7 8 哭 哭 笑
-0 10 12 14 5 8 9 Jialu Jialu
-10 11 12 14 2 2 2 5 7 8 9 Jialu Tracy Tracy 笑
-0 1 10 14 4 7 7 8 8 8 9 9 Charlie Tracy Tracy
-1 12 13 13 7 7 8 Charlie Tracy 笑 笑
-12 2 7 哭 笑
-0 0 1 10 12 13 14 14 4 5 6 8 8 8 9 Charlie Charlie Jialu
-10 11 11 12 2 6 6 6 6 7 8 8
-13 2 7 Charlie 哭 哭
-1 11 12 13 14 2 4 5 5 6 Tracy Tracy 哭
-12 2 Jialu Jialu Jialu Tracy
-11 11 12 12 2 2 5 6 Charlie 哭
-1 1 2 4 6 Charlie
-0 0 12 3 7 9 9
-0 11 12 13 13 14 4 5 5 5 5 6 7 7 Jialu 笑
-10 12 13 6 8 9 Charlie
-0 12 12 12 14 14 2 3 4 5 6 7 Charlie Tracy 笑
-0 13 14 3 5 5 8 9 Jialu 哭 笑
-2 2 Jialu Jialu 哭
-10 11 11 11 12 14 3 4 5 5 6 6 8 8 Jialu Tracy 笑
-0 0 10 11 2 3 5 5 6 9 Charlie Tracy 哭
-1 11 13 5 6 9 Charlie Jialu 笑
-0 0 10 12 12 12 13 13 14 14 2 5 7 哭 笑
-1 1 1 11 4 6 Charlie Charlie Charlie Jialu Jialu
-1 12 13 14 7 8 8 Charlie 笑
-12 3 4 5 8 8 8 Tracy
-10 12 13 7 9 Charlie Charlie Charlie Jialu Tracy
-0 14 5 6 7 7 Jialu 哭 笑
-1 11 2 2 4 8 8 笑
-0 1 11 4 6 6 6 6 8 Charlie 哭 哭
-0 14 2 2 4 5 6 Charlie Jialu 哭 哭 笑
-1 1 1 10 11 12 13 13 14 2 3 4 5 6 7 9 Tracy 哭 笑
-0 1 10 12 3 3 4 8 8
-11 11 12 12 12 13 13 14 14 14 14 14 14 4 6 7 8 Tracy 哭
-10 10 13 13 13 13 4 6 8 Charlie Charlie Jialu 哭 笑
-13 6 7 8 8 9 Charlie 笑
-10 10 11 14 3 5 7 9 笑
-1 1 11 13 4 4 4 5 5 6 8 8 8 9 9 9 Charlie Jialu 笑
-10 12 12 12 13 13 14 3 笑
-1 10 12 6 6 6 8 8 Jialu 哭
-0 0 0 13 7 7 7 8 9 Tracy 哭 笑
-10 11 12 3 7 笑 笑
-12 13 5 5 6 8 9
-0 10 7 8 Tracy
-0 0 1 12 2 4 5 5 7 8 8 Charlie Jialu Tracy 哭 哭
-11 13 2 6 7
-1 1 1 10 11 12 14 5 7 7 8 9 9 Charlie Charlie
-11 11 13 3 Charlie Charlie Jialu 笑
-0 1 11 13 4
-0 0 1 11 14 4 5 6 笑 笑
-0 1 10 11 14 3 4 4 5 9 Charlie Jialu Jialu 哭 笑 笑
-0 1 11 13 2 3 3 5 6 6 7 8 8 9 Jialu Jialu Tracy 哭
-0 0 0 12 12 2
-0 1 1 1 10 11 11 12 12 6 6 8 Charlie Charlie Tracy
-0 14 4 5 Charlie
-1 10 13 13 13 2 2 3 4 5 Jialu
-1 11 14 2 5 8 Charlie Tracy 哭 笑
-1 1 10 12 13 2 4 4 5 6 6 7 9 Tracy 哭 哭
-0 0 0 10 11 12 12 12 13 13 3 4 6 6 7 Charlie Jialu Jialu 笑 笑
-2 6 7 8 8 8 9
-0 10 14 14 14 2 2 2 3 4 4 5 7 Charlie Charlie Charlie Tracy 哭
-0 0 11 14 14 14 3 3 6 7 Charlie Charlie Charlie Jialu Jialu Tracy 哭 哭 哭
-13 14 14 4 5 8 Charlie Jialu Tracy Tracy 哭
-13 5 5 5 6 8 8 哭 笑
-10 12 12 12 13 13 13 14 14 14 2 2 4 7 Jialu
-12 12 13 2 6 Charlie 笑
-1 2 6 Tracy 笑
-0 0 1 10 11 2 3 4 4 4 4 7 9 Charlie Jialu Tracy 哭
-13 4 4 6 8 9 Jialu Jialu
-11 12 13 14 14 6 7 7 7 8 Charlie Charlie Charlie Jialu Tracy 笑
-10 10 12 14 3 3 6 6 9 9 Charlie Jialu Tracy
-14 2 4 7 8
-14 14 14 2 5 7 8 笑
-0 1 10 11 12 14 3 3 3 5 5 5 8 8 8 Jialu Tracy Tracy 笑 笑
-10 10 12 13 14 3 3 4 9 9 9 Charlie Jialu Tracy 哭 哭
-10 12 14 3 3 7 9 Tracy
-0 1 10 11 11 13 14 4 4 4 5 6 Charlie Tracy
-11 13 6 7 哭 笑
-0 1 10 12 14 14 8 Charlie Charlie Charlie Jialu Jialu Tracy Tracy Tracy Tracy 笑
-11 12 13 14 2 5 7 9 Jialu Tracy Tracy Tracy Tracy Tracy 哭 笑 笑 笑
-13 14 14 2 2 3 4 6 7 9 笑
-10 10 11 11 14 2 3 3 8 哭 笑 笑
-1 14 2 2 5 5 7 8 8 8 Jialu Tracy Tracy Tracy 笑
-0 0 0 10 11 14 2 4 4 6 6 7 7 8 9 9 Charlie Charlie
-1 1 12 12 13 14 14 14 7 Charlie Jialu Tracy 哭 笑
-0 12 14 3 3 Charlie Tracy 哭
-1 1 1 11 11 13 3 5 5 5 6 6 7 8 9 9 Charlie Jialu 笑 笑
-10 10 11 13 14 3 4 6 7 8 哭
-0 0 1 1 10 11 6 6 7 7 8 9 Jialu Jialu Jialu 笑 笑 笑
-11 14 4 5 Charlie Charlie
-0 2 2 2 3 4 8 9 Jialu Tracy
-0 0 10 11 11 13 13 14 3 3 4 5 5 Jialu Tracy Tracy Tracy 笑 笑 笑
-12 13 3 6 7 7 7 Charlie
-11 11 13 2 2 4 6 6 9 Jialu 哭 笑
-10 13 3 4 6 8 Tracy
-13 6 7 8 8 Jialu Tracy 哭
-12 5 6 8 Charlie
-0 1 4 7 8 Charlie Charlie
-1 10 11 11 11 12 12 12 3 4 5 6 7 8 9 Jialu Tracy Tracy 笑
-0 1 3 6 6 7 Charlie Tracy Tracy 哭 哭
-1 11 12 14 14 2 2 3 4 4 5 7 7
-10 12 14 2 3 3 4 4 4 6 7 8 8 9 Tracy
-12 9 Charlie Jialu 哭
-0 1 10 10 13 13 13 14 14 14 3 4 4 5 8 8 9 Jialu
-1 11 11 12 13 13 14 3 5 9 哭 笑 笑 笑
-0 10 13 14 5 6 9 9 9 Tracy 笑
-10 12 12 12 2 3 5 8 8 8 8 9 Charlie Charlie Charlie Charlie 哭 哭
-0 0 1 13 14 2 3 4 5 6 9 9 哭 笑
-0 1 10 13 13 2 2 4 6 7 8 Charlie Tracy 哭
-0 1 10 13 14 2 4 5 8 8 9 9 9 Tracy 哭
-1 13 2 7 7 8 8
-11 2 3 Charlie Charlie Tracy 笑 笑
-11 11 14 14 2 4 Tracy 笑 笑
-0 1 10 11 12 13 14 2 3 4 4 5 8 8 9 9 Jialu Tracy 笑 笑
-1 11 3 7 7 9 9 9 9
-1 10 11 12 4 5 Charlie Jialu Jialu Tracy
-0 1 10 11 11 13 4 5 8 8 9 Charlie Jialu Jialu Tracy 哭 哭
-1 11 11 12 2 3 3 4 6 7 8 Charlie
-1 1 10 10 10 13 2 3 3 9 Jialu Tracy Tracy 笑
-0 1 12 2 2 2 2 3 4 4 5 6 7 Jialu 哭
-0 1 1 11 3 6 6 9 Charlie 笑
-0 10 10 12 13 13 13 2 2 4 4 4 5 8 Charlie Charlie Jialu Tracy 哭 笑
-0 1 10 11 14 14 2 2 5 6 7 7 9 Charlie Jialu Tracy Tracy Tracy 哭 笑
-11 12 14 5 7 9 哭
-0 10 13 13 3 5 6 6 7 8 Jialu Tracy Tracy 哭 哭 笑 笑 笑
-10 11 11 13 5 8 Charlie Charlie Tracy 哭 笑 笑
-1 12 13 14 14 2 2 5 6 6 7 Charlie Jialu Jialu Jialu Jialu 哭 笑
-1 10 6 8 笑
-1 10 11 11 5 9 Charlie Jialu Tracy
-0 0 12 12 2 3 3 4 7 Charlie Tracy 哭
-13 13 14 3 Jialu 笑
-1 10 11 11 4 4 9 哭 笑
-11 12 13 4 笑
-0 0 0 1 1 11 11 13 14 3 4 7 Jialu Jialu Jialu Tracy
-1 10 10 11 12 14 14 4 4 4 5 7 9 Charlie Jialu 笑 笑
-0 12 13 14 14 2 7 7 7 7 Jialu
-10 10 4 8 笑
-0 0 1 10 13 14 5 6 7 7 9 Jialu Jialu Tracy Tracy 笑 笑
-1 10 11 12 14 2 2 3 4 7 8 8 Charlie Charlie Jialu Tracy 哭
-0 13 14 2 2 7 7 7 9 Charlie Tracy 哭 笑
-1 10 11 12 13 6 Jialu Tracy
-0 1 10 10 12 6 9 Charlie Jialu Jialu Jialu Tracy 笑
-1 1 1 1 10 11 11 12 13 2 3 4 7 7 8 8
-1 11 13 14 14 5 Charlie
-10 11 13 6 7 8 Tracy 笑 笑 笑
-0 14 14 3 6 6 7 7 8 8 8 Charlie Tracy 笑
-0 4 6 Jialu 哭 笑
-0 0 1 1 10 13 2 2 3 6 Charlie 笑
-0 11 12 3 4 5 5 5 6 Charlie Charlie Jialu 哭 笑
-0 0 1 11 11 11 12 14 14 2 5 6 6 6 8 Tracy Tracy Tracy 哭 笑
-11 11 12 13 13 2 3 4 4 4 5 6 7 8 8 9 Charlie Charlie Charlie Tracy
-2 3 4 4 9 Charlie Tracy
-10 11 13 4 8 9 Charlie Jialu 哭 哭
-0 0 11 12 12 14 6 7 7 7 Jialu Jialu 哭
-0 0 10 11 14 3 5 7 9 9 Charlie Charlie Charlie Charlie Jialu Tracy Tracy 笑 笑
-1 10 10 11 13 13 14 14 3 5 7 8 9 9 Jialu 哭 笑
-0 10 10 10 12 13 14 2 2 3 4 6 6 7 9 9 笑
-0 0 1 11 13 13 Jialu Tracy Tracy 哭
-1 1 11 11 2 3 5 6 8 Jialu 哭
-0 0 1 12 13 13 3 3 4 6 Tracy 哭 哭 笑
-1 1 10 14 4 5 6 6 8 9 Charlie 哭
-1 1 10 11 12 13 14 3 3 5 7 7 8 8 9 Charlie Jialu Jialu Tracy
-1 12 13 14 5 5 9 9 Charlie Jialu Tracy Tracy 哭 笑
-10 11 6 6 6 8 Charlie Jialu
-0 13 2 2 2 6 8 Charlie 哭 笑 笑
-0 12 5 7 Jialu 哭 笑
-10 11 13 13 5 6 Charlie Jialu
-1 1 10 11 11 11 12 13 4 4 5 6 6 Charlie 哭
-0 11 11 4 4 5 5 5 6 6 7 哭
-0 11 12 12 14 4 5 6 7 8 8 Charlie Jialu Jialu Tracy
-5 9 Jialu Tracy 笑
-0 0 10 11 11 13 13 2 3 3 3 3 4 6 9 Charlie Jialu 哭 笑
-1 1 2 5 6 8 9 Charlie Charlie Tracy 哭
-0 1 1 12 13 3 3 5 7 8 8 8 Jialu Tracy 哭
-0 0 0 0 0 1 10 2 4 5 6 Charlie Jialu 哭
-0 0 10 12 5 7 8 9 9
-10 11 12 12 13 14 2 2 4 7 9 Jialu 笑 笑
-0 1 10 10 11 13 13 5 6 6 6 Charlie Jialu Tracy 哭 哭 笑
-0 1 11 12 13 14 2 3 3 3 4 7 7 9 Jialu Jialu Tracy 哭 笑
-14 7 Jialu Tracy 哭 笑
-1 13 3 7 Jialu 笑
-0 1 10 10 11 2 3 4 5 5 7 7 9 Jialu Jialu Jialu Tracy 哭 笑 笑
-1 1 10 13 14 14 2 2 6 9 Charlie Jialu 哭 哭
-0 10 10 2 2 2 3 5 5 5 6 6 Tracy 笑
-1 10 10 12 12 14 7 8 Charlie 哭 笑
-1 11 11 12 13 14 2 2 3 3 5 5 6 7 8 8 9 哭 哭 笑
-0 1 10 10 11 2 3 4 5 7 笑
-0 1 10 10 2 4 4 4 5 7 7 8 Charlie Charlie Charlie Charlie Jialu
-0 1 10 12 13 13 13 14 5 7 8 8 Jialu Jialu
-12 14 2 2 3 4 5 5 9 Tracy 哭
-0 0 10 10 11 12 14 2 2 2 7 Charlie Charlie Charlie 哭 笑
-3 4 5 5 5 8 9 Charlie Jialu Jialu Tracy 笑
-5 6 7 9 Jialu Tracy
-0 0 10 11 11 13 5 9 Tracy
-1 1 1 11 4 7 7 7 Charlie Tracy 笑
-11 2 4 5 6 7 7 8 Charlie Jialu Tracy
-13 3 3 7 7 8 8 哭
-0 1 11 12 14 2 4 5 9 Charlie 哭 笑
-10 13 14 2 4 4 7 9 9 笑
-0 0 10 12 13 13 14 14 2 2 8 9 Charlie Charlie Tracy 笑 笑
-1 1 1 11 11 11 11 12 13 14 14 3 6 6 9 9 9 笑
-0 1 11 13 8 8 Charlie Jialu Jialu Jialu
-0 10 11 12 12 2 4 4 5 5 9 Jialu Tracy Tracy 哭 哭
-11 12 12 12 12 13 14 8 9 哭 哭 哭 笑 笑 笑
-0 0 1 1 11 11 12 14 3 3 4 5 Charlie Jialu 哭 哭 笑
-0 0 10 3 3 5 6 7 7 9 Charlie Jialu Jialu
-1 10 12 13 13 14 6 6 7 9 9 9 Jialu Jialu 哭 哭
-0 1 1 1 10 11 11 14 2 3 9 9 9 Tracy
-0 1 10 11 11 12 12 2 2 4 4 7 8 9 Jialu Jialu Jialu 哭 哭
-0 0 0 1 10 12 12 13 13 14 14 14 2 3 3 5 6 8 Tracy 笑
-0 0 1 1 1 10 11 13 2 3 4 5 6 6 7 8 Tracy Tracy 笑
-1 12 12 3 3 3 6 哭 笑
-1 10 12 13 2 2 3 3 5 6 7 9 9 Charlie Charlie Jialu 笑 笑
-11 6 7 Jialu Jialu 笑 笑 笑
-1 10 11 2 3 4 6 6 7 Charlie Tracy 哭
-10 4 7 7 8 Jialu 哭
-0 0 1 11 11 12 14 2 4 4 4 4 4 7 8 8 哭 笑 笑 笑
-1 10 12 13 13 13 14 3 6 6 7 Charlie Charlie Charlie Jialu Tracy 哭 笑
-1 10 14 14 2 3 4 6 6 7 8 Charlie Jialu Tracy Tracy
-11 2 3 4 7 8 9 Charlie Jialu Tracy 笑 笑
-0 0 10 10 11 11 14 2 5 7 7 8 9 Jialu Jialu Jialu 哭 哭
-10 12 12 12 14 3 6 7 Jialu 笑
-10 14 3 3 6 6 6 7 Charlie Tracy Tracy 哭
-0 13 13 3 3 3 4 4 6 7 7 9 Jialu Tracy 哭
-4 6 9 9 Charlie
-1 10 10 11 12 12 12 14 14 2 2 2 6 7 Jialu Tracy Tracy Tracy 笑 笑
-1 1 1 12 12 12 13 13 13 2 4 Charlie Charlie Jialu Tracy Tracy 哭 笑 笑
-12 12 14 2 3 5 7 7 9
-1 10 12 12 2 6 6 7 8 Jialu Tracy Tracy Tracy 笑
-0 0 1 10 10 10 11 11 14 4 4 9 9 9 Charlie Jialu Tracy
-0 0 0 12 12 14 2 2 3 4 6 6 9 Jialu Tracy 哭 笑
-1 1 6 6 7 9 Jialu Tracy
-0 10 11 12 13 14 2 3 4 7 8 笑
-11 5 7 Tracy 哭
-12 14 14 2 2 3 4 6 6 8 9 9 Charlie Tracy 笑 笑
-1 11 12 14 14 14 6 8 9 Jialu 哭 哭 哭 笑 笑 笑
-11 12 2 Charlie Tracy 笑 笑
-0 1 2 4 5 Jialu Jialu Tracy Tracy Tracy
-10 12 13 4 7 8 9 Tracy 哭 哭 笑
-0 10 10 12 13 13 14 14 14 3 3 7 8 8 Jialu Jialu Tracy
-0 10 11 11 13 2 9 9 9 Jialu Jialu 哭 笑
-0 0 13 14 Jialu Jialu 笑
-12 12 14 14 3 4 4
-10 12 3 9 笑
-10 11 13 14 3 3 7 Charlie
-0 1 12 12 13 4 4 5 7 7 8 9 Charlie Charlie Tracy Tracy 哭 笑 笑
-11 11 13 2 2 3 3 8 Tracy 哭 笑
-1 12 14 5 5 5 6 6 9 Jialu Tracy 哭 笑 笑
-1 1 1 11 12 14 4 5 8 8 Tracy 哭
-10 4 8 Tracy 笑
-0 1 1 1 10 11 12 12 14 3 5 7 8 9 Jialu Jialu 哭 哭 笑
-12 3 8 8 Tracy
-0 0 0 10 13 4 5 7 8
-12 13 14 5 5 9 Tracy Tracy
-0 0 1 10 11 12 14 3 6 7 7 9 Charlie Charlie 哭 笑
-1 1 12 13 13 13 14 2 3 4 6 6 7 笑 笑
-0 1 10 10 10 11 11 13 14 4 4 5 5 9 Jialu 哭
-1 1 11 12 13 4 6 7 8 Tracy 哭
-0 1 10 10 14 2 4 5 6 6 8 9 9 Charlie Jialu Jialu Jialu 哭
-0 0 11 5 6 8
-10 11 14 2 3 Charlie Jialu
-13 Charlie Tracy Tracy 哭
-0 0 1 11 14 14 2 3 5 5 7 9 Charlie Charlie Jialu Tracy
-1 10 11 12 13 2 2 3 3 5 6 7 Charlie Jialu 笑
-10 10 12 12 13 14 2 4 5 6 6 6 7 7 8 Jialu Tracy 哭
-0 1 5 9 Jialu 哭
-1 10 10 10 12 12 13 2 4 5 6 Charlie Jialu Jialu Jialu 哭 哭 笑
-0 0 1 11 11 11 12 3 4 5 6 6 9 9 Charlie Jialu Jialu Tracy 笑
-0 1 10 12 14 6 7 哭 笑
-0 1 13 3 4 6 7 7 7 7 9 Charlie Tracy 哭 笑
-0 1 12 13 2 2 2 3 4 6 8 哭 哭 哭 笑
-1 10 11 11 12 13 14 3 6 7 7 Tracy
-13 2 4 哭 哭
-0 0 10 10 10 14 2 3 6 7 7
-0 0 1 10 12 13 2 4 5 5 5 5 6 Charlie Tracy
-1 10 12 2 3 4 6 7 8 8 9 9 9 Charlie Jialu Tracy Tracy
-0 0 12 14 2 2 4 6 6 8 8 Jialu Tracy
-0 0 0 1 11 13 14 2 4 7 8 Charlie 哭 哭 哭
-1 1 10 2 5 6 8 9 Tracy Tracy
-1 10 11 13 13 13 5 6 6 7 7 9 Charlie 笑 笑
-13 14 3 6 9 笑 笑
-0 0 1 10 10 11 12 13 13 8 9 Charlie 笑 笑
-0 1 11 3 7 9 Charlie Jialu Tracy 哭
-11 14 14 2 3 5 7 9
-0 0 10 11 13 13 2 2 2 3 3 4 4 4 5 9 Charlie 哭 笑 笑
-1 1 10 10 10 13 13 2 2 3 4 5 5 5 6 8 9 Jialu 哭 哭
-11 11 13 4 4 7 8 Charlie Tracy 哭 笑 笑 笑
-1 11 12 12 3 3 7 8 8 Jialu
-0 0 1 11 11 2 3 3 3 4 4 5 7 8 9 Tracy 笑 笑
-1 1 10 11 12 14 2 5 6 7 8 9 Charlie Charlie
-0 0 0 1 1 5 5 6 7 7 7 8 8 9 9 9 Tracy 哭 哭
-0 0 1 10 4 5 5 6 7 8 Jialu Jialu 笑 笑
-10 10 11 11 13 14 5 6 6 7 Tracy 笑
-0 11 11 13 2 3 3 5 7 7 8 9
-11 11 11 11 12 13 3 3 6 8 9 Charlie Charlie Charlie Jialu Tracy 哭 哭 笑
-1 10 2 3 5 6 7
-0 1 10 11 13 6 7 8 9 Charlie Charlie Jialu
-1 12 3 7 7
-0 11 14 5 5 7 7 Charlie Jialu 哭 笑
-0 13 14 7 8 8
-1 10 10 10 11 14 14 2 4 6 6 7 8 8 8 8 Charlie Charlie Tracy 哭
-11 12 14 2 3 3 4 5 5 6 6 8 9 9 Jialu Tracy 哭 笑
-11 11 3 7 9 Jialu Tracy 哭 笑
-0 11 2 3 4 Charlie 哭 笑 笑
-0 10 11 11 8 8 8 8
-10 11 2 3 7
-1 10 12 12 13 2 2 2 2 3 Charlie Charlie Jialu Jialu 哭 笑 笑 笑
-10 12 13 13 14 14 4 5 5 5 6 8 9 Charlie Jialu Tracy Tracy Tracy Tracy
-11 13 3 7 Jialu 哭
-0 2 3 6 7
-0 10 5 5 9 哭 笑
-0 1 10 11 12 2 3 4 6 7 8 Charlie 哭 笑 笑 笑 笑 笑
-0 1 10 10 12 14 2 2 5 7 7 7 7 9 Charlie Charlie Charlie Tracy Tracy 哭
-12 13 13 2 3 3 4 5 Jialu 哭 笑
-0 10 13 13 14 14 14 4 5 5 6 6 7 7 7 7 7 哭
-10 11 11 2 5 5 7 Charlie Charlie Charlie
-1 10 12 12 14 3 3 4 4 5 6 8 8 8 Charlie Jialu 哭
-0 1 10 10 10 11 12 14 14 2 3 6 7 9 Charlie Tracy Tracy 笑
-13 14 6 Charlie Jialu
-0 10 11 11 8 8 Jialu
-0 1 1 10 11 11 11 12 14 2 2 3 5 6 8 8 9 Charlie Tracy 笑
-10 3 5 7 7 Jialu 哭 笑
-0 11 12 12 13 14 2 2 3 8 Charlie Charlie Charlie Jialu 哭
-0 10 10 10 12 4 4 5 5 6 Tracy 哭 笑
-1 10 12 13 14 4 8 Tracy Tracy Tracy 笑
-0 1 11 11 11 12 14 14 5 6 Charlie
-1 10 13 14 3 6 6 8
-0 0 0 0 1 10 10 10 11 11 12 13 2 4 5 9 9 Charlie 哭
-0 1 14 4 5 6 9
-13 14 2 4 7 8
-10 12 13 2 3 4 4 5 5 5 7 7 8 8 8 9 9 Charlie 笑
-10 11 12 2 2 4 4 4 5 8 9 Jialu
-0 11 13 3 5 8 Charlie Charlie 笑
-0 10 12 13 13 4 4 4 5 5 7 9 笑 笑
-0 10 13 3 3 4 6 8 8 9 Jialu Tracy 哭
-1 1 10 10 11 13 14 2 Jialu Jialu Tracy 笑
-0 1 10 2 2 6 7 9 Charlie Charlie Jialu 笑
-2 4 7 8 8 Charlie Charlie Tracy
-0 1 10 11 11 14 2 3 3 6 7 Charlie Charlie Charlie Jialu 哭 笑
-1 10 14 2 4 5 5 7 Tracy Tracy Tracy 哭
-10 11 2 6 7 哭
-1 1 11 2 4 Jialu 笑
-11 11 12 2 3 3 5 6 Tracy
-1 11 12 12 13 14 2 3 5 5 6 6 8 9 Tracy 哭
-11 11 4 9 Charlie
-10 11 11 11 12 13 14 2 5 7 7 8 8 哭
-11 6 6 Charlie 笑
-10 12 14 4 6 7 8 9 Charlie 笑 笑
-10 10 12 12 14 2 3 3 4 5 5 6 7 Charlie Jialu Jialu Tracy 笑
-0 10 2 3 4 6 7 7 哭
-0 0 0 1 14 3 7 7 8 Tracy 哭 笑
-0 0 2 Jialu Jialu
-1 11 11 11 12 12 13 14 2 3 3 3 4 9 Jialu Jialu Tracy Tracy
-0 10 11 11 13 14 2 3 3 4 7 7 9 Charlie Charlie 哭 笑 笑
-0 0 1 12 13 3 4 4 7 7 8 8 8 9 Charlie Tracy 哭
-11 11 14 6 8 Jialu
-0 10 12 14 2 2 6 7 8 9 Charlie Jialu Jialu Jialu Jialu Tracy 笑 笑
-11 12 4 5 8 Charlie Jialu Tracy 笑
-1 10 11 11 12 13 14 14 4 8 Charlie Jialu 哭 笑
-1 1 13 13 13 4 笑
-1 10 11 11 3 4 4 4 6 7 7 9 Charlie
-1 11 12 13 2 3 4 5 5 5 6 Charlie Jialu Jialu
-1 12 2 3 3 4 4 5 7 8 9 Jialu 笑 笑
-0 10 11 12 13 14 2 7 8 8 9 Charlie Jialu
-0 10 13 5 7 8 8 9 Charlie Charlie Tracy 哭
-10 10 11 2 4 6 Jialu 哭
-0 1 11 11 11 11 11 11 12 14 3 5 8 9 Charlie Tracy 哭
-10 13 14 2 4 8 Jialu Jialu Tracy Tracy 哭
-0 0 1 11 3 4 4 5 5 7 Charlie 笑
-11 14 2 4 9
-5 7 Charlie Jialu 哭
-0 12 2 4 5 8 8 Charlie Tracy 哭
-1 10 14 14 2 2 7 Charlie Jialu Jialu 笑
-0 1 10 10 11 11 11 2 2 3 7 7 7 8 9 Charlie Charlie Jialu Jialu
-1 1 11 12 13 13 2 5 Jialu 笑
-1 10 10 11 13 13 13 14 2 2 3 5 5 5 7 8 Charlie 哭
-10 12 3 5 7 7 8 Charlie Charlie Jialu Jialu
-0 1 1 10 11 12 13 13 14 14 6 6 7 8 Charlie Tracy 哭
-10 12 13 3 4 5 6 7 8 9 9 Jialu 哭 哭 笑
-0 10 10 11 14 3 3 3 4 6 7 8 8 9 Jialu Tracy Tracy Tracy 哭 笑
-10 3 8 Charlie Jialu
-11 11 2 3 6 6 7 Charlie 哭
-10 11 12 13 2 4 6 7 Charlie Tracy
-0 10 14 3 4 7 Charlie Jialu Tracy Tracy
-0 0 12 13 13 14 2 2 2 3 7 8 8 9 Jialu Tracy 哭 笑
-0 11 11 11 13 2 3 5 7 7 9 9 Charlie Tracy 哭
-0 10 11 11 11 14 4 6 6 7 8 Charlie 笑
-11 3 4 7 9 Jialu
-0 13 14 3 3 3 Charlie Charlie Jialu Jialu Tracy 笑
-0 10 14 14 2 3 4 5 Tracy
-1 12 14 4 5 6 Jialu 哭
-0 1 12 14 2 4 6 7 7 8 Charlie Charlie Jialu 笑 笑
-1 10 11 11 12 12 2 3 3 3 4 9 Charlie Charlie Charlie Charlie Tracy
-10 10 10 11 11 3 5 6 7 8 9 Charlie Jialu 笑 笑
-0 12 2 2 3 3 5 6 6 8 8 8 9 Charlie Jialu 笑
-0 0 0 1 14 4 4 5 6 8 8 Charlie Charlie Jialu Jialu Tracy Tracy 笑 笑
-1 1 1 10 12 14 2 3 7 7 8 Charlie Tracy 哭
-0 1 10 10 12 12 14 2 3 4 7 8 Jialu Tracy 笑 笑
-3 5 7 9 Tracy 哭 笑
-0 0 0 10 12 4 4 6 6 6 7 Tracy
-10 10 11 12 3 4 5 9 Charlie Tracy 哭
-1 10 10 11 12 14 2 2 5 5 5 6 8 8 Charlie 哭 哭
-11 14 14 4 9 Charlie Jialu
-0 10 2 3 5 8 8 笑
-0 1 11 13 14 3 Charlie
-0 0 10 12 12 3 3 5 6 6 9 笑
-1 1 10 12 14 5 6 9 Charlie Jialu 笑
-0 11 13 4 6 6 8 Charlie Jialu Jialu Jialu Tracy Tracy
-10 10 12 12 13 14 3 4 4 8 Charlie 笑 笑
-0 11 11 13 13 2 3 4 5 7 8 哭
-0 1 11 12 12 13 2 3 3 4 6 6 7 9 Charlie Charlie Charlie Tracy 哭
-0 1 11 12 12 13 13 2 2 3 4 6 6 6 7 9 9 Tracy Tracy
-1 10 12 14 4 8 8 Charlie Charlie Jialu Jialu 笑 笑 笑
-11 11 11 12 12 12 2 4 4 7 8 9 Charlie Charlie Tracy Tracy 哭 笑 笑
-10 13 13 14 14 2 5 9 9 笑
-10 12 12 14 14 2 4 5 5 8 Charlie Charlie Tracy 哭
-1 1 1 10 10 11 11 11 12 5 5 6 6 6 7 9 Charlie Jialu 哭
-2 3 5 7 9 Charlie Charlie 笑
-0 0 10 11 12 13 2 4 9 Charlie Jialu Jialu Tracy 哭 哭 笑
-0 10 13 2 3 3 4 5 7
-1 14 3 4 8
-10 10 11 11 12 13 4 6 7 7 8 Jialu Tracy Tracy 哭 笑 笑
-0 1 14 14 14 14 3 4 4 5 5 7 9 9 9 9 Tracy 笑
-10 13 3 8 哭 哭
-10 11 12 12 13 13 13 14 3 6 9 Charlie 哭 哭
-1 10 11 14 5 7 Charlie Jialu Jialu
-1 12 2 2 3 4 7 8 9 9 Charlie Charlie Tracy
-0 0 1 10 11 12 13 14 2 2 3 4 8 Jialu Jialu Tracy
-0 0 1 1 10 11 11 12 14 2 5 6 6 7 9 哭 哭 哭 哭 笑
-1 10 2 3 5 5 6 Tracy Tracy
-0 1 12 4 7 9 9
-10 11 12 5 7 8 Jialu 哭 哭 笑
-0 0 10 11 12 12 12 14 2 3 5 5 7 9 9 Charlie Jialu Jialu 笑 笑
-0 1 10 10 10 12 13 Charlie Jialu Tracy Tracy 哭
-0 0 1 13 13 2 5 7 7 7 9 9 Jialu 笑 笑
-11 11 5 5 7 8 9 9 Charlie Jialu Jialu 哭 笑 笑
-14 2 3 5 5 8 Tracy Tracy
-0 0 12 2 3 4 5 Charlie 哭
-1 1 10 11 3 3 6 8 9 Charlie Charlie Charlie Jialu Tracy Tracy 哭 笑
-0 11 12 12 12 13 14 3 5 Charlie Jialu Jialu 哭 笑
-1 10 13 4 5
-1 12 13 13 14 14 14 2 2 3 5 8 8 9 Jialu Jialu 哭 哭
-10 10 12 12 14 3 5 6 7 8 8 Tracy 哭 笑
-0 0 1 11 12 14 4 5 6 6 7 8 9 9 Jialu Jialu 哭 哭 哭 哭
-12 12 14 2 Charlie Charlie 哭
-13 2 2 6 7 Charlie
-1 11 2 3 4 8 Jialu
-0 11 12 13 14 2 2 2 2 3 3 3 3 3 7 8 8 Charlie 笑 笑
-1 11 11 14 4 5 6 7 7 9 哭 笑 笑 笑
-1 1 11 13 14 14 3 3 4 5 6 Charlie Charlie Jialu Jialu Tracy 哭 哭 哭 笑
-12 2 2 5 8 Charlie Tracy 哭 笑
-11 13 6 6 7 笑
-13 2 3 哭 笑
-0 1 10 10 13 13 2 3 5 6 Charlie Jialu Jialu Tracy 哭
-0 1 1 10 10 11 12 13 3 3 4 5 5 5 6 9 Charlie Jialu Jialu Tracy
-10 11 12 12 13 2 2 2 3 3 4 6 8 Charlie Jialu 哭 笑
-0 0 10 12 13 3 3 4 5 5 7 8 8 9 9 Jialu Jialu
-11 12 12 14 3 Charlie
-0 1 1 11 3 3 5 7 8 8 8 9 Jialu 哭 笑
-0 1 1 10 10 11 11 13 14 3 3 5 9 Charlie Charlie Jialu Tracy 哭 哭 哭
-0 1 1 11 12 2 5 5 6 8 8 9 9 9 Jialu Tracy Tracy
-10 11 12 13 13 3 3 5 6 6 6 7 笑
-1 1 12 13 4 7 哭
-0 1 10 12 13 14 14 3 3 4 9 Charlie Charlie Tracy Tracy 哭 笑
-0 1 10 13 14 Charlie 哭 哭
+13 9 Charlie Tracy 哭
+0 1 13 4 6
+0 10 2 8 9
+0 10 10 11 12 12 2 2 4 8 8 Charlie Jialu 笑
+2 3 6 9 Charlie Tracy
+1 11 12 12 2 7 7 8 Jialu Tracy
+0 0 13 3 5 笑
+0 10 14 2 3 4 7 7 9 Charlie 哭 笑
+0 3 3 3 9 Tracy
+10 11 13 13 4 5 6 9 Jialu
+0 1 11 14 2 5 6 8 8 8 9 9 Charlie Tracy 哭 哭
+11 12 13 13 2 3 6 8 9 9 Jialu Jialu 哭 笑
+13 6 8 8 Charlie Jialu Tracy 哭
+0 1 2 4 5 6 7 7 Jialu Jialu Jialu 笑
+10 10 2 6 6 9 9 Charlie Tracy 笑
+0 12 12 13 3 4 5 7 9 Charlie
+0 10 10 12 14 2 5 6 7 7 8 8 Charlie Tracy 哭 哭 哭 笑 笑
+0 0 12 14 2 3 6 Charlie 笑
+10 10 11 2 4 4 7 Charlie Jialu Jialu Tracy
+1 10 11 13 13 2 3 3 7 8 9 9 Charlie Charlie Jialu Tracy Tracy
+10 11 12 2 2 4 4 5 5 6 6 9 Charlie 笑
+0 1 12 13 2 2 2 3 6 6 8 8 Charlie 笑
+0 10 12 12 13 13 2 5 7 Charlie Charlie Jialu Tracy
+0 13 2 3 4 4 7 9 9
+1 1 10 12 14 2 5 5 6 7 Tracy 笑
+1 13 14 4 4 6 Jialu Tracy
+1 13 13 14 3 4 7
+1 1 11 12 14 2 5 5 Jialu Jialu Tracy 笑
+0 1 1 10 12 13 13 2 3 3 4 4 Charlie Jialu Jialu 笑
+0 0 1 10 10 10 14 14 2 5 5 6 8 9 9 Charlie Tracy 哭 笑
+0 0 0 0 10 10 14 4 6 7 哭 笑
+0 10 14 7 9 Charlie 笑
+0 0 10 10 11 11 13 14 2 3 5 5 5 6 6 7 9 Charlie Jialu
+0 0 1 10 12 3 4 4 5 6 7 7 9 Jialu 哭
+0 1 12 12 13 2 2 3 5 8 Tracy Tracy Tracy
+0 0 11 12 12 13 14 2
+0 0 1 1 1 14 14 3 4 4 5 8 Charlie Jialu Tracy
+1 10 11 14 4 5 5 8 Charlie Jialu Jialu Tracy 哭
+0 10 11 12 12 8 9
+0 11 11 11 3 5 7 7 Charlie Jialu Jialu Jialu Tracy
+0 11 14 3 3 8
+0 0 1 1 10 10 12 12 13 13 4 6 Tracy Tracy 笑
+0 10 11 11 13 2 3 4 5 6 6 7 哭 笑
+11 12 13 13 5 5 Tracy 哭 笑
+13 3 4 6 7 Tracy 哭
+10 10 4 4 4 7 Jialu 哭 哭
+10 13 2 6 Charlie Tracy 哭 哭 笑
+0 0 0 1 1 10 10 12 2 3 4 8 8 9 Charlie Tracy Tracy 哭 笑
+0 1 10 10 11 11 13 4 哭 笑 笑
+11 14 5 6 Tracy 哭
+0 0 11 11 12 2 3 4 4 5 9 9 Charlie Charlie Tracy 笑
+11 13 13 2 4 4 6 6 6 6 9 Charlie Charlie 哭 笑
+0 10 12 13 3 3 6 7 Charlie
+1 10 10 11 14 2 4 5 7 9 Charlie Jialu 哭 笑
+0 0 1 3 9
+0 1 11 12 12 13 2 3 5 6 7 8 9 Charlie Tracy
+0 1 10 10 10 10 12 12 13 14 14 6 8 8 9 9 Tracy Tracy 笑 笑
+13 14 4 6 7 9 9 Tracy Tracy 哭
+14 5 Tracy Tracy Tracy 哭 哭
+0 1 2 2 3 3 4 4 6 7 Jialu
+1 1 10 13 5 Jialu 笑
+11 12 13 14 3 4 4 4 5 5 6 8 Charlie 哭 笑 笑
+1 10 13 13 14 3 3 3 4 4 4 4 5 9 Charlie 笑 笑
+11 12 3 7 8 Charlie Charlie Charlie Jialu Tracy 哭 笑 笑
+10 12 2 5 6 Charlie Tracy 笑
+10 2 4 4 4 5 5 9 9 Charlie Charlie Tracy 哭 笑
+0 11 11 2 3 5 6 7 7 Jialu Jialu Tracy 哭 哭
+10 11 12 12 14 3 3 4 4 4 6 6 8 9 9 Charlie Jialu 哭
+1 12 12 12 4 5 9 Tracy
+0 10 5 哭 笑 笑
+1 10 13 2 7 7 Jialu
+1 10 11 12 13 14 3 3 6 7 9 Charlie Jialu Jialu Tracy 哭 笑
+0 0 10 10 12 13 14 2 5 5 6 7 Charlie 哭 哭
+10 11 13 2 2 2 3 6 8 8 8 9 Charlie Jialu Tracy Tracy 哭 笑
+0 1 10 11 11 12 13 14 14 2 2 3 5 6 8 9 9 Charlie Tracy
+0 10 10 11 13 13 14 3 4 9 9 Charlie Tracy Tracy 哭 哭
+1 14 14 5 6 6 7 8 9 Charlie Charlie Jialu
+0 0 1 12 13 2 4 4 5 6 7 9 Charlie Tracy Tracy 哭
+0 1 10 3 5 6 7 7 8 9 哭 哭 笑 笑 笑 笑
+0 0 11 12 13 14 5 8 笑
+10 3 3 4 4 Jialu
+0 11 6 7 9
+0 1 12 3 3 7 8 8 哭 哭 笑 笑
+1 10 12 13 14 2 2 3 5 8 8 8 9 Jialu Tracy 哭 哭 哭
+11 12 14 14 2 3 4 5 7 Charlie Charlie
+12 12 12 2 3 4 5 7 8 8 Tracy
+1 1 10 13 14 14 2 5 7 7 8 Charlie Charlie Jialu 哭 笑 笑
+0 1 10 11 12 12 14 2 2 2 5 8 Charlie Jialu Tracy
+0 1 10 13 14 4 6 7 7 Charlie 哭 哭
+0 1 10 11 13 14 2 7 9 哭 笑 笑
+1 10 10 10 11 13 13 4 5 6 8 8 8 9 Jialu Jialu 哭 笑 笑
+0 10 13 2 2 3 3 8 Jialu Jialu
+0 2 4 5 Tracy 笑 笑
+1 11 14 2 8 8 Jialu 哭
+10 11 11 12 3 3 4 5 6 7 7 8 Charlie Charlie Tracy Tracy 笑
+0 0 0 1 11 11 12 13 14 2 3 6 6 9 Charlie 哭 笑 笑
+11 13 2 3 7 7 7 8 8 8 Charlie Charlie Jialu Tracy 哭 笑
+0 0 1 11 2 2 2 3 3 4 4 6 7 9 Jialu Tracy
+0 1 10 13 14 2 3 6 9 哭
+0 1 11 12 8 Jialu 笑
+1 1 1 10 10 10 11 14 14 2 4 4 4 4 7 7 7 Jialu 笑
+0 1 10 11 12 12 13 14 14 2 3 3 4 4 5 6 8 Charlie Jialu 哭
+0 10 4 6 Jialu
+1 1 11 12 12 5 5 5 5 Jialu Jialu
+1 10 10 11 4 5 5 5 7 7 Jialu Tracy Tracy 笑
+12 2 7 9 Charlie
+0 10 10 11 11 13 4 6 9 9 Charlie Jialu Jialu Jialu 哭 哭
+0 1 1 1 13 2 2 3 8 8 9 Tracy 哭
+0 10 10 11 13 14 14 2 5 Jialu
+1 1 14 3 3 5 6 Jialu 哭
+0 11 11 2 8 9 9 Charlie Tracy 笑
+10 2 4 9 Jialu 哭
+11 13 13 4 6 6 9 Charlie Tracy 哭
+1 11 12 14 2 4 7 8 8 9 Jialu Tracy 哭 哭
+0 1 11 11 14 14 3 6 8 Charlie Charlie Jialu
+0 10 14 2 2 3 6 7 8 9 9 Charlie Tracy
+0 1 10 12 5 5 哭 笑
+12 14 2 6 7 7
+0 11 14 2 3 9
+0 0 12 4 5 6 7 8 8 9 Charlie 哭 笑
+1 10 11 11 11 13 4 5 7 Jialu Jialu Tracy Tracy Tracy 哭 哭 笑 笑
+1 13 14 8 Charlie Tracy Tracy 哭 笑
+10 10 14 14 4 8 Jialu
+10 10 10 13 13 4 5 5 6 7 8 9 Charlie Charlie Jialu 哭
+14 14 9 9 9 Charlie Tracy
+0 0 0 1 10 10 12 14 4 4 5 6 8 8 9 Charlie Jialu Tracy Tracy
+2 2 5 哭 笑 笑 笑 笑 笑
+0 0 1 1 11 12 14 2 2 5 7 8 9 Charlie Charlie Jialu Jialu Tracy
+0 1 12 13 13 14 5 6 Tracy 哭 哭 笑 笑
+0 0 1 1 1 1 1 10 11 11 12 3 8 Charlie Charlie Charlie Tracy 哭 哭 笑
+0 1 1 11 12 13 3 4 7 7 7 8 8 9 Charlie Jialu 哭 笑 笑
+1 10 11 14 3 4 4 4 5 5 6 6 Charlie Charlie Jialu
+10 11 13 13 2 3 4 5 6 7 Charlie Jialu Tracy 笑
+1 1 10 10 12 13 3 5 6 9 Tracy 哭 笑
+10 10 12 13 14 14 2 5 5 5 7 Charlie 哭 哭 笑 笑 笑 笑
+11 12 3 6 6
+0 0 11 11 14 3 4 6 7 8 9 Tracy
+10 11 11 14 4 5 7 7 8 8 9 9 Charlie Jialu Tracy Tracy Tracy 哭
+12 2 Charlie Jialu 笑
+10 11 13 13 14 2 3 4 Charlie Jialu Jialu Tracy Tracy 哭
+0 0 1 10 10 11 14 3 5 5 5 7 8 8 9 Charlie Charlie Jialu 哭
+1 11 12 14 5 6 7 9
+0 4 5 Jialu 哭 笑
+1 1 10 12 12 13 13 13 14 4 4 5 5 6 8 9 Tracy 哭 笑
+1 11 13 14 14 2 7 7 9 Tracy 哭
+0 0 10 13 14 5 6 6 Charlie 哭 哭 笑
+1 10 7 7 Charlie 哭
+10 14 3 3 4 4
+10 11 12 12 12 14 2 2 2 3 4 6 6 7 8 8 8 哭 哭
+10 10 3 5 Tracy 笑
+1 11 3 3 4 5 5 6 7 Charlie Jialu 哭 笑
+12 2 3 4 8 8
+12 12 13 14 14 7 7 8 8 8 9 9 Charlie Jialu Tracy Tracy Tracy 哭
+14 7 7 8 8 Jialu Tracy 哭
+0 10 10 11 11 12 13 13 2 3 4 6 6 6 6 9 Charlie Charlie Jialu Tracy
+0 1 11 13 14 3 3 6 7 8 Jialu Jialu Jialu 哭 哭
+1 10 12 12 13 5 5 8 8 9 9 9 Tracy
+10 2 6 7 7 9 Jialu
+10 11 11 14 14 2 7 9 9 9 Tracy
+0 1 12 3 3 Charlie Jialu Tracy
+10 11 14 14 4 8
+10 11 13 13 4 4 6 7 8 8 8 Tracy Tracy 笑 笑
+3 6 8 9 Jialu Jialu
+10 10 11 12 14 3 4 5 5 5 6 7 7 9 Charlie Jialu Tracy 哭 笑
+10 10 11 4 8 9 9 9 Charlie Charlie
+0 0 1 12 12 12 13 14 3 4 4 8 9 9 Charlie Charlie Tracy 笑
+1 14 14 3 7 8
+0 1 13 2 3 3 3 5 6 7 7 8 Charlie Jialu 哭 笑 笑
+0 0 1 12 2 2 4 7 Charlie Charlie Jialu Jialu Tracy 哭 哭 哭 哭
+0 10 13 3 3 Charlie Charlie 哭 笑
+14 14 2 5 7 Tracy
+0 1 11 12 2 3 4 7 7 7 9 9 9 Jialu Jialu Jialu Jialu 笑
+10 11 5 9 哭
+0 0 0 1 12 12 14 14 2 4 7 9 Charlie Jialu 哭 笑
+0 0 0 0 1 10 12 13 14 2 6 8 9 Charlie Charlie Jialu
+1 13 14 2 3 4 8 9 9 Tracy 哭
+0 10 10 12 5 6 6 8 8 Charlie Charlie 笑 笑
+0 1 10 12 2 2 7 7 8 8 8 9 Charlie Jialu 哭
+1 1 1 11 11 12 13 14 2 2 5 7 8 Charlie Charlie Tracy 笑
+10 11 14 2 3 6 9 Jialu Jialu Tracy Tracy 笑
+1 10 12 13 13 2 2 5 7 7 8 Jialu Tracy 笑
+0 1 10 12 2 3 5 6 6 7
+1 10 13 5 6 6 7 7 7 8 8 8 9 Jialu
+0 0 1 10 13 4 5 6 7 8 Charlie Tracy 哭 哭 笑
+0 0 0 1 14 3 5 6 8 8
+11 12 2 8 Charlie Charlie Tracy
+0 0 1 1 11 12 14 2 3 4 6 6 8 8 9 笑
+3 6 7 9 Charlie 笑
+0 11 14 2 4 4 5 6 哭 笑
+0 0 1 11 12 13 13 14 2 4 7 Tracy 哭 笑
+13 13 2 3 4 5 5 5 6 7 7 8 9
+10 11 12 12 14 4 6 8 8 哭
+10 13 13 2 3 3 5 7 9 Charlie Jialu 哭 哭 哭 笑
+11 12 14 2 3 3 3 3 4 4 7 8 8 8 8 9 Jialu Jialu 笑
+3 5 9 Charlie Charlie Jialu Jialu 笑 笑
+0 0 1 1 10 11 11 13 2 3 4 6 6 7 7 9 Charlie Charlie Jialu 哭
+0 0 0 1 3 4 8 8 Charlie Tracy 哭
+0 0 1 10 11 13 13 14 2 2 3 4 4 4 6 9 9 Charlie Jialu
+1 11 12 12 13 13 13 14 14 4 5 5 6 7 7 笑 笑
+0 11 13 14 9 Charlie Tracy Tracy
+14 6 7 7 Tracy
+0 1 10 13 13 14 14 2 3 6 6 7 Jialu Jialu Jialu 哭 笑 笑
+0 0 3 3 9 哭 笑
+0 1 12 13 14 2 5 5 6 7 7 8 Tracy Tracy 哭 哭
+0 1 12 2 3 6 6 8 8 8 9 9 Jialu 哭
+0 10 10 11 12 13 14 2 2 4 4 7 7 8 8 Jialu 哭
+0 1 1 1 13 14 14 2 4 4 6 6 7 7 Charlie Tracy 哭 笑 笑
+0 10 10 14 4 4 5 5 6 7 哭
+1 1 10 12 12 13 13 13 14 3 4 5 5 6 6 7 9 9 Charlie Jialu
+11 11 14 14 2 2 9 9 Charlie Charlie Jialu Tracy 哭 笑 笑 笑
+0 10 13 5 6 7 8 9 Tracy Tracy Tracy 哭
+1 10 11 13 13 13 13 14 2 3 5 8 9 Charlie 笑 笑 笑
+0 11 13 6 6 9 Charlie
+14 14 2 2 Tracy
+0 0 0 10 10 12 4 6 7 7 9 哭 笑
+11 12 12 13 4 Jialu Tracy 哭
+2 5 6 Charlie Jialu Tracy 哭
+0 0 10 11 13 14 14 2 3 4 9 9 Charlie Jialu 哭 笑
+11 2 4 5 6 6 6 6 6 7 8 8 8 Jialu Tracy Tracy 哭 哭 笑
+0 10 11 12 12 13 13 13 2 2 3 4 6 6 6 7 8 9 Tracy 哭
+0 1 10 11 14 4 4 5 5 6 8 Charlie Jialu Jialu Jialu Tracy 笑
 10 12 7 Jialu 哭
-1 1 11 12 12 14 3 3 4 7 9 哭
-0 11 13 13 6 Jialu
-1 10 11 12 12 13 14 2 2 3 5 7 8 Charlie Jialu Jialu Tracy Tracy 哭 笑
-1 11 12 14 2 3 4 5 6 6 8 8 Charlie Charlie Jialu Jialu Tracy 哭 笑
-0 0 10 10 12 12 14 4 4 6 8 9 9 Jialu 哭 哭 笑
-10 10 13 14 2 5 9 9 哭 哭
-10 11 11 2 3 5 Jialu Tracy
-1 13 2 3 4 5 Charlie Jialu 哭
-10 12 12 12 12 14 4 5 5 6 7 Jialu Tracy
-1 10 10 11 12 13 13 13 2 4 5 8 9 9 Tracy Tracy 哭 哭
-10 11 12 12 13 13 13 14 2 2 3 5 5 5 8 8 Charlie 笑 笑 笑
-0 11 12 4 7 哭
-0 11 12 13 14 3 5 6 Charlie Jialu 笑
-1 11 4 7 Charlie Jialu
-1 10 10 11 14 2 4 Charlie Tracy
-10 12 14 2 2 3 3 7 Jialu Jialu 笑
-0 11 13 14 3 4 5 6 7 9 Jialu Jialu Jialu Tracy 笑
-0 0 10 12 14 14 2 3 5 8 Charlie Charlie Jialu
-10 10 11 12 13 13 14 14 2 4 6 6 8 8 8 Charlie Jialu
-1 1 13 4 6 8 Jialu Jialu
-11 11 12 13 2 3 5 6 6 6 7 7 9 Charlie Jialu Tracy Tracy Tracy Tracy 哭
-1 5 8 9 Charlie Charlie Jialu Tracy 哭
-1 10 10 11 12 14 4 6 6 8 Jialu Jialu Jialu Jialu 哭
-13 14 4 7 7 8
-1 11 13 4 5 6 7 7 8 Charlie Tracy Tracy Tracy Tracy 笑
-10 13 13 14 2 Jialu
-0 0 0 10 11 12 13 14 14 2 5 7 8 9 Charlie Jialu Tracy Tracy
-0 1 10 11 11 14 14 3 5 7 8 8 9 9 Jialu Jialu 哭 笑 笑 笑
-0 10 11 12 13 14 2 3 4 6 9 Jialu 哭 哭 笑 笑 笑
-10 10 11 11 4 4 4 7 7 8 9 9 Charlie Charlie Tracy Tracy 哭
-13 14 3 4 5 6 6 7 7 8 8 9 9 Charlie Tracy Tracy Tracy 笑
-11 12 3 4 6 9 Charlie 哭 笑
-10 10 11 12 12 13 13 14 14 2 3 4 5 6 7 7 9
-10 12 14 14 2 3 4 5 5 6 8 9 9 Charlie Tracy 哭 哭
-11 12 2 4 6 7 8 8 8 9 Charlie Jialu 笑
-0 0 1 10 11 12 2 2 3 4 6 7 Charlie 哭 笑 笑
-11 12 13 13 5 5 6 9 Jialu Jialu Jialu 哭 笑
-0 0 0 1 11 12 2 2 3 3 3 5 8 Jialu Tracy 笑 笑
-1 10 11 11 14 3 4 4 6 Jialu Tracy
-1 10 2 4 5 6 7 8 Jialu 哭 笑
-0 10 14 14 2 3 4 5 7 9 Charlie Jialu Jialu Tracy 哭 笑
-0 11 13 14 14 14 2 5 5 7 7 Charlie Charlie Charlie Charlie Tracy 哭 哭
-0 0 1 10 11 3 4 5 6 7 8 8 8 9 Charlie Jialu Tracy 笑 笑 笑
-0 10 10 12 12 13 14 14 14 4 6 7 7 8 8 Charlie Jialu 哭 笑
-0 1 11 11 11 11 12 13 13 14 4 5 9 Charlie 哭
-0 3 4 5 6 Charlie Jialu 哭
-0 0 12 13 2 2 2 5 6 7 8 Charlie Charlie Jialu 哭 哭 哭 哭 笑
-1 1 10 10 10 11 13 13 3 5 7 8 Charlie 笑
-11 12 12 14 2 2 4 5 8 8 Charlie Jialu Jialu 哭 哭 哭 笑 笑
-1 1 12 13 2 2 3 3 6 6 8 9 9 哭
-10 10 5 5 Charlie
-1 1 1 11 14 2 3 4 5 8 Jialu Jialu
-10 11 13 14 2 2 3 3 5 6 8 8 9 哭 笑
-11 12 13 4 7 7 8 Charlie
-0 1 11 13 5 7 8 Jialu Tracy Tracy 哭 哭
-11 13 13 2 3 3 7 8 9 9 Charlie Jialu Jialu Tracy 笑
-0 10 11 14 14 2 2 2 4 5 7 Jialu Tracy Tracy 哭
-13 4 4 4 5 5 5 6 7 7 8 8 Tracy 笑
-1 10 10 12 13 14 2 2 3 4 8 Charlie Jialu Jialu 笑 笑
-1 12 7 7 哭 哭
-0 0 1 10 12 13 13 13 2 3 7 8 9 Charlie Jialu Tracy Tracy 哭 笑 笑
-3 5 8 Tracy 笑
-0 1 1 10 10 11 11 12 12 14 2 7 7 7 8 8 Charlie Tracy
-1 10 11 12 13 3 3 6 7 8 9 9 Charlie Jialu 哭 哭 笑
-10 12 14 2 7 8 8
-0 0 11 13 2 3 5
-10 11 14 3 5 Charlie Jialu Tracy 哭 哭
-11 12 13 2 3 3 3 4 6 6 9 9 Jialu Jialu Tracy Tracy Tracy Tracy Tracy
-0 0 1 11 14 14 3 7 7 7 8 8 9 Jialu Tracy
-10 11 11 12 13 14 5 5 6 6 6 6 8 9 Charlie Jialu 哭 哭 笑 笑
-12 14 14 2 3 4 4 5 6 6 7 9 Jialu Jialu Tracy
-0 12 14 14 14 2 4 5 6 8 9 9 Charlie Jialu Jialu 笑 笑 笑
-0 10 14 14 14 2 3 6 9 Charlie Charlie Jialu Tracy 哭 哭 笑
-1 13 13 2 4 7
-10 11 13 2 3 4 5 5 9 Jialu Tracy Tracy 哭 哭 哭 笑 笑
-0 1 1 10 14 14 2 3 5 6 6 7 7 8 9 Tracy Tracy Tracy 哭
-0 0 10 11 11 12 13 14 8 8 8 9 9 Charlie Charlie Jialu Jialu 哭 笑
-10 6 8 9 Charlie Charlie
-1 11 12 13 2 3 4 6 6 Charlie Tracy
-1 12 13 2 2 3 3 5 5 5 5 6 8 9 9 9 9 Jialu Jialu 哭
-0 2 3 3 5 8 笑
-14 4 5 9 Tracy 笑
-11 11 12 12 13 13 3 4 5 8 Jialu Jialu 哭 笑
-1 10 10 3 5 8
-1 5 9 Jialu Jialu
-0 11 12 13 14 2 2 3 6 9 9 Jialu Tracy Tracy Tracy 笑 笑
-11 12 12 2 3 3 Charlie Jialu Tracy 哭 笑 笑
-10 2 2 6 9 Jialu Jialu
-1 2 4 5 Charlie Jialu
-10 12 12 2 6 7 9 Charlie Tracy
-0 1 12 13 13 2 4 7 8 Charlie Tracy 哭
-1 12 13 14 6 8 Charlie Charlie
-11 11 12 13 13 13 13 13 14 14 3 4 5 Charlie Tracy Tracy Tracy 哭
-0 1 1 14 14 3 5 5 5 6 7 7 8 9 Charlie Charlie Jialu Tracy Tracy 哭
-1 13 14 4 6 Jialu Tracy 笑
-0 1 1 12 4 5 9 Tracy 哭
-0 0 1 11 12 13 14 14 14 5 6 8 8 8 8 8 Jialu Tracy Tracy 笑
-0 0 0 10 11 11 12 13 2 3 9 Charlie
-0 0 10 10 11 14 14 2 3 5 6 6 6 8 Charlie Charlie Jialu Jialu 笑 笑
-0 10 14 2 9 Charlie Jialu
-1 14 14 5 5 6 8 Jialu
-0 0 1 1 1 11 13 14 2 5 5 6 6 9 哭 笑 笑
-11 13 14 2 2 2 3 3 3 7 7 7 Charlie Jialu 笑
-0 12 2 3 4 5 Charlie Charlie Tracy Tracy 笑
-0 10 6 7 8 8
-0 1 10 11 11 12 13 14 3 4 5 6 6 6 8 9 Jialu Tracy 哭 笑
-11 13 14 2 6 8 8 8 8
-12 12 12 2 3 3 3 3 4 4 5 7 8 9 Jialu Tracy
-0 0 1 10 13 14 Jialu Tracy 笑
-10 11 12 14 14 2 3 6 7 7 8 9 Tracy 笑 笑
-14 2 2 3 9
-11 11 13 14 4 6 8
-1 1 10 13 14 14 3 6 6 6 8 9 Charlie Jialu 哭
-0 11 11 11 12 13 3 3 5 6 8 8 Jialu Jialu 哭 哭 笑 笑 笑
-1 10 10 13 3 3 5 6 7 7 8 Charlie Jialu Tracy 笑 笑 笑
-0 11 11 14 14 2 Tracy Tracy
-11 11 11 12 13 2 3 3 4 5 5 5 7 8 Tracy Tracy 笑
-10 12 2 2 5 Jialu 笑 笑
-0 0 1 12 13 13 14 2 3 5 7 9 Jialu Jialu Tracy 笑
-0 10 2 2 3 4 5 9 Jialu 哭 笑
-1 13 14 14 Tracy
-1 13 14 5 9
-0 0 1 10 12 12 13 14 2 3 3 7 8 Charlie Charlie Jialu Tracy Tracy
-0 10 11 12 12 14 3 3 5 Jialu 哭
-0 12 12 2 5 7 7 7 9 Jialu Tracy 哭
-0 12 4 6 Charlie
-11 11 12 14 14 3 6 9 Charlie Tracy
-0 1 1 10 13 2 3 3 6 8 9 9 9 9 Charlie Jialu Tracy 哭 哭
-0 10 14 3 4 9 哭
-11 13 2 2 3 4 8 9 哭
-12 14 8 哭 哭
-0 1 12 12 12 2 3 5 6 6 6 6 8 9 Jialu Tracy Tracy 笑
-2 2 3 3 8 9 Charlie Charlie Charlie Jialu
-10 10 11 13 7 9 9 哭
-11 14 14 2 4 6 Tracy
-1 12 12 3 3 3 3 5 6 7 8 9 Charlie Charlie Jialu Jialu Jialu Tracy 哭
-0 0 12 3 5 5 6 7 7 7 8 9 9 9 9 Jialu Tracy 哭 哭 哭
-11 2 3 3 6 8 Jialu
-0 0 3 5 6 Charlie 笑
-10 12 3 4 Charlie Charlie Charlie Jialu 笑
-10 14 2 3 6 8 9 9 Charlie
-0 1 2 4 5 9 Jialu Tracy Tracy
-0 10 11 12 13 14 2 3 4 7 9 9 9 9 Charlie Jialu 哭
-11 3 6 8 Jialu 哭
-0 1 5 6 6 6 9 Charlie 笑
-0 0 0 10 10 11 12 13 13 4 6 8
-0 10 10 4 5 5 7 7 8 8 Tracy 笑
-1 11 13 13 2 9 Jialu Tracy Tracy
-0 11 3 9 Charlie Tracy 哭
-0 1 11 12 14 14 2 2 5 7 8 9 9 9 Jialu Tracy 哭 哭 哭 笑
-0 0 1 14 3 3 6 8
-3 5 6 7 7 8 9 Tracy 笑 笑
-0 0 10 11 11 2 2 3 3 5 5 5 7 8 Charlie 哭
-1 1 11 12 12 13 14 14 2 2 3 3 4 4 Jialu Tracy 哭
-1 1 10 11 12 13 3 4 5 8 Charlie Charlie Jialu 笑 笑
-14 3 3 3 8
-0 0 0 1 10 10 11 12 12 14 3 4 4 4 4 5 5 7 Jialu Tracy
-10 10 11 12 13 2 3 4 5 6 9 Charlie Tracy 哭 笑
-0 12 12 2 3 6 6 8 8 9 Tracy 哭 笑
-0 13 14 6 7 7 8 9 9 9 Charlie 哭 哭
-11 2 5 7 Jialu 哭 笑
-0 4 4 7 Tracy Tracy
-1 11 4 5 9 Charlie
-0 11 13 2 5 6 6 Charlie Charlie Tracy 哭 哭 笑
-0 10 10 11 13 13 14 2 3 6 8 9 9 Tracy
-0 2 6 7 7 8 Charlie Charlie
-10 12 13 13 14 14 4 5 Jialu Jialu Tracy 哭
-0 10 12 14 2 3 3 3 4 5 5 6 8 9 Jialu Tracy 哭 笑
-0 0 1 1 1 11 11 2 3 6 6 7 7 9 Jialu Tracy 哭
-1 14 3 4 7 哭 笑
-12 14 4 7 7 9 9 哭 哭 笑
-1 1 10 11 11 12 13 14 14 2 2 3 3 3 5 5 6 Tracy 哭
-0 0 1 10 10 10 2 3 3 3 4 5 7 8 8 Charlie Jialu 笑
-12 14 4 8 Charlie Jialu 哭
-1 10 12 14 14 4 4 7 8 Charlie Jialu Tracy
-0 10 12 13 14 2 2 4 4 5 6 Jialu Tracy Tracy 哭 笑
-10 10 13 6 7 9 Charlie Jialu Tracy
-0 0 1 12 12 13 13 14 2 2 2 8 9 9 9 Charlie Charlie Jialu Tracy
-0 10 11 14 9
-0 0 0 1 1 10 10 10 11 13 4 6 6 9 Tracy 哭 笑
-11 5 8 Charlie Charlie Tracy
-1 10 11 13 13 14 14 4 4 4 6 8 8 8 9 9 9 Charlie Tracy
-0 0 10 2 3 3 7 Jialu 笑
-11 14 4 6 7 7 8 8 9 Tracy Tracy 笑
-0 0 11 12 3 3 4 Charlie Tracy 哭 哭 笑 笑 笑
-1 14 2 2 3 6 8 笑
-11 11 14 2 2 2 5 7 7 8 8 8 Charlie Jialu 笑
-1 10 10 11 12 13 3 3 3 4 8 8 Charlie Jialu Tracy 哭 哭
-1 11 12 4 7
-0 10 11 11 12 13 14 2 2 5 6 9 Tracy Tracy 哭 哭 笑
-0 1 10 12 13 3 4 6 7 7 7 7 8 8 9 Tracy 哭
-1 1 1 13 14 2 3 8 8 Tracy Tracy 笑
-12 14 4 5 Tracy Tracy Tracy 笑
-0 2 4 7 9 Charlie Tracy 笑
-2 4 5 7 哭
-12 12 12 14 2
-0 10 13 13 14 5 6 8 9 Charlie Jialu Jialu 哭 笑 笑
-0 1 1 1 1 11 11 12 12 14 2 3 3 5 9 9 Charlie Charlie 哭
-0 0 1 10 10 11 11 12 4 6 6 8 Jialu Jialu Tracy 哭 哭
-2 3 5 7 8 9 哭 笑
-0 1 1 2 2 4 6 6 7 Charlie Tracy 笑 笑 笑
-0 11 11 12 13 3 5 6 6 Charlie Jialu 哭
-13 3 5 8 哭
-0 2 3 3 4 5 6 9 Jialu 笑 笑
-1 1 10 13 13 14 2 3 4 6 6 8 9 Jialu 哭 哭
-0 0 0 10 10 10 10 11 12 14 3 3 4 5 7 Jialu 笑
-11 13 7 8 笑
-0 11 14 3 4 4 6 Jialu
-14 2 5 6 7 7 9 哭 笑
-10 10 12 12 2 2 3 5 5 8 9 Charlie Charlie Jialu Tracy Tracy 哭
-1 11 2 3 3 7 8 8 9 9 Jialu Tracy
-0 10 13 3 3 4 4 5 Jialu 哭 哭 笑 笑
-0 10 14 14 4 5 8 笑
-10 11 11 2 4 5 7 Jialu Jialu 哭
-1 10 2 4 7 8 8 Charlie
-10 10 11 12 12 12 13 2 3 4 6 7 8 9 Charlie Jialu Tracy
-10 12 3 4 5 8 Charlie Jialu 笑
-0 0 0 10 11 12 12 13 13 14 3 3 3 4 5 6 6 Charlie Tracy Tracy
-0 11 13 13 14 2 3 5 5 6 6 8 Charlie Charlie Charlie Jialu Tracy Tracy 笑 笑
-0 0 10 11 12 12 14 2 2 2 3 4 6 6 7 7 9 Charlie 笑
-0 10 13 14 5 6 8 Tracy Tracy 哭 笑
-0 1 11 12 5 8 8 9
-1 1 10 10 13 2 2 3 5 8 Tracy 笑
-10 14 2 2 2 2 3 6 7 8 Charlie 笑
-10 10 10 10 11 13 14 3 6 7 Charlie Tracy Tracy Tracy 哭 笑
-0 0 0 1 10 11 11 12 13 2 3 3 8 8 9 Tracy Tracy 哭
-0 0 1 1 11 3 4 6 8 8 笑
-1 1 11 11 13 2 8 哭
-0 1 11 12 14 5 6 7 9 Charlie Charlie Charlie Jialu Jialu Tracy 哭 哭 笑
-1 12 14 14 6 7
-14 3 5 8 Charlie Tracy
-1 11 13 13 5 7 Jialu Jialu Tracy 笑
-0 11 4 6 Charlie Charlie Jialu
-1 13 13 9 9 Charlie Jialu 哭 笑 笑 笑
+0 1 10 13 14 3 3 6 7 7 8 Charlie Charlie 哭
+11 3 6 7 9
+12 14 3 6 7 9 Charlie Charlie Charlie Tracy Tracy 笑
+3 7 8 Jialu Jialu
+2 2 3 7 9 Charlie Jialu Jialu Tracy Tracy
+0 0 1 1 1 11 12 14 2 3 6 7 8 9 Charlie
+1 1 10 11 12 12 14 14 2 3 3 4 6 8 9 9 Charlie Charlie 笑
+0 10 11 11 12 13 14 14 14 4 6 6 8 Charlie Jialu Tracy Tracy 笑 笑 笑
+2 8 8 Charlie Charlie Tracy
+0 1 1 11 11 12 13 14 5 6 Charlie Charlie
+11 13 2 2 2 2 3 4 6 8 8 8 Jialu Tracy
+10 3 3 7 哭
+0 0 0 0 1 10 12 14 3 4 6 6 8 Tracy Tracy 哭 哭 笑 笑 笑
+0 0 1 10 11 2 3 4 5 5 6 7 7 7 7 8 Tracy Tracy Tracy 哭
+0 14 3 6 6 7 7 8 9 Jialu 哭 笑
+1 10 11 14 2 4 8 8 8 哭 笑
+12 12 12 2 3 3 7 7 8 9 9 9 Charlie 笑 笑
+11 12 3 6 7 9 Charlie Jialu Tracy 哭 笑 笑
+0 0 1 11 12 12 13 14 3 6 7 8 8 9 9 Charlie Charlie Jialu Tracy Tracy
+10 3 3 6 8 9 Charlie Charlie Charlie Charlie Jialu Jialu Jialu Jialu Tracy Tracy 笑 笑
+12 13 14 3 6 7 7 8 8 8
+1 12 4 5 8 9 9 9 Jialu Tracy 哭
+0 1 10 10 11 14 14 2 2 4 5 5 6 9 9 Tracy 哭 笑
+0 1 12 4 4 6 7 8 8 9 9 9 9 9 Tracy 笑
+11 12 13 6 7 Tracy 笑 笑
+10 3 7 笑 笑
+1 10 12 2 2 2 3 5 5 7 7 Charlie Charlie 哭
+0 1 11 3 4 7 8
+10 10 13 14 7 9 9 9 9 Charlie Charlie Jialu 笑
+10 2 6 Jialu Jialu 哭
+10 12 13 2 3 7 7 7 9 Jialu 笑 笑
+0 0 10 13 14 14 2 3 7 9 9 Jialu Tracy
+0 0 11 13 13 13 14 2 3 5 5 6 6 9 Jialu 哭 哭 哭 笑
+11 13 14 14 3 4 4 7 Charlie 哭 哭 哭
+0 0 1 12 14 2 4 4 6 6 7 Charlie Jialu Tracy Tracy
+0 1 10 5 Tracy
+0 11 2 Tracy Tracy 哭 哭
+0 10 14 3 5 6 6 8 9 9 9 Charlie Jialu Tracy Tracy 哭 哭
+0 0 1 10 10 11 11 12 13 14 14 14 2 2 7 哭 哭 哭 笑
+14 4 5 8 9 Charlie Charlie Jialu Tracy Tracy Tracy 哭
+0 10 10 11 12 13 14 14 2 2 5 5 7 8 Charlie Charlie
+10 12 13 14 14 14 2 2 5 6 6 7 Tracy Tracy Tracy 笑 笑
+0 0 13 6 8 8 Charlie Charlie Tracy
+0 0 0 1 12 14 14 4 5 5 6 7 8 9 9 Jialu Jialu Tracy 哭
+1 10 11 13 13 3 6 7 Jialu 哭 笑
+0 1 11 14 7 7 8 9 Charlie Charlie 哭 笑
+11 12 13 13 2 2 9 Charlie
+0 1 10 11 13 2 2 2 2 4 5 6 7 7 9 9 Charlie Jialu Jialu Tracy
+12 3 8 Jialu Jialu 哭 笑
+12 2 5 8 Charlie
+0 0 13 13 14 14 3 3 3 4 5 8 9 9 Jialu Jialu
+10 11 13 5 哭
+0 1 12 2 4 4 6 7 8 9 Charlie Tracy 哭 笑 笑
+1 4 8 Jialu Tracy Tracy
+0 1 11 13 3 4 6 6 7 7 8 Jialu Jialu Jialu
+0 12 5 5 6 7 Charlie Tracy Tracy
+0 11 13 13 3 4 4 5 7
+10 12 14 2 4 5 5 7 7 7 8 9 Jialu Jialu Tracy 哭 笑
+4 4 5 6 Tracy 哭
+1 11 11 13 13 14 14 6 8 Charlie 哭
+1 10 12 2 6 8 8 Charlie Jialu Tracy 哭 哭 笑
+0 10 12 14 3 3 3 7 9 9 9 Tracy 哭 哭
+0 13 14 2 2 3 4 6 8 8 9 Charlie Jialu 哭 哭 笑
+0 11 13 14 2 8 9 哭 笑
+0 11 14 2 2 4 5 5 5 6 6 7 9
+0 0 14 2 4 5 9 哭 笑
+0 0 10 13 5 哭 笑
+0 1 1 10 13 14 3 4 5 6 7 9 9 笑
+1 10 12 12 14 4 6 7 8 Charlie Tracy Tracy
+10 10 11 12 13 14 2 3 4 4 5 6 6 7 9 Charlie Jialu Tracy 笑 笑
+12 7 7 Charlie Tracy 哭
+1 11 12 13 13 2 3 6 8 9 Jialu
+0 0 1 1 3 5 6 8 哭
+1 14 4 6 7
+0 12 13 14 2 4 4 8 8 Tracy Tracy 哭
+10 11 12 3 5 Charlie Charlie Tracy
+10 2 5 哭 哭 笑
+10 11 12 14 14 14 3 4 Tracy Tracy Tracy
+0 0 10 12 12 13 13 4 4 7 7 7 7 Charlie Charlie Jialu 哭 笑
+0 1 1 10 11 14 2 4 6 7 Jialu Tracy
+0 0 11 11 14 2 5 7 8 Charlie Jialu Jialu Jialu Tracy 笑 笑
+1 10 10 12 2 2 2 2 3 3 6 6 7 9 9 9 Charlie 哭
+0 1 11 14 2 2 3 3 5 9 Charlie 哭 笑
+10 11 11 12 14 3 3 4 5 6 8 Charlie Charlie Charlie 哭 哭 笑
+0 11 12 2 3 3 5 5 5 5 7 7 7 Jialu 哭 哭 笑
+0 1 1 10 10 12 12 3 3 5 6 7 8 9 9 Charlie 笑 笑
+1 11 4 6 Jialu
+0 11 12 5 9 Charlie Tracy
+0 10 12 5 6 6 Tracy 哭
+0 12 13 4 6 6 8 Jialu 笑
+10 14 2 2 3 3 4 6 8 8 9 Tracy Tracy
+10 11 12 14 4 4 5 6 9 9 Charlie Jialu 笑
+0 2 4 9 Charlie
+2 2 2 6 9 9 Charlie Jialu 笑
+11 13 13 4 7 9 笑 笑
+1 1 10 10 11 13 13 4 4 5 5 6 8 8 Charlie Jialu 笑
+1 3 5 7 Jialu 哭
+13 13 4 6 7 8 Charlie Charlie
+14 2 8 8 Jialu 哭
+13 13 7 9 Charlie 笑
+11 11 11 12 13 13 14 2 6 8 Charlie Jialu Jialu Jialu 笑
+10 12 12 13 13 14 3 4 7 7 8 9 Charlie Charlie Tracy 哭 哭 哭 笑 笑
+1 11 4 8 9 Jialu Jialu Tracy
+1 1 1 10 11 11 13 14 2 2 6 6 7 8 8 Charlie Charlie Tracy
+10 10 12 14 5 6 Jialu 笑
+1 11 12 12 13 14 2 3 4 7 7 7 8 Charlie Charlie Charlie Jialu Tracy 笑
+10 11 2 3 4 5 6 7 9 9 Charlie Tracy 哭 哭 笑 笑
+1 10 10 11 12 6 6 7 7 7 7 8 8 9 Jialu Tracy Tracy Tracy 哭 哭
+12 12 5 5 Tracy
+0 13 13 13 14 3 3 4 7 7 9 Charlie Charlie 哭
+10 4 5 6 7 哭 哭
+0 1 10 12 12 14 2 6 9 9 Jialu Tracy 笑 笑
+14 3 7 7 Tracy 哭 笑
+1 10 10 11 12 13 13 2 5 7 7 7 9 Charlie Charlie Tracy 笑 笑
+1 1 10 10 13 2 2 2 3 4 5 6 6 7 8 9 Jialu Tracy 哭 笑
+1 14 3 7 9 Tracy
+10 10 12 4 9
+0 0 0 0 1 10 10 10 11 12 13 4 4 5 6 Tracy 笑
+10 11 12 12 13 14 3 3 3 6 6 8 8 8 Charlie Charlie Charlie Jialu Jialu 笑
+0 11 11 12 4 5 5 6 6 6 9 Charlie Charlie Tracy 哭 哭
+12 14 3 8 Jialu Tracy 哭
+0 1 11 12 12 13 13 2 2 3 5 5 9 Charlie Jialu 哭 哭
+1 1 1 10 14 7 Charlie Jialu Jialu Jialu Tracy
+1 10 10 10 12 12 12 13 13 14 14 4 5 5 6 6 7 Tracy 笑
+0 11 12 12 4 4 4 4 5 5 5 Jialu 哭
+10 11 11 12 2 4 4 5 6 Charlie Jialu Tracy 笑
+1 12 14 2 2 3 4 5 Charlie Charlie Jialu 笑
+0 0 12 14 4 6 9 Jialu Tracy Tracy 哭 笑
+12 12 3 5 5 6 8 8 Charlie Jialu Jialu 笑 笑
+0 1 1 11 13 14 14 2 3 3 6 Charlie Charlie Jialu Tracy 哭 笑 笑
+0 10 2 3 8 8 9 Charlie 哭 哭 笑
+10 9 Charlie Charlie Jialu Jialu
+0 1 11 12 3
+11 12 2 7 Charlie 哭
+1 10 10 12 13 2 4 7
+1 1 11 14 2 4 8 8 8 Charlie Charlie Charlie 哭
+0 1 10 10 2 3 7 7 8 8 笑
+0 10 11 11 13 14 2 4 9 Charlie Tracy Tracy 哭 哭
+1 13 14 2 2 5 7 8 Charlie Jialu 笑
+0 1 1 11 13 13 14 14 14 2 3 3 4 5 6 9 Jialu 笑
+0 11 13 14 14 7 8 笑
+10 11 12 13 5 5 7 Jialu Tracy Tracy Tracy
+10 14 3 7 8 8 Charlie Tracy 哭
+1 2 5 5 7 哭
+12 2 6 Jialu Jialu
+0 1 1 10 2 2 3 4 5 5 7 8 8 9 9 Jialu Jialu Jialu 哭 笑
+1 12 12 13 2 2 3 4 7 8 8 笑
+10 2 4 Jialu Tracy
+1 10 10 13 2 3 3 5 哭 哭
+0 1 12 13 2 2 2 6 6 9 9 Charlie Tracy Tracy 哭 哭 笑
+1 10 11 11 11 12 12 12 13 2 2 2 3 3 4 7 Charlie 哭 哭
+1 1 11 13 13 7 8 9 Charlie
+1 1 4 6 6 Jialu
+1 4 9 9 哭
+0 12 2 3 6 6 7 7 8 Charlie 哭
+1 1 10 12 2 4 6 7 8 8 Charlie Charlie Charlie Jialu Jialu Tracy Tracy Tracy 哭
+11 14 14 14 2 2 3 4 6 9 Charlie Charlie Jialu 哭 哭 笑
+1 12 6 6 9 9 Charlie 笑
+12 2 3 3 5 9 Jialu
+10 12 3 7 Jialu Tracy Tracy 哭
+0 10 13 14 14 2 3 Tracy 哭
+0 11 12 4 6 8 Charlie
+11 11 13 14 14 9 Jialu Jialu 哭 哭 哭
+0 1 1 10 14 4 5 5 Jialu Jialu Jialu 哭
+0 6 7 9 Tracy 笑
+0 0 1 12 12 12 12 14 4 5 7 7 8 9 Charlie Charlie 笑
+0 11 12 12 14 3 7 8 Charlie Charlie Charlie 哭 哭 哭 笑
+11 13 2 3 5 5 7 7 9 Tracy 哭 笑
+1 11 11 14 3 5 9 9 Charlie 哭 笑
+10 14 8 8 9 Charlie 笑
+0 11 13 2 Charlie Tracy 哭 笑
+1 10 11 12 12 5 哭
+1 10 11 13 14 14 4 5 5 5 7 7 Charlie
+1 10 13 5 6 7 8 Charlie Charlie Jialu Tracy Tracy 笑
+0 1 13 14 14 2 4 5 5 6 7 7 9 Tracy Tracy 哭 笑 笑
+1 10 11 12 2 2 5 7 7 9 9 9 Charlie Charlie Charlie Jialu Tracy 哭
+0 0 0 10 12 12 14 2 3 4 4 5 6 6 Charlie Charlie 哭 笑 笑
+0 10 11 13 14 6
+1 10 10 11 14 3 7 7 7 7 9 Charlie Jialu 哭 哭 笑
+0 1 14 3 4 6 7 Charlie Jialu Jialu Tracy
+0 1 1 1 10 10 12 12 13 13 3 5 5 5 6 8 9 Jialu Tracy
+1 11 11 2 6 6 7 Charlie Jialu Jialu Tracy Tracy Tracy 笑
+1 11 12 5 笑 笑
+0 1 1 10 10 2 2 4 8 Charlie Jialu 哭
+0 11 12 13 14 2 4 6 6 Charlie Jialu Jialu 哭
+1 1 1 1 10 11 11 14 2 2 4 5 6 8 9 9 Charlie Jialu 笑 笑
+11 12 12 12 5 8 Charlie Charlie Jialu 哭 笑
+0 14 14 2 2 2 3 3 4 4 7 8 9 9 Charlie Charlie Jialu 哭 哭 笑
+10 11 13 13 5 6 7 8
+0 0 1 1 11 12 13 2 5 6 6 7 7 8 8 9 Charlie Jialu 笑 笑
+12 13 13 2 2 2 3 5 8 9 Charlie Charlie Charlie 哭
+1 10 14 14 2 3 4 5 5 6 7 9 Charlie 哭 哭
+0 10 11 12 14 14 2 8 Charlie
+1 12 14 7 7 Charlie Jialu
+1 1 11 12 13 14 2 3 3 3 4 5 5 6 6 7 9 笑
+0 13 2 Jialu Jialu
+1 11 13 5 6 6 7 7 9 哭
+0 1 1 10 11 12 12 14 2 4 6 7 Tracy Tracy Tracy 哭 哭 哭 笑
+11 11 11 13 3 4 5 8 Jialu 笑
+1 12 6 Charlie Jialu Tracy
+11 11 14 14 14 14 2 4 4 7 Tracy 笑
+0 1 10 2 3 5 5 6 7 9 Jialu
+11 14 2 3 4 4 4 8 8 9 笑
+11 11 12 14 14 14 3 9 笑
+1 10 14 5 7 Charlie Jialu 哭 哭
+1 11 12 12 12 3 3 3 4 5 6 7 7 8 Jialu Jialu
+13 14 14 3 3 9 Charlie Tracy 哭
+10 11 12 12 12 13 14 3 4 7 7 Tracy 哭 哭 哭 哭 哭
+0 1 1 12 4 5 5 5 5 5 9 Charlie Charlie Charlie 哭
+12 13 3 4 4 Tracy
+10 12 14 2 3 3 4 6 7 8 9 9 Charlie Jialu Tracy Tracy 哭 笑
+0 1 10 12 14 2 4 4 6 8 Tracy
+0 10 12 12 14 2 4 4 5 6 7 7 9 Charlie 哭 笑
+0 0 1 1 1 11 11 12 14 3 4 4 5 6 7 8 Jialu Tracy 哭
+0 11 11 13 6 6 6 7 Tracy
+14 3 5 6 7 8 Jialu Tracy
+11 13 13 3 6 8 Charlie 笑 笑
+10 10 12 14 14 4 4 6 6 8 9 Jialu Jialu Jialu Jialu 哭
+0 1 11 12 12 2 3 5 6 6 7 7 7 7 7 8 9 Tracy 笑 笑
+0 0 1 11 11 12 2 4 4 5 5 5 6 6 6 7 7 9 Tracy 哭
+0 0 1 10 13 14 2 2 2 3 3 6 7 7 7 8 9 Tracy 哭
+0 10 13 8 8 9 Jialu 哭
+0 1 10 10 11 12 2 2 3 3 5 6 7 Jialu Tracy Tracy Tracy 哭 笑
+1 11 12 13 13 14 3 5 6 8 8 Charlie Charlie Tracy 哭
+0 10 12 13 13 2 2 2 3 4 4 6 7 8 9 Tracy 哭 笑
+1 1 10 11 11 12 13 3 3 6 8 Charlie Charlie Charlie Jialu Tracy 哭 哭 哭
+11 4 6 7 Charlie Jialu
+0 1 12 13 3 4 9 笑 笑
+1 11 13 13 5 5
+12 3 4 7 7 7 笑 笑 笑
+11 11 12 14 14 3 5 6 7 7 Charlie Jialu 笑
+10 10 10 11 12 14 14 3 5 5 8 8 9 Charlie Jialu Tracy 哭 笑
+0 1 1 11 12 14 2 2 3 4 6 6 Jialu Tracy Tracy Tracy 哭 哭
+0 1 14 2 2 2 3 3 3 5 8 9 Charlie Charlie Tracy
+0 0 10 12 13 14 4 4 5 Tracy 哭 笑
+0 0 1 10 10 11 12 13 2 2 4 5 7 7 8 Tracy 哭 哭 哭 笑
+0 1 10 11 13 14 2 2 3 6 8 8 8 Charlie Charlie Jialu Tracy Tracy
+0 2 6 7 8 9 9 Jialu
+10 10 14 2 4 6 6 7 9 9 Charlie Charlie Tracy
+1 11 13 14 14 4 6 9 9 Tracy 哭
+0 1 11 14 Jialu Jialu
+1 1 11 14 14 2 3 4 6 9 9 9 Charlie Jialu Jialu 哭 笑
+0 0 13 13 14 2 3 4 5 5 6 9 Charlie Tracy 哭 笑
+0 1 10 14 14 3 5 5 6 9 9 9 Charlie Charlie Charlie 哭 哭 哭 笑
+0 1 10 11 13 13 7 8 Charlie Jialu Tracy Tracy Tracy 笑 笑
+0 10 10 11 12 13 14 14 2 5 6 7 9 9 Jialu Jialu 哭 笑
+0 1 11 13 14 2 3 4 5 5 Charlie Jialu Jialu
+0 1 11 11 14 3 4 4 6 6 9 Charlie Jialu Tracy 哭 笑
+0 1 10 13 14 3 3 5 6 Tracy
+11 11 14 3 4 6 7 7 7 7 8 Charlie Charlie
+11 12 14 3 6 7 Charlie Jialu Jialu
+0 0 1 1 12 13 13 13 13 2 2 3 3 6 7 Charlie Jialu Tracy 哭 笑
+0 1 14 2 3 5 8 8 Charlie Charlie 笑
+0 1 1 10 11 11 12 13 2 Tracy
+12 3 5 7 7 Jialu Jialu
+1 10 11 13 3 4 6 9 Jialu 哭 笑
+11 11 13 13 14 7 7 9
+1 1 1 12 12 14 14 14 2 6 哭 哭
+10 12 4 5 9 9 9 Jialu 哭 哭 哭
+0 1 1 12 12 13 14 14 3 3 3 4 6 7 8 Charlie Jialu 笑
+11 11 12 2 2 4 4 8 Tracy 笑
+11 11 13 4 5 Charlie Jialu Tracy
+0 12 5 5 哭
+1 14 2 3 4 Charlie 哭 笑 笑
+10 13 13 13 13 13 4 9 9 9 Charlie Tracy Tracy 哭
+11 13 13 2 Charlie
+13 13 2 3 5 8 笑
+1 12 14 Charlie Tracy
+10 11 12 13 2
+0 1 10 5 9 9
+10 10 12 14 2 2 3 4 5 7 7 7 8 8 9 Jialu Tracy
+1 13 13 2 4 6 7 8 Jialu 哭
+1 12 2 5 Charlie Tracy 笑
+0 10 2 2 4 6 7
+10 10 8 Charlie Tracy 哭 笑
+0 1 13 6 Charlie Charlie Jialu 笑
+0 14 2 2 3 5 5 6 6 8 Jialu Tracy
+0 11 3 5 Jialu Jialu
+0 0 10 13 6 Charlie Tracy
+0 11 12 14 5 9 Charlie Jialu Jialu
+0 0 1 1 12 2 4 4 6 6 8 Charlie Tracy 笑
+0 0 1 1 10 12 12 13 13 2 3 6 7 9 9 哭 哭 哭
+0 0 1 10 10 11 11 12 12 13 14 2 4 6 8 Charlie Tracy Tracy
+1 10 11 13 13 13 2 5 5 Charlie Jialu Jialu Jialu 笑
+11 11 13 14 14 6 6 9 哭
+10 12 6 8 9 Charlie 笑
+11 13 3 6 8 9 Charlie 哭 哭 笑
+10 10 11 14 2 3 4 6 7 8 8 9 Charlie Charlie Jialu 哭 哭 笑 笑
+1 10 11 12 5 Jialu 笑
+10 12 3 6 Charlie 哭
+10 10 12 13 14 4 7 9 Tracy
+0 1 1 11 13 6 6
+1 11 12 7 Jialu Tracy 笑
+1 11 11 12 12 6 9 9 Charlie Jialu 笑 笑
+0 0 1 10 10 12 13 13 14 5 6 8 Charlie Tracy
+13 2 3 6 7 Jialu 笑
+0 10 14 2 7 Jialu
+1 1 11 12 12 13 13 13 13 4 5 6 8 8 9 哭 哭 笑
+10 11 13 2 2 9
+1 10 13 6 Jialu
+11 11 13 5 Charlie
+0 0 1 1 10 11 13 2 2 3 3 3 4 7 7 7 8 Charlie Jialu
+0 10 11 14 6 9 Tracy 哭 笑
+0 10 10 11 12 13 14 2 2 3 5 8 9 9 哭 笑
+0 1 11 12 13 13 2 5 7 8 9 Charlie Charlie Jialu Tracy 哭 笑
+0 10 11 8 Tracy 笑 笑
+10 11 2 5 6 6 7 7 7 8 8 9 Charlie Jialu Jialu Jialu
+0 0 10 10 10 11 12 12 2 3 3 4 7 8 Jialu Tracy 哭 笑 笑 笑
+10 2 2 4 8 Tracy 笑
+10 10 12 12 13 13 14 2 2 5 6 6 Charlie 哭
+0 0 1 1 10 11 12 14 2 3 4 5 6 6 7 9 Tracy 哭 哭
+12 12 2 2 3 5 7 7 8 Jialu Tracy Tracy Tracy 笑
+10 10 11 12 13 14 3 8 Charlie 笑
+1 11 11 2 6 8
+0 0 1 1 10 11 14 2 3 4 6 7 8 Charlie Jialu
+0 0 1 1 10 11 12 13 13 14 14 2 4 7 8 9 Jialu Jialu Tracy Tracy
+10 11 2 2 6 6 7 9
+1 11 12 12 12 13 4 6 7 8 Charlie Jialu Jialu Jialu 笑 笑
+1 10 10 11 12 12 12 4 Charlie Jialu Tracy 笑
+0 0 1 1 10 10 10 11 11 12 13 4 6 7 Charlie Jialu Tracy 笑
+1 3 7 8 9 Jialu
+11 2 3 4 5 哭
+0 0 1 1 1 12 3 6 9 9 Jialu Jialu Jialu Tracy 笑
+0 0 0 0 2 2 4 5 6 6 7 8 8 Charlie Charlie Jialu Tracy 哭
+13 14 2 5 Tracy 哭
+0 0 1 1 1 1 2 6
+0 1 11 12 14 14 2 4 5 5 6 9 Charlie Charlie Charlie Tracy Tracy Tracy 哭 笑
+1 1 10 12 13 2 3 6 6 7 9 9 Charlie Jialu Tracy Tracy 哭
+3 3 5 Jialu 哭
+1 14 6 9 Charlie Jialu Tracy Tracy 哭 哭
+10 13 6 7 8 9 哭
+11 2 4 7 Charlie
+0 1 1 10 11 11 14 2 3 3 4 5 6 6 7 8 8 8 9 Charlie
+0 0 1 10 11 2 3 4 5 5 6 6 7 Tracy 哭 哭 笑
+1 1 10 12 14 14 2 4 5 7 7 8 8 9 Tracy Tracy Tracy 笑 笑 笑
+0 1 10 12 13 14 2 2 4 5 6 6 7 7 Charlie Jialu Jialu Jialu 笑
+11 11 12 13 14 14 14 4 5 9
+8 8 Charlie Tracy 哭
+0 0 0 10 10 11 14 2 6 Jialu Jialu Jialu 哭 哭 笑 笑
+0 14 5 8 Jialu 笑
+0 13 14 2 6 6 7 8 8 9 Charlie Tracy 哭 笑
+1 11 11 2 2 2 3 4 6 6 6 Jialu Jialu Tracy 哭 哭
+0 0 0 11 11 11 12 12 13 14 2 2 3 5 Charlie 哭 笑
+11 13 3 4 5 7 哭
+0 10 12 14 14 2 2 3 3 7 Jialu 哭 笑
+10 10 10 11 12 2 2 3 4 5 6 7 9 Jialu 笑 笑
+0 0 1 11 12 13 14 14 2 3 4 6 6 6 7 9 Charlie 笑
+11 11 11 12 12 14 2 3 4 4 7
+1 14 14 14 4 6 7 8 8 Jialu 哭 笑
+0 11 12 13 3 4 7 8 9 Charlie 哭
+10 12 13 14 4 5 8 Jialu Tracy 哭 笑 笑
+11 11 12 12 12 13 14 6 7 8 9 Tracy 哭 哭 哭 哭 笑
+1 10 10 10 11 12 12 12 5 6 6 7 8 9 Jialu Jialu Tracy Tracy Tracy
+0 4 6 9 Jialu Tracy 笑 笑
+0 0 1 1 1 11 11 12 13 14 14 2 2 3 4 4 8
+10 12 5 8 9 9 Charlie Jialu
+0 10 12 2 2 3 6 6 9 Charlie Tracy Tracy
+10 11 14 14 2 5 8 笑
+0 2 2 2 2 5 6 7 9 Charlie Jialu
+11 3 5 Jialu Tracy Tracy
+10 10 11 5 Jialu 笑
+0 10 10 10 12 13 2 5 7 8 8 Tracy Tracy 哭 笑
+10 12 12 12 14 14 14 3 6 6 9 Charlie Tracy 笑
+14 14 2 5 9 笑
+0 1 10 12 13 13 14 3 4 7 8 9 Jialu Jialu Tracy Tracy 哭
+11 12 14 14 14 2 3 4 5 8 8 8 8 9 Charlie Tracy Tracy 笑
+10 13 2 3 3 4 5 5 Charlie Charlie Jialu Tracy Tracy 哭
+14 14 14 2 2 4 4 7 7 8 9 Charlie Jialu Jialu Tracy 哭 哭 笑
+0 10 13 14 8 哭 笑
+10 3 5 7 Charlie 哭 笑 笑
+0 1 1 10 13 2 2 5 6 6 8 Charlie Charlie Jialu Tracy Tracy Tracy 哭 笑 笑
+5 6 7 8 Jialu
+0 0 11 11 12 13 13 13 4 5 6 9 Jialu Jialu Tracy Tracy 哭
+14 4 6 9 哭
+0 11 11 11 12 13 14 2 4 6 9 Charlie Jialu
+1 10 12 12 14 2 7 8 Charlie Jialu Tracy 哭 哭 笑
+0 0 10 12 13 4 7 8 Jialu Tracy Tracy Tracy 哭
+0 1 10 6 哭
+4 5 5 9 笑 笑
+10 11 12 6 Charlie Charlie 哭
+1 13 13 3 5 5 5 5 6 哭 笑 笑
+0 0 14 14 2 5 5 Tracy 笑
+10 2 2 Tracy Tracy
+0 0 1 10 10 11 12 13 2 2 7 8
+0 1 1 1 10 10 10 10 10 14 2 3 4 5 6 7 Charlie 笑 笑 笑
+1 11 13 3 4 5 8 笑
+10 11 11 12 12 2 2 3 6 7 7 8 Charlie Charlie Charlie 哭 哭 笑 笑
+1 10 12 12 14 Jialu Jialu
+1 11 13 14 3 4 5 6 6 7 7 Charlie Charlie Tracy Tracy 哭 哭 笑
+0 0 1 10 10 11 11 2 6 6 6 Charlie Jialu Jialu Tracy Tracy 笑
+0 1 1 11 12 13 3 4 4 6 6 7 9 Charlie Charlie Tracy Tracy 哭
+0 1 10 10 14 2 5 5 Charlie Charlie Charlie 笑 笑
+0 12 12 13 13 14 4 4
+0 1 10 11 13 13 13 14 14 3 4 5 5 5 7 8 9 Charlie Jialu Tracy
+0 10 12 13 13 14 3 3 7 7 9 Charlie Tracy 哭 哭 笑
+11 5 9 哭 笑
+13 2 5 5 8 Jialu
+0 1 11 12 14 4 5 5 7 8
+0 1 14 2 3 3 4 4 8 9 9 Charlie Jialu 哭 笑 笑
+10 11 14 4 5 5 7 8 Jialu
+1 11 2 8 Charlie Jialu
+0 10 11 2 2 2 3 3 4 Charlie Tracy Tracy 笑
+0 11 14 3 3 4 4 6 6 7 9 Jialu
+1 1 10 12 12 12 2 2 3 6 6 7 7 8 Charlie Tracy 哭 哭 笑
+0 10 13 14 6 7 7 Jialu Tracy
+10 11 13 13 13 13 2 3 4 5 5 5 7 Jialu Jialu 笑
+1 14 3 3 6 7 7 8 8 Charlie
+0 10 10 11 11 14 14 9 9 Jialu Tracy 哭 哭 笑
+0 0 1 10 12 12 12 12 2 3 4 5 6 8 Charlie Charlie Charlie Jialu Tracy 哭
+1 13 7 7 Tracy Tracy 哭
+0 14 4 5 8 8 笑
+0 1 10 10 10 11 11 13 2 7 8 9 Charlie Charlie Charlie 哭 哭 哭 笑
+10 10 13 14 14 14 2 3 4 6 7 8 9 Jialu Tracy 哭 笑
+0 0 1 11 12 12 2 3 3 4 4 7 Jialu Tracy 哭 笑
+0 1 1 10 11 12 12 14 14 3 5 6 6 7 7 7 8 8 9 Jialu
+11 14 4 5 9 Jialu
+1 1 1 2 4 6 8 8 Charlie Charlie 哭 笑 笑 笑 笑
+1 1 1 12 12 12 13 13 2 2 5 6 Jialu Tracy 笑
+11 11 11 3 4 4 6 6 7 Charlie Charlie Charlie Tracy
+0 0 10 10 10 12 13 4 4 4 5 6 8 8 9 Charlie Tracy Tracy 笑 笑
+0 0 1 13 13 14 3 6 7 9 笑
+1 10 12 12 13 14 3 3 5 5 8 8 9 Charlie 哭
+1 11 12 12 13 2 2 3 5 7 8 Charlie Jialu Jialu Jialu 哭 笑 笑
+0 11 12 13 13 4 6 8 9 Charlie Tracy 哭 哭 笑
+0 0 12 14 3 4 4 4 6 7 Charlie Charlie 笑 笑 笑
+2 4 4 6 7 Charlie Charlie Jialu Jialu Jialu 笑
+10 10 11 11 12 13 2 3 4 5 5 5 6 7 9 Charlie Charlie Tracy 笑 笑
+0 1 11 11 14 2 2 3 3 4 5 6 7 7 8 8 8 9 9 笑
+10 10 11 2 6 8 哭 笑 笑
+0 13 4 Jialu 哭
+0 11 11 14 14 2 3 3 4 6 7 8 9 Charlie Charlie
+0 10 10 11 13 13 4 8 Tracy
+1 10 11 11 13 14 2 2 3 5 6 6 8 9 9 Charlie Jialu 哭 哭 笑
+13 14 7 7 9
+0 1 12 14 14 2 4 5 7 7 8 Charlie Tracy Tracy
+10 4 7 笑 笑
+1 1 11 14 2 3 4 4 5 Jialu Tracy Tracy 笑
+1 1 12 12 14 4 5 5 5 5 5 6 7 7 7 Charlie Charlie Jialu Tracy 笑
+0 1 11 4 5 6 6 6 7 9 Charlie Jialu Jialu Jialu Tracy 哭 笑 笑
+1 1 12 4 8 9 9 Tracy 哭 笑 笑
+12 12 13 14 2 3 Jialu Tracy
+0 10 10 10 13 14 14 14 2 2 5 5 6 8 Charlie 哭 笑
+1 11 12 13 14 3 5 6 7 9 Charlie
+0 1 11 2 2 3 4 Charlie
+0 1 10 10 2 5 6 6 7 7 8 Jialu Jialu Tracy Tracy 哭 哭 哭 笑
+13 3 6 8 笑
+1 1 3 8 9 Tracy
+0 11 13 14 4 7
+0 10 10 12 12 4 4 4 6 6 8 8 Charlie Charlie Charlie Charlie 哭 哭 笑 笑
+12 3 4 6 8 8 8 9 笑
+0 11 12 13 4 4 6 7 7 9 Charlie Charlie Jialu Jialu Jialu Tracy Tracy 哭 哭 哭
+0 1 11 11 12 14 3 4 7 8 9 9 Charlie Jialu Tracy Tracy 哭
+1 10 12 2 5 6 6 9 哭
+1 11 7 7 Jialu
+0 12 12 5 7 8 笑
+0 1 14 14 4 哭
+1 1 12 13 4 5 8 Charlie Charlie Tracy 哭 笑
+1 10 11 11 12 14 14 2 2 2 2 3 6 8 笑
+14 2 4 7 8 9 Tracy
+11 4 7 Jialu 哭 哭 笑
+10 12 3 5 5 6 7 7 8 8 9 Jialu Tracy 哭 笑
+0 0 13 14 14 7 7 8 哭 哭
+0 0 13 13 4 6 7 9 9 Jialu Jialu 笑 笑
+1 1 10 12 13 13 14 14 3 4 5 5 6 6 7 8 Tracy Tracy 笑
+0 1 10 10 12 13 13 14 14 2 5 7 Charlie Charlie Jialu Tracy 哭 笑
+0 1 13 13 9 Tracy
+11 11 14 2 2 5 6 6 6 6 7 8 9 Jialu Jialu Jialu 哭 哭
+0 10 10 11 11 12 2 4 5 6 6 9
+1 11 12 2 2 2 4 4 5 5 5 9 Jialu 哭
+10 12 13 14 14 14 7 9 9 Charlie Charlie
+10 10 10 11 12 13 14 2 4 Tracy 哭 哭
+10 11 13 14 14 14 2 2 2 3 6 7 8 8 8 Charlie Jialu Tracy 哭 笑
+1 12 14 2 5 7 7 7 8 8 9 Charlie Charlie Tracy 哭
+11 12 13 14 8 8 Charlie Tracy 哭
+10 4 4 7 Charlie Jialu Tracy
+0 2 7 Tracy Tracy Tracy 笑 笑
+0 10 11 2 3 4 8 Jialu Tracy 哭
+11 12 12 5 5 6 Jialu 哭
+0 0 1 10 11 12 13 13 13 13 14 3 5 5 6 8 Charlie Jialu Tracy Tracy
+1 1 10 11 11 12 13 14 2 6 7 7 8
+12 12 12 13 13 14 14 14 7 Charlie
+0 10 13 14 14 2 3 3 4 5 6 9 哭
+0 0 1 10 10 11 14 2 2 2 6 7 7 8 8 9 9 Charlie Charlie Jialu
+11 12 12 13 4 4 Charlie Jialu
+0 14 2 7 Tracy
+0 1 11 12 12 2 2 4 5 7 9 Jialu Jialu Jialu 笑
+0 0 0 11 13 14 2 3 4 7 7 8 8 8 Jialu Tracy 哭 哭 笑 笑
+0 10 13 14 7 Charlie Tracy 笑
+0 1 12 13 14 14 4 5 6 6 7 9 Charlie 哭 哭 笑 笑
+2 3 3 8 8 8 9 哭
+1 10 10 11 12 13 13 13 14 2 2 3 3 3 4 5 9 Tracy 哭 哭
+0 1 10 11 2 4 4 4 5 5 7 9 Jialu Jialu Jialu Tracy Tracy 哭 哭 哭
+11 13 14 3 3 7 9 Charlie 笑
+0 1 10 12 13 13 3 4 4 5 6 8 8 9 9 Jialu Jialu Tracy Tracy Tracy
+0 12 12 12 13 4 5 6 6 7 7 7 8 Charlie Jialu Jialu
+11 11 14 6 8 Jialu 笑
+13 13 3 5 Charlie 笑
+0 2 2 5 Charlie Jialu
+0 14 2 3 3 4 5 5 6 6 7 Charlie Jialu 哭
+1 10 11 11 12 13 6 8 9 Charlie Jialu Tracy 哭 哭 哭 笑
+0 11 11 12 13 13 14 4 6 6 Charlie Jialu 笑
+10 10 10 11 12 2 2 4 7 8 9 Charlie
+0 12 12 2 2 5 7 8 Jialu 笑
+1 11 13 13 2 4 4 4 5 8 8 8 9 Jialu 笑
+10 12 14 5 6 8 笑 笑
+0 1 3 5 5 5 7 8 8 9 Tracy 笑
+0 12 12 14 2 3 4 6 6 7 9 Charlie Tracy 哭
+0 0 11 14 14 2 4 5 6 9 Charlie Charlie Tracy 笑
+0 1 10 10 6 7 8 Tracy
+0 1 10 10 13 14 14 14 2 3 4 7 9 Charlie 哭
+1 1 10 14 2 4 7 笑
+10 13 3 5 9 Charlie Jialu
+0 0 1 1 10 10 11 14 14 14 14 3 4 5 8 8 Charlie 笑 笑
+0 10 12 12 12 13 3 3 4 4 5 6 9 Charlie 哭 笑
+0 13 3 5 8 9 Charlie Charlie Tracy
+0 10 10 12 13 13 3 3 4 5 6 8 8 9 Jialu Jialu Tracy 哭 笑
+0 0 10 10 4 Jialu
+0 0 11 12 2 2 4 4 7 Charlie Charlie Jialu 笑
+0 0 0 1 1 10 11 11 12 14 6 7 7 Jialu Jialu Jialu Tracy
+0 1 10 12 2 9 Tracy
+0 10 11 13 3 4 4 5 6 6 7 Charlie Jialu 哭 哭
+0 0 10 8 8
+12 12 2 7 8 8 9 Charlie Charlie Charlie Jialu Jialu 哭 笑 笑 笑 笑
+0 1 1 1 11 11 12 13 14 14 2 3 4 5 6 7 Charlie Charlie
+1 11 11 12 2 2 3 6 哭
+0 1 1 11 11 13 13 2 3 4 7 哭 笑
+0 0 11 13 3 4 4 6 7 7 Jialu Jialu Jialu Tracy 笑
+1 12 5 Charlie Jialu
+1 10 10 10 14 4 4 6 8 Charlie Charlie Charlie Jialu 哭 哭 哭 哭
+0 1 10 11 13 13 4 4 4 6 6 Jialu Tracy Tracy Tracy 笑
+1 10 11 11 11 13 2 3 3 5 6 8 8 Jialu Jialu 哭 哭 笑
+0 10 11 12 3 4 7 8 8 9 Tracy 哭 笑
+14 14 5 6 哭
+0 0 0 12 5 9 哭 笑
+1 10 12 3 7 7 8 8 Charlie Jialu Tracy 笑 笑
+1 13 14 2 3 5 6 6 7 8 9 Charlie Charlie Tracy 哭
+0 1 1 11 13 13 14 2 4 5 6 6 7 哭 哭
+0 11 7 9 Charlie Charlie
+1 10 10 11 12 12 14 2 8 8 8 Jialu 哭
+0 0 1 10 10 2 7 9 9 Charlie Jialu Tracy Tracy 哭
+14 4 Charlie 哭 哭
+1 13 13 4 9
+1 10 11 2 2 4 7
+0 11 11 13 3 3 哭 哭 笑
+10 12 4 6 7 8 9 Charlie Charlie Tracy Tracy Tracy 笑
+0 0 12 3 4 9 Charlie Charlie Jialu 笑
+1 12 13 2 2 3 6 7 9 Tracy
+1 10 11 11 12 2 3 4 4 5 7 7 9 Charlie Tracy Tracy 哭
+1 13 5 5 5 7 8 8 8 Charlie Jialu Jialu
+0 0 14 7 Jialu Jialu Tracy 哭 笑
+0 11 12 12 14 14 2 6 6 Jialu 哭 笑 笑 笑
+1 10 10 5 7 7 8 8 9 Charlie Jialu
+0 1 1 11 13 2 7 8 8 Charlie Jialu
+10 10 12 14 14 3 4 4 5 8 9 Charlie 笑 笑
+1 11 11 12 13 2 3 5 6 Charlie Jialu Jialu Jialu Jialu Tracy Tracy 笑
+0 10 12 12 2 3 5 6 6 7 8 9 Tracy Tracy 笑
+14 3 5 6 7 8 Tracy
+1 10 10 11 14 2 5 Jialu Tracy
+12 3 4 9 9 Jialu
+0 0 0 13 13 13 14 14 2 3 6 6 6 6 Tracy 哭
+0 0 1 11 11 13 2 2 3 3 6 9 Charlie Tracy 哭 哭 哭 哭 笑 笑
+0 1 10 10 13 5 6 7 7 Charlie Charlie Charlie Tracy 哭
+1 1 13 2 3 7 Charlie Charlie 哭 哭 笑 笑 笑
+14 2 2 4 哭
+0 0 0 11 12 13 14 2 2 4 4 4 5 5 6 7 9 Charlie Tracy 笑
+10 2 4 6 Charlie Jialu 笑
+0 1 11 2 3 5 5 哭
+0 1 1 10 11 12 12 2 5 6 7 9 Jialu Jialu Tracy
+0 10 11 14 14 2 2 3 3 7 7 8 9 笑
+1 12 12 13 14 3 3 4 4 6 6 8 Jialu 笑 笑
+10 11 4 8 Charlie 哭 哭
+0 1 11 5 Tracy
+11 12 2 3 5 7 8 Charlie
+2 Charlie Tracy 哭 哭
+14 2 4 5 5 笑
+1 1 11 12 13 13 2 2 3 7 9 Charlie Charlie 哭
+0 0 10 10 14 5 7 8 9 9 Charlie Tracy 哭 笑
+1 13 13 14 2 3 5 6 Jialu
+10 2 4 5 9
+1 10 11 13 3 7 8 9 9 Charlie Charlie
+11 12 14 2 7 8 9 Charlie Jialu Tracy
+0 1 1 10 11 12 14 3 4 4 5 8 8 9 Charlie Tracy 哭 哭 哭
+0 10 12 13 3 4 4 5 6 6 8 8 9 Tracy 哭 笑
+10 11 13 14 3 4 5 5 5 6 Charlie Jialu Jialu 哭
+0 11 11 11 14 14 3 3 4 4 5 5 7 7 8 8 Tracy
+1 1 10 13 14 5 5 7 7 9 Charlie 哭 哭
+10 10 13 4 4 8 9 Jialu Jialu
+1 11 12 12 12 13 13 14 2 8 Tracy Tracy 哭 哭
+0 0 10 11 Jialu
+0 11 13 14 2 2 3 4 5 6 7 9 Charlie Charlie 笑 笑
+0 3 4 6 7 9 9
+13 14 2 4 6 7 9 9 Jialu Tracy Tracy Tracy 笑
+1 10 11 12 13 14 2 2 4 5 7 8 9 Charlie Charlie Charlie Jialu Tracy 哭
+1 10 10 10 12 2 2 3 6 6 9 Jialu 哭 哭 哭 笑
+0 10 13 2 8 9 Jialu
+1 10 11 11 13 2 3 5 5 6 6 7 Charlie Jialu Jialu Jialu
+10 13 7 9 Jialu 笑
+1 10 11 12 13 14 14 3 3 4 4 7 8 Charlie Jialu Tracy Tracy 笑 笑
+0 0 1 11 11 14 5 Jialu
+0 10 11 11 12 13 14 3 4 5 6 6 7 7 8 Charlie 哭 哭 笑 笑
+0 0 1 10 12 12 14 2 3 3 3 3 4 4 5 5 6 Jialu Jialu Tracy
+0 1 1 11 12 12 12 12 14 2 4 8 8 Charlie Jialu Jialu Tracy 哭 笑 笑
+1 10 10 13 14 2 6 7 8 Charlie 哭 哭 笑
+0 0 11 12 13 13 13 14 6 7 8 9 Charlie Jialu Jialu Tracy 笑 笑
+0 0 0 1 1 10 11 11 11 2 2 3 7 8 9 Charlie Jialu Jialu Tracy Tracy
+1 4 4 4 8 8 9 Tracy
+12 13 14 2 5 8 8 8 哭
+0 1 12 3 7 Tracy
+1 4 6 Tracy 哭
+11 13 2 4 7 9 Jialu 哭 笑 笑
+0 1 14 4 8 8 Jialu
+10 11 4 5 5 6 6 7 8 笑 笑
+10 11 12 13 6 6 Charlie Charlie Jialu Tracy
+11 14 6 6 7 7 Charlie Jialu
+12 12 14 14 2 3 9 Charlie Charlie
+1 11 14 14 2 3 4 6 7 9 Jialu Tracy Tracy
+1 1 10 10 12 13 14 3 4 4 6 6 Tracy 哭
+1 10 11 14 3 4 5 6 8 8 9 Charlie Charlie Tracy Tracy 哭 哭 哭 哭 哭
+1 1 10 3 3 3 4 5 5 6 Tracy 哭 笑
+0 1 2 2 Tracy 哭
+0 0 10 12 13 14 2 2 5 6 8 8 9 9 9 Jialu 哭
+14 3 4 4 5 5 6 7 7 Tracy 笑
+0 0 0 10 10 11 11 12 13 14 2 3 5 6 7 Jialu Tracy 哭 哭 笑
+11 11 4 4 7 9 Charlie 哭
+0 10 5 7 7 Charlie
+0 10 12 13 13 13 13 14 14 4 4 6 7 8 9 9 Jialu
+1 1 11 11 11 11 4 4 5 8 9 Charlie 哭 笑
+0 0 0 1 10 12 2 4 5 8 8 Charlie Charlie Charlie Jialu Jialu 哭 哭
+0 12 14 3 4 5 6 哭 笑
+0 13 14 14 2 2 4 7 9 9 Charlie Charlie Jialu Jialu Tracy
+1 13 3 4 4 5 6 6 9 Jialu Tracy Tracy 笑 笑
+0 0 10 11 2 6 7 8 9 Jialu Jialu 哭 哭
+1 10 11 11 12 3 3 4 6 8 Charlie Charlie Charlie Jialu Jialu Tracy 哭 笑
+1 13 2 4 4 6 7 8 9 Charlie Jialu Tracy 笑
+1 10 11 11 13 2 2 3 7 8 9 Charlie Jialu Jialu Tracy 笑
+0 0 12 14 4 7 Charlie Charlie 笑
+12 14 3 3 4 5 5 6 Charlie
+1 11 12 14 14 3 5 6 8 8 9 9 Charlie Jialu 哭 哭
+2 3 8 Jialu Jialu
+0 10 11 11 12 13 14 14 4 5
+0 2 2 4 6 6 7 8 Charlie Charlie 笑 笑
+1 10 11 5 Charlie 笑
+11 12 12 13 13 14 2 7 9 9 Jialu Tracy 哭 笑
+11 12 12 4 7 9 Charlie 哭 笑 笑
+1 11 5 6 7 Charlie Charlie
+10 11 11 12 2 2 4 6 7 8 Tracy 哭 笑 笑
+10 12 14 3 4 6 7 7 Jialu Tracy 哭 笑 笑 笑 笑
+12 4 7 9 Charlie Charlie Tracy 哭
+0 1 1 1 12 2 4 4 4 5 5 6 8 9 Charlie Tracy 哭
+11 13 14 2 5 7 7 8 8 8 9 9 Charlie Jialu Tracy
+0 0 1 1 10 12 13 2 2 2 3 6 7 7 9 Charlie Tracy 哭 哭
+0 1 1 11 11 12 13 13 3 3 7 7 9 Charlie 笑 笑
+1 11 12 12 13 14 14 4 4 6 6 6 7 8 9 Jialu Tracy 笑
+1 13 14 14 14 2 3 3 5 6 Charlie Jialu Tracy 哭 笑 笑
+0 1 11 11 11 11 12 13 13 14 2 5 6 7 Charlie Jialu
+11 12 8 9 9 Charlie 哭 笑
+10 13 14 6 7 9 9 Jialu 哭 哭
+10 14 2 4 5 7 7 9 9 Tracy Tracy
+0 1 13 14 3 6 7 Jialu 哭 笑
+10 12 2 3 3 3 4 4 6 9 Charlie
+0 1 11 11 12 14 2 3 3 8 8 9 Charlie Charlie Jialu Jialu Tracy 哭 笑 笑
+2 4 4 5 6 Jialu
+1 12 14 6 7 Jialu Jialu
+1 11 11 11 14 14 2 6 Charlie Charlie Charlie Tracy Tracy 哭 笑 笑
+0 12 3 9 9 Jialu Tracy 哭
+0 11 2 5 5 5 6 7 8 哭
+0 1 11 13 13 2 Charlie Charlie Jialu Tracy 笑 笑
+10 11 12 12 12 12 12 13 3 3 4 7 9 9 Tracy 哭 哭 笑
+0 1 12 14 14 2 3 4 6 8 Charlie Charlie Jialu Jialu Tracy 哭 哭 笑 笑
+0 11 5 Jialu Tracy
+0 1 10 12 13 13 14 14 3 8 Charlie Charlie 哭 哭 哭 哭 哭 笑 笑
+1 1 10 11 13 14 3 3 Charlie Jialu 哭 笑
+0 12 2 3 3 4 7 8 8 8 哭 哭 哭 笑
+0 1 1 11 11 11 13 14
+14 14 3 4 Charlie Charlie Tracy Tracy 笑
+0 0 1 10 14 2 3 4 5 6 7 8 8 9 Jialu Jialu Jialu 哭
+1 2 3 4 4 5 9 哭 笑 笑
+1 13 2 3 7 7 Charlie Jialu 笑 笑
+0 12 2 2 3
+12 13 14 14 2 8 Charlie Charlie Jialu Jialu Tracy Tracy 哭 笑 笑
+0 0 0 1 14 14 3 5 6 8 8 9 Jialu 哭 哭 哭 笑 笑
+12 2 3 Jialu 笑
+0 0 1 10 10 10 11 13 14 3 6 8 Jialu 哭 哭 哭
+0 0 10 10 11 11 13 7 Charlie Tracy
+1 11 12 3 4 4 8 Jialu
+0 0 1 11 12 12 2 3 3 5 6 8 Charlie Charlie 笑
+10 10 12 13 14 2 2 3 4 7 9 9 9 Charlie Charlie
+13 4 6 8 笑
+1 1 11 3 5 9 9
+10 11 14 笑 笑
+1 13 8 9 9
+0 3 7 9 哭
+0 10 12 12 14 14 3 4 4 7 9 Charlie Charlie Jialu 哭 哭
+0 0 10 10 12 13 13 2 7 7 9 Jialu Jialu 哭 哭
+0 1 1 11 12 13 6 7 7 8 9 9 9 Tracy Tracy Tracy
+10 11 11 12 2 7 8 9 Tracy 哭
+1 1 10 11 3 4 5
+0 1 10 10 12 13 14 2 2 6 6 6 8 9 Charlie Jialu Tracy
+0 11 12 13 2 5 5 7 8 Charlie Jialu 哭 哭 笑
+1 11 14 4 5 5 5 Charlie Charlie Jialu Tracy 笑
+1 1 10 2 3 3 3 8 9 9 Charlie Charlie Jialu Jialu Tracy Tracy 哭 笑
+10 12 2 2 3 3 5 8 Tracy 哭 哭 笑
+10 14 3 5 5 6 7 7 8 8 Charlie Tracy 哭 笑
+4 9 Tracy Tracy Tracy
+10 13 14 2 3 4 8 8 8 Charlie Charlie 笑 笑
+3 4 4 4 5 5 6 7 7 9 Charlie Jialu Jialu Tracy 哭 哭
+0 1 10 12 14 14 3 4 5 6 6 8 8 Charlie Charlie Charlie Jialu Jialu 哭 笑
+0 12 12 12 13 14 14 5 6 6 7 8 8 8 9 9 哭 哭 笑
+0 0 0 0 13 4 7 Charlie Tracy 笑 笑
+0 0 1 10 12 14 14 7 8 8 9 Charlie Jialu Tracy 哭 哭 笑
+10 10 10 10 11 12 13 2 2 3 5 7 7 9 Tracy Tracy 哭
+1 12 4 8 8 Charlie 哭 笑 笑 笑
+13 3 3 4 7 7 8 Tracy
+13 2 4 4 5 6 6 8 Tracy Tracy 哭 哭 笑
+0 1 11 12 12 12 2 4 4 4 6 7 7 7 7 Charlie Charlie 哭
+12 12 5 8 Tracy 哭 哭
+1 11 12 3 8 8 9 9 Charlie Charlie Tracy Tracy 笑 笑
+1 1 10 12 12 2 2 2 6 6 7 7 Jialu Tracy Tracy 哭
+1 1 11 3 3 4 8 9 哭 笑
+1 10 11 14 3 5 Charlie 笑 笑
+0 1 11 12 13 14 3 5 7 Jialu
+0 1 11 11 12 12 12 14 2 3 5 7 Jialu Tracy Tracy
+1 10 11 5 5 6 6 9 9 9 哭 哭
+3 4 5 8 8 9 Jialu Tracy Tracy 笑
+10 11 13 13 2 3 4 4 5 5 5 6 6 7 9 9 Charlie Tracy Tracy 笑
+1 10 11 12 12 12 13 4 6 8 Charlie Jialu 哭
+0 1 11 3 3 4 6 6 9 Jialu Tracy 哭 笑
+0 0 0 11 11 11 13 2 2 5 7 9 9 9 Jialu Jialu Tracy Tracy 哭 哭
+0 11 13 13 2 4 7 8 Charlie 哭 笑
+10 14 4 6 笑
+10 11 11 11 12 13 14 2 3 4 6 7 8 9 9 Jialu Jialu Tracy Tracy Tracy
+0 1 1 10 11 12 13 2 4 5 5 6 6 9 Jialu 哭
+1 1 10 14 14 5 7 7 Charlie Jialu Jialu Tracy 哭 哭 哭 笑 笑 笑
+0 1 1 10 12 14 14 2 4 5 6 6 7 8 9 9 9 9 Tracy Tracy
+10 11 12 12 2 3 3 4 4 5 5 6 7 7 Jialu 笑 笑
+0 1 11 11 13 2 3 3 4 4 4 5 6 9 Charlie Charlie
+0 1 2 2 4 5 6 8
+0 1 10 11 12 14 2 4 5 6 6 6 8 8 Charlie 哭 哭
+0 10 10 3 6 7 8 9 Charlie 哭 笑
+0 1 10 11 11 11 14 2 2 4 5 5 6 6 Tracy Tracy
+10 14 Charlie Charlie 哭
+1 10 11 11 13 13 14 14 14 2 4 6 7 8 8 Jialu Tracy Tracy 哭
+0 0 1 1 10 12 12 14 3 3 5 5 6 8 8 Charlie Jialu Tracy Tracy 笑
+1 10 11 14 哭
+0 11 11 11 12 12 6 8 8 Charlie 笑 笑
+1 10 10 10 11 13 13 2 7
+0 1 1 10 10 11 12 4 7 9 Charlie Jialu Jialu Jialu Tracy 哭
+0 0 1 10 10 13 14 2 3 5 6 6 7 7 9 9 Charlie Tracy
+1 1 10 11 11 12 12 13 13 6 7 7 9 Charlie Jialu Tracy 哭 笑 笑
+10 13 14 2 2 3 5 7 8 Tracy Tracy
+0 1 10 14 14 4 7 8 8 9 9 Tracy 笑
+13 14 5 6 8 9 Charlie
+1 10 10 10 11 11 13 14 2 5 5 6 8 Charlie Tracy 哭 哭 笑 笑
+0 10 11 7 9 Tracy
+0 11 13 2 3 3 4 5 5 6 Jialu Tracy
+10 11 12 13 3 4 5 5 6 7 Jialu 笑 笑
+10 11 13 3 4 7 8 8 Jialu Tracy
+6 9 Jialu Tracy 哭
+0 1 1 10 12 12 12 12 12 14 4 5 8 8 9 Charlie Jialu Jialu
+0 0 0 10 12 13 3 4 5 6 8 9 Charlie Jialu 哭
+13 6 7 8 9 Charlie Charlie Charlie Jialu Jialu Jialu 笑 笑 笑
+0 1 11 12 14 4 6 7 9 Charlie 哭
+0 11 11 12 12 13 14 2 4 5 5 6 6 7 8 9 9 哭
+1 3 7 9 Charlie Tracy
+10 10 12 13 3 3 4 Tracy
+14 6 9 Tracy 哭
+12 14 14 5 6 7 8 哭 哭
+10 11 14 5 6 6 8 9 9 Charlie 哭
+0 0 0 10 10 11 14 14 14 2 2 3 4 4 6 7 8 9 哭 笑
+1 14 5 8 9 Charlie 笑
+0 0 10 2 3 4 4 5 8 Tracy 笑
+1 1 1 3 7 9
+1 1 11 12 3 4 4 5 8 Charlie Charlie Jialu Jialu Tracy Tracy
+1 1 1 11 12 13 3 3 4 6 7 7 7 8 9 9 Tracy Tracy 哭 哭
+0 2 3 5 6 9 Tracy
+1 1 10 14 2 3 3 7 8 9 Charlie Charlie
+1 11 14 14 14 14 3 3 4 4 4 5 7 7 8 8 8 Jialu Tracy Tracy
+0 1 1 10 12 12 13 2 3 3 5 6 9 Charlie Tracy 哭 笑

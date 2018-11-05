@@ -12,14 +12,33 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-
+if [ "$#" -eq 4 ]; then
+   echo "You are running the text script with:"
+   echo "type:$1"
+   echo "num_examples:$2"
+   echo "vocab_size:$3"
+   echo "max_len:$4"
+   SPECIAL_LEN=5
+elif [ "$#" -eq 5 ]; then
+   echo "You are running the text script with:"
+   echo "type:$1"
+   echo "num_examples:$2"
+   echo "vocab_size:$3"
+   echo "max_len:$4"
+   echo "special:$5"
+   SPECIAL_LEN=${SPECIAL_LEN:-$5}
+else
+   echo "toy.sh DATA_TYPE NUMEXAMPLES VOCAB_SIZE MAX_LEN"
+   exit 1
+fi
 set -e
 
 BASE_DIR="."
 
 DATA_TYPE=${DATA_TYPE:-$1}
-VOCAB_SIZE = ${VOCAB_SIZE:-$2}
-MAX_LEN = ${MAX_LEN:-$3}
+NUMEXAMPLES=${NUMEXAMPLES:-$2}
+VOCAB_SIZE=${VOCAB_SIZE:-$3}
+MAX_LEN=${MAX_LEN:-$4}
 
 
 echo "Using type=${DATA_TYPE}. To change this set DATA_TYPE to 'copy' or 'reverse' or 'sort'"
@@ -36,23 +55,26 @@ mkdir -p $OUTPUT_DIR
 # Write train, dev and test data
 ${BASE_DIR}/generate_toy_data.py  \
   --type ${DATA_TYPE} \
-  --num_examples 10000 \
-  --vocab_size 20 \
-  --max_len 20 \
+  --num_examples ${NUMEXAMPLES} \
+  --vocab_size ${VOCAB_SIZE} \
+  --max_len ${MAX_LEN} \
+  --special ${SPECIAL_LEN} \
   --output_dir ${OUTPUT_DIR_TRAIN}
 
 ${BASE_DIR}/generate_toy_data.py  \
   --type ${DATA_TYPE} \
   --num_examples 1000 \
-  --vocab_size 20 \
-  --max_len 20 \
+  --vocab_size ${VOCAB_SIZE} \
+  --max_len ${MAX_LEN} \
+  --special ${SPECIAL_LEN} \
   --output_dir ${OUTPUT_DIR_DEV}
 
 ${BASE_DIR}/generate_toy_data.py  \
   --type ${DATA_TYPE} \
   --num_examples 1000 \
-  --vocab_size 20 \
-  --max_len 20 \
+  --vocab_size ${VOCAB_SIZE} \
+  --max_len ${MAX_LEN} \
+  --special ${SPECIAL_LEN} \
   --output_dir ${OUTPUT_DIR_TEST}
 
 # Create Vocabulary
@@ -83,3 +105,5 @@ if [ "$SENTENCEPIECE" = true ]; then
       > ${dir}/targets.bpe.txt
   done
 fi
+
+

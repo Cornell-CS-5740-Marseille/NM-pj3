@@ -28,6 +28,7 @@ import argparse
 import os
 import numpy as np
 import io
+from random import shuffle
 PARSER = argparse.ArgumentParser(description="Generates toy datasets.")
 PARSER.add_argument(
     "--vocab_size", type=int, default=100, help="size of the vocabulary")
@@ -37,6 +38,8 @@ PARSER.add_argument(
     "--min_len", type=int, default=5, help="minimum sequence length")
 PARSER.add_argument(
     "--max_len", type=int, default=40, help="maximum sequence length")
+PARSER.add_argument(
+    "--special", type=int, default=5, help="special tokens length")
 PARSER.add_argument(
     "--type",
     type=str,
@@ -50,7 +53,8 @@ PARSER.add_argument(
     required=True)
 ARGS = PARSER.parse_args()
 
-EXTRA_WORDS = ["笑", "Charlie", "Tracy", "Jialu", "哭"]
+SPECIAL_MAX = ARGS.special
+EXTRA_WORDS = ["笑", "Charlie", "Tracy", "Jialu", "哭"][:SPECIAL_MAX]
 VOCABULARY = list([str(x) for x in range(ARGS.vocab_size - len(EXTRA_WORDS))])
 VOCABULARY += EXTRA_WORDS
 
