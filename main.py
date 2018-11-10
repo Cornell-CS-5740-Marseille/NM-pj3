@@ -17,9 +17,10 @@ def read_input(task):
 	assert task in {"copy", "reverse", "sort"}
 	# modify the path
 	relativePath = "toy_data/" + "toy_" + task + "/"
+	origin = "data/"
 	path = Path(relativePath)
-
-	train_f = path / ("train/sources.txt")
+	originPath = Path(origin)
+	train_f = originPath / ("train.txt")
 	test_f = path / ("test/sources.txt")
 	
 	with open(train_f, encoding='utf-8', errors='ignore') as train_file:
