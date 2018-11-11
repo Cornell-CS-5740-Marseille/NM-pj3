@@ -16,13 +16,15 @@ class model(nn.Module):
         super(model, self).__init__()
         self.hidden_dim = hidden_dim
         self.embeds = nn.Embedding(vocab_size, hidden_dim)
-        self.encoder = nn.GRU(hidden_dim, 99, bidirectional=True)
+        # self.encoder = nn.GRU(hidden_dim, 99, bidirectional=True)
+        self.encoder = nn.GRU(hidden_dim, hidden_dim, bidirectional=True)
         self.loss = nn.CrossEntropyLoss()
-        self.out = nn.Linear(198, out_dim)
+        # self.out = nn.Linear(198, out_dim)
+        self.out = nn.Linear(hidden_dim * 2, out_dim)
 
     def compute_Loss(self, pred_vec, gold_output):
         return self.loss(pred_vec, gold_output)
-        
+
     def forward(self, input_seq):
         input_vectors = self.embeds(torch.tensor(input_seq))
         input_vectors = input_vectors.unsqueeze(1)
