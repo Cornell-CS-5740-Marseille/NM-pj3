@@ -20,12 +20,15 @@ def read_input():
 	data_in = path / ("data.in")
 	data_out = path / ("data.out")
 
-	with open(data_in) as data_in_file:
+	# with open(data_in) as data_in_file:
+	with open(data_in, encoding='utf-8', errors='ignore') as data_in_file:
 		data_inputs = [line.split() for line in data_in_file]
 	data_in_file.close()
 
-	with open(data_out) as data_out_file:
+	# with open(data_out) as data_out_file:
+	with open(data_out, encoding='utf-8', errors='ignore') as data_out_file:
 		data_outputs = [line.split() for line in data_out_file]
+		data_outputs.remove([])
 	data_out_file.close()
 
 	all_data = list(zip(data_inputs, data_outputs))
@@ -78,7 +81,8 @@ if __name__ == '__main__':
 	forward_dict, backward_dict = build_indices(train_inputs)
 	train_inputs = encode(train_inputs, forward_dict)
 	test_inputs = encode(test_inputs, forward_dict)
-	m = model(vocab_size = len(forward_dict), hidden_dim = 64, out_dim = 3)
+	# m = model(vocab_size = len(forward_dict), hidden_dim = 64, out_dim = 3)
+	m = model(vocab_size = len(forward_dict), hidden_dim = 64, out_dim = 2)
 	optimizer = optim.SGD(m.parameters(), lr=1.0)
 	minibatch_size = 100
 	num_minibatches = len(train_inputs) // minibatch_size 
@@ -119,7 +123,8 @@ if __name__ == '__main__':
 
 		predictions = 0 # number of predictions
 		correct = 0 # number of outputs predicted correctly
-		for input_seq, gold_output in zip(train_inputs, train_outputs):
+		# for input_seq, gold_output in zip(train_inputs, train_outputs):
+		for input_seq, gold_output in zip(test_inputs, test_outputs):
 			_, predicted_output = m(input_seq)
 			gold_output = (0 if gold_output == ['0'] else 1)
 			correct += int((gold_output == predicted_output))

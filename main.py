@@ -15,14 +15,14 @@ from tqdm import tqdm
 def read_input(task):
 	assert task in {"copy", "reverse", "sort"}
 	# modify the path
-	# relativePath = "toy_data/" + "toy_" + task + "/"
-	# path = Path(relativePath)
-	#
-	# train_f = path / ("train/sources.txt")
-	# test_f = path / ("test/sources.txt")
 
-	train_f = "data/train.txt"
-	test_f = "data/test.txt"
+	relativePath = "toy_data/" + "toy_" + task + "/"
+	origin = "data/"
+	path = Path(relativePath)
+	originPath = Path(origin)
+	train_f = originPath / ("train.txt")
+	test_f = path / ("test/sources.txt")
+
 	with open(train_f, encoding='utf-8', errors='ignore') as train_file:
 		train_inputs = [line.split() for line in train_file]
 	train_file.close()
