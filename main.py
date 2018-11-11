@@ -15,12 +15,14 @@ from tqdm import tqdm
 def read_input(task):
 	assert task in {"copy", "reverse", "sort"}
 	# modify the path
-	relativePath = "toy_data/" + "toy_" + task + "/"
-	path = Path(relativePath)
+	# relativePath = "toy_data/" + "toy_" + task + "/"
+	# path = Path(relativePath)
+	#
+	# train_f = path / ("train/sources.txt")
+	# test_f = path / ("test/sources.txt")
 
-	train_f = path / ("train/sources.txt")
-	test_f = path / ("test/sources.txt")
-	
+	train_f = "data/train.txt"
+	test_f = "data/test.txt"
 	with open(train_f, encoding='utf-8', errors='ignore') as train_file:
 		train_inputs = [line.split() for line in train_file]
 	train_file.close()
@@ -106,11 +108,12 @@ def train_evaluation():
 	datasets = read_input(data_type)  # Change this to change task
 	forward_dict, backward_dict = build_indices(datasets[0])
 	train_inputs, train_outputs, test_inputs, test_outputs = list(map(lambda x: encode(x, forward_dict), datasets))
+	# for arr in train_inputs:
+	# # 	print(len(arr))
 	m = model(vocab_size=len(forward_dict), hidden_dim=128)
 	optimizer = optim.Adam(m.parameters())
 	minibatch_size = 100
 	num_minibatches = len(train_inputs) // minibatch_size
-
 	loss_list = []
 	timer_list = []
 
@@ -119,7 +122,7 @@ def train_evaluation():
 	# as opposed to updating the model for every example (minibatch_size = 1). It also makes better use of the data
 	# than performing a single gradient update after looking at the entire dataset (minibatch_size = dataset_size)
 	start_training = time.time()
-	for epoch in (range(2)):
+	for epoch in (range(5)):
 		# Training
 		print("Training")
 		# Put the model in training mode
@@ -145,43 +148,43 @@ def train_evaluation():
 			optimizer.step()
 		print("Training time: {} for epoch {}".format(time.time() - start_train, epoch))
 
-	if not data_type in data_dict:
-		data_dict[data_type] = {}
-	if not str(current_value) in data_dict[data_type]:
-		data_dict[data_type][str(current_value)] = {}
+		if not data_type in data_dict:
+			data_dict[data_type] = {}
+		if not str(current_value) in data_dict[data_type]:
+			data_dict[data_type][str(current_value)] = {}
 
-	data_dict[data_type][str(current_value)]["batch"] = minibatch_size
-	data_dict[data_type][str(current_value)]["loss"] = loss_list
-	data_dict[data_type][str(current_value)]["timer"] = timer_list
+		data_dict[data_type][str(current_value)]["batch"] = minibatch_size
+		data_dict[data_type][str(current_value)]["loss"] = loss_list
+		data_dict[data_type][str(current_value)]["timer"] = timer_list
 
-	# Evaluation
-	print("Evaluation")
-	# Put the model in evaluation mode
-	m.eval()
-	start_eval = time.time()
+		# Evaluation
+		print("Evaluation")
+		# Put the model in evaluation mode
+		m.eval()
+		start_eval = time.time()
 
-	predictions = 0
-	correct = 0  # number of tokens predicted correctly
-	references = []
-	candidates = []
-	for input_seq, gold_seq in zip(test_inputs, test_outputs):
-		_, predicted_seq = m(input_seq)
-		# Hint: why is this true? why is this assumption needed (for now)?
-		assert len(predicted_seq) == len(gold_seq)
-		correct += sum([predicted_seq[i] == gold_seq[i] for i in range(len(gold_seq))])
-		predictions += len(gold_seq)
-		# Hint: You might find the following useful for debugging.
-		predicted_words = [backward_dict[index] for index in predicted_seq]
-		predicted_sentence = " ".join(predicted_words)
-		gold_words = [backward_dict[index] for index in gold_seq]
-		gold_sentence = " ".join(gold_words)
-		candidates.append(predicted_words)
-		references.append(gold_words)
-	accuracy = correct / predictions
-	assert 0 <= accuracy <= 1
-	log = "Evaluation time: {} for epoch {}, Accuracy: {}".format(time.time() - start_eval, epoch, accuracy)
-	saveLog(references, candidates, log)
-	print(log)
+		predictions = 0
+		correct = 0  # number of tokens predicted correctly
+		references = []
+		candidates = []
+		for input_seq, gold_seq in zip(test_inputs, test_outputs):
+			_, predicted_seq = m(input_seq)
+			# Hint: why is this true? why is this assumption needed (for now)?
+			assert len(predicted_seq) == len(gold_seq)
+			correct += sum([predicted_seq[i] == gold_seq[i] for i in range(len(gold_seq))])
+			predictions += len(gold_seq)
+			# Hint: You might find the following useful for debugging.
+			predicted_words = [backward_dict[index] for index in predicted_seq]
+			predicted_sentence = " ".join(predicted_words)
+			gold_words = [backward_dict[index] for index in gold_seq]
+			gold_sentence = " ".join(gold_words)
+			candidates.append(predicted_words)
+			references.append(gold_words)
+		accuracy = correct / predictions
+		assert 0 <= accuracy <= 1
+		log = "Evaluation time: {} for epoch {}, Accuracy: {}".format(time.time() - start_eval, epoch, accuracy)
+		# saveLog(references, candidates, log)
+		print(log)
 
 def experiment(parameter):
 	global max_len, vocab_size, num_examples, varyParameters, data_type, current_value, special_num
@@ -239,14 +242,14 @@ def experiment(parameter):
 
 
 if __name__ == '__main__':
-	# train_evaluation("sort")
 	num_examples = 2000
 	vocab_size = 20
 	max_len = 20
 	special_num = 5
-	data_type = "sort"
+	data_type = "copy"
 	varyParameters = ""
 	current_value = 0
 	data_dict = {}
 
-	experiment("train")
+	train_evaluation()
+	# experiment("train")
