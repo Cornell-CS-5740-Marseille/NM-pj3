@@ -11,7 +11,7 @@ from pathlib import Path
 from model import model
 import time
 from tqdm import tqdm
-
+TESTLOSS = False
 def read_input(task):
 	assert task in {"copy", "reverse", "sort"}
 	# modify the path
@@ -20,6 +20,7 @@ def read_input(task):
 	path = Path(relativePath)
 	originPath = Path(origin)
 	train_f = originPath / ("train.txt")
+	# test_f = originPath / ("test.txt")
 	test_f = path / ("test/sources.txt")
 	
 	with open(train_f, encoding='utf-8', errors='ignore') as train_file:
@@ -80,12 +81,12 @@ def saveLoss(data_dict):
 					time = timer_list[x]
 					losswriter.writerow([sequence_num, cost_per_sequence, time, dataset, int(value), vocab_size, max_len, 5])
 
-def saveLog(reference, candidate, log):
+def saveLog(reference, candidate, log, prefix=""):
 	root = "test/" + varyParameters + "/logs/" + data_type + "/"
 	if not os.path.exists(root):
 		os.mkdir(root)
-	rname = root + "reference_%s.csv" % (current_value)
-	cname = root + "candidate_%s.csv" % (current_value)
+	rname = root + prefix + "reference_%s.csv" % (current_value)
+	cname = root + prefix + "candidate_%s.csv" % (current_value)
 
 	with open(rname, 'w') as f:
 		for item in reference:
@@ -103,58 +104,68 @@ def saveLog(reference, candidate, log):
 
 
 def train_evaluation():
-	global data_dict
+	global data_dict, models
 	datasets = read_input(data_type)  # Change this to change task
 	forward_dict, backward_dict = build_indices(datasets[0])
 	train_inputs, train_outputs, test_inputs, test_outputs = list(map(lambda x: encode(x, forward_dict), datasets))
-	m = model(vocab_size=len(forward_dict), hidden_dim=128)
-	optimizer = optim.Adam(m.parameters())
-	minibatch_size = 100
-	num_minibatches = len(train_inputs) // minibatch_size
+	PATH = "model/" + data_type + ".model"
+	if os.path.exists(PATH):
+		models[data_type] = model(vocab_size=len(forward_dict), hidden_dim=128)
+		models[data_type].load_state_dict(torch.load(PATH))
+	if not data_type in models:
+		m = model(vocab_size=len(forward_dict), hidden_dim=128)
+		optimizer = optim.Adam(m.parameters())
+		minibatch_size = 100
+		num_minibatches = len(train_inputs) // minibatch_size
 
-	loss_list = []
-	timer_list = []
+		loss_list = []
+		timer_list = []
 
-	# A minibatch is a group of examples for which make predictions for and then aggregate before
-	# making a gradient update. This helps to make gradient updates more stable
-	# as opposed to updating the model for every example (minibatch_size = 1). It also makes better use of the data
-	# than performing a single gradient update after looking at the entire dataset (minibatch_size = dataset_size)
-	start_training = time.time()
-	for epoch in (range(2)):
-		# Training
-		print("Training")
-		# Put the model in training mode
-		m.train()
-		start_train = time.time()
+		# A minibatch is a group of examples for which make predictions for and then aggregate before
+		# making a gradient update. This helps to make gradient updates more stable
+		# as opposed to updating the model for every example (minibatch_size = 1). It also makes better use of the data
+		# than performing a single gradient update after looking at the entire dataset (minibatch_size = dataset_size)
+		start_training = time.time()
+		for epoch in (range(5)):
+			# Training
+			print("Training")
+			# Put the model in training mode
+			m.train()
+			start_train = time.time()
 
-		for group in tqdm(range(num_minibatches)):
-			total_loss = None
-			optimizer.zero_grad()
-			for i in range(group * minibatch_size, (group + 1) * minibatch_size):
-				input_seq = train_inputs[i]
-				gold_seq = torch.tensor(train_outputs[i])
-				predictions, predicted_seq = m(input_seq, gold_seq)
-				loss = m.compute_Loss(predictions, gold_seq)
-				# On the first gradient update
-				if total_loss is None:
-					total_loss = loss
-				else:
-					total_loss += loss
-			timer_list.append(time.time() - start_training)
-			loss_list.append(total_loss.data.cpu().numpy())
-			total_loss.backward()
-			optimizer.step()
-		print("Training time: {} for epoch {}".format(time.time() - start_train, epoch))
+			for group in tqdm(range(num_minibatches)):
+				total_loss = None
+				optimizer.zero_grad()
+				for i in range(group * minibatch_size, (group + 1) * minibatch_size):
+					input_seq = train_inputs[i]
+					gold_seq = torch.tensor(train_outputs[i])
+					predictions, predicted_seq = m(input_seq, gold_seq)
+					loss = m.compute_Loss(predictions, gold_seq)
+					# On the first gradient update
+					if total_loss is None:
+						total_loss = loss
+					else:
+						total_loss += loss
+				timer_list.append(time.time() - start_training)
+				loss_list.append(total_loss.data.cpu().numpy())
+				total_loss.backward()
+				optimizer.step()
+			print("Training time: {} for epoch {}".format(time.time() - start_train, epoch))
 
-	if not data_type in data_dict:
-		data_dict[data_type] = {}
-	if not str(current_value) in data_dict[data_type]:
-		data_dict[data_type][str(current_value)] = {}
+		torch.save(m.state_dict(), PATH)
+		models[data_type] = m
+		if TESTLOSS:
+			if not data_type in data_dict:
+				data_dict[data_type] = {}
+			if not str(current_value) in data_dict[data_type]:
+				data_dict[data_type][str(current_value)] = {}
 
-	data_dict[data_type][str(current_value)]["batch"] = minibatch_size
-	data_dict[data_type][str(current_value)]["loss"] = loss_list
-	data_dict[data_type][str(current_value)]["timer"] = timer_list
+			data_dict[data_type][str(current_value)]["batch"] = minibatch_size
+			data_dict[data_type][str(current_value)]["loss"] = loss_list
+			data_dict[data_type][str(current_value)]["timer"] = timer_list
 
+	else:
+		m = models[data_type]
 	# Evaluation
 	print("Evaluation")
 	# Put the model in evaluation mode
@@ -180,12 +191,12 @@ def train_evaluation():
 		references.append(gold_words)
 	accuracy = correct / predictions
 	assert 0 <= accuracy <= 1
-	log = "Evaluation time: {} for epoch {}, Accuracy: {}".format(time.time() - start_eval, epoch, accuracy)
-	saveLog(references, candidates, log)
+	log = "Evaluation time: {} for epoch {}, Accuracy: {}".format(time.time() - start_eval, 1, accuracy)
+	saveLog(references, candidates, log, "sameTraining_")
 	print(log)
 
 def experiment(parameter):
-	global max_len, vocab_size, num_examples, varyParameters, data_type, current_value, special_num
+	global max_len, vocab_size, num_examples, varyParameters, data_type, current_value, special_num, models
 	types = ["copy", "reverse", "sort"]
 
 	if parameter == "length":
@@ -224,6 +235,14 @@ def experiment(parameter):
 				print(command)
 				os.system(command)
 				train_evaluation()
+	elif parameter == "test":
+		varyParameters = "varyOriginTest"
+		for type in types:
+			data_type = type
+			# command = "./toy.sh %s %s %s %s %s" % (type, num_examples, vocab_size, max_len, special_num)
+			# print(command)
+			# os.system(command)
+			train_evaluation()
 	else:
 		varyParameters = "varyTrainingSize"
 		num_List = [2000, 4000, 6000, 8000, 10000]
@@ -236,7 +255,8 @@ def experiment(parameter):
 				print(command)
 				os.system(command)
 				train_evaluation()
-	saveLoss(data_dict)
+	if TESTLOSS:
+		saveLoss(data_dict)
 
 
 if __name__ == '__main__':
@@ -249,5 +269,6 @@ if __name__ == '__main__':
 	varyParameters = ""
 	current_value = 0
 	data_dict = {}
+	models = {}
 
-	experiment("train")
+	experiment("dict")

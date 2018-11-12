@@ -63,7 +63,7 @@ ${BASE_DIR}/generate_toy_data.py  \
 
 ${BASE_DIR}/generate_toy_data.py  \
   --type ${DATA_TYPE} \
-  --num_examples 1000 \
+  --num_examples ${NUMEXAMPLES} \
   --vocab_size ${VOCAB_SIZE} \
   --max_len ${MAX_LEN} \
   --special ${SPECIAL_LEN} \
@@ -71,7 +71,7 @@ ${BASE_DIR}/generate_toy_data.py  \
 
 ${BASE_DIR}/generate_toy_data.py  \
   --type ${DATA_TYPE} \
-  --num_examples 1000 \
+  --num_examples ${NUMEXAMPLES} \
   --vocab_size ${VOCAB_SIZE} \
   --max_len ${MAX_LEN} \
   --special ${SPECIAL_LEN} \

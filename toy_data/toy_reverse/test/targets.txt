@@ -1,1000 +1,2000 @@
-6 2 1 9 10 Jialu 11 笑
-6 0 8 2 哭 0 10 Charlie 3 6
-2 12 6 12 Tracy 4 11 7 8 Charlie Tracy 12 14 Tracy 3 9
-Jialu Jialu Tracy 13 Jialu 14 7 10 Tracy 1 14 6 Jialu
-9 12 哭 3 4 2
-5 7 10 2 3 哭 笑 14 0 Tracy Jialu 6 Jialu 6 9 哭 9 2 哭 0
-哭 0 2 7 12 Tracy 4 4 12 14 14
-7 哭 13 12 11 6 笑 9 5 8 7 2 10
-10 6 1 4 5 4 笑
-7 5 哭 7 11 11 14 5 10 Jialu 4 12 6
-10 6 Charlie 8 6 8 Charlie 4 Tracy Charlie 哭 4 8 6 5 11 Jialu 13 1 14
-3 3 9 5 1
-14 笑 0 5 3 13 1
-8 8 3 1 哭 6 Jialu 4 哭 11 12
-0 6 5 5 4 3 笑 1 4
-0 4 笑 笑 3 Tracy Tracy 笑 10 哭 Jialu 1 笑 7 7 3 7 7 1
-9 9 12 9 Tracy
-2 Charlie 0 0 笑 8 9 哭 笑 Charlie 5 14 哭 6 笑 14 10 14 0
-Jialu 8 哭 0 13 12 5 Jialu 5 8 10 7 12
-3 3 10 8 2 6 Tracy 2 7 11 6 3 6 5 12 2 Charlie 4
-9 13 9 11 10 哭 9 Tracy 14 5 7 9 Charlie Charlie
-2 7 3 1 3 9 2 10 5 哭 13 3 4 8 12 笑 哭 2 Charlie 11
-3 12 9 7 1 Tracy
-7 笑 Tracy 7 6 7 14 13 3 4 9 4 10 13 6 6 0 Charlie
-哭 Tracy 14 5 3 10 Tracy 7 2 14 9
-哭 笑 11 13 Jialu 14 14 哭 10 2 1 1 14 2 11 5 10 哭 2 9
-笑 10 13 5 笑 9 5 11 5 3 9 14 13 0 7
-8 10 13 8 笑 Charlie 14 7
-9 Jialu Charlie 6 11 Jialu 14 7 13 8 13 3 4 14 10
-13 5 Jialu 13 7 12 5 Charlie Jialu 0 Jialu 14 12 14 笑
-7 0 Charlie 2 7
-2 14 7 Jialu 12 13 0 笑 Charlie 12 14 13 9 9
-13 3 11 14 Jialu 哭 8 4 8 哭 13 12 3 6 8 9 Charlie
-4 10 Tracy 8 1 Jialu Tracy 6 1 1 14 笑 Tracy 4 2 3 3 笑 3
-哭 4 哭 Jialu 4 5 Tracy 2 1 哭 1
-10 3 5 10 2 12 3 哭 笑 12 Tracy 14 9 哭 12 8 哭 Jialu 13 4
-Jialu 9 0 0 9 4 8 7 13 Tracy Charlie 1 6 4 1 9 11
-9 6 5 12 11 3 6 9 10 5
-8 7 10 12 0 哭 5 9 14 0 11 2
-1 Tracy 4 3 Charlie 9 笑 Tracy 笑 Tracy 11 3 1 9 0 2 1 6 11
-5 Tracy 12 3 5 12 6 5
-7 5 8 5 Charlie 10 3 哭 5 笑 3 Charlie 3 Charlie 笑 12 12 14 11
-8 8 0 14 9 7 2 14 8 6 12 11 哭
-11 8 6 7 10 1 笑 0 6 5
-3 5 笑 14 哭 哭 8 5 14 6 14
-13 11 Charlie 7 0 哭
-9 11 Charlie 6 6 8 2 Jialu 5 9 1 Jialu 哭 5
-2 5 7 Charlie 11 13 14 4
-10 0 12 11 Charlie 1 2
-哭 2 0 Jialu 4 7 11 10 3 Jialu 笑
-Charlie 6 Jialu 9 14 哭 13
-6 4 哭 笑 哭 1 12 12 1 0 2 6 1 Charlie 1 Jialu 1
-4 笑 3 7 10 2 4 8 Charlie 4 0 0 Jialu 2 笑 0 12 哭 8 5
-10 12 8 6 8 Charlie 12 10 7 12 8 0 哭 7 笑
-0 5 4 12 11 2 笑 0 Jialu 10 14 13 4 Jialu 3 8
-4 0 6 5 3 14 4 Jialu 0 0 笑 Tracy 8 笑
-6 1 4 6 11 0 9 11 0 5 0
-8 13 7 14 Charlie Charlie Jialu
-3 2 3 2 10 Tracy 2 Jialu 2 1 14 11 7 11
-12 3 4 10 14 11 4 Jialu 1 哭 0
-14 2 12 12 8 11 Charlie 7 1 9 4 8
-笑 Jialu 笑 Jialu Charlie 哭 13 13 14 13 3 14 13 8
-8 哭 12 8 14 8 Tracy Tracy Jialu 4 笑 3 2 1 1
-7 3 11 7 1 Jialu 5 1 9 0 2 6
-13 10 3 哭 11 哭 8 13 14
-7 0 0 0 笑 笑
-6 3 11 6 6 2 13 0 4 10 8 2 12 Tracy 4 笑 1 7 6 Charlie
-7 7 11 笑 笑 3 2 5 笑 11 哭 14 14 13 1 1 7 2 哭
-Charlie 2 10 Charlie 13 10 10 8 Tracy 14 笑 3 4 10 哭 5 8 12
-Tracy 12 10 7 6 7
-7 5 10 Jialu 13 9 Charlie 7 Tracy 哭 5 Jialu 13 Charlie Tracy 2 2 0 Tracy
-6 4 2 2 4 4 0 14 Tracy 5 8 笑 14 1 0 14 2 7
-Charlie 4 3 0 笑 5 9 4 6 Tracy 7 9 6 11
-3 1 哭 Charlie 哭 Tracy 11 10 哭 1 笑 7 哭 Jialu 4
-4 11 1 9 6 哭 12 7 哭 10 1 8 Tracy 9 笑 3
-13 12 Charlie 6 Charlie 4 Jialu 11 7 Charlie 2 10
-Charlie Jialu Jialu Jialu 4 1 14 10 13 5 7 5 6 6 Tracy 7 2 11 Tracy 10
-10 哭 5 12 4 14 2 8 8 哭
-7 Charlie Jialu 11 10 3 4 14 10 10 14
-1 5 12 7 3 0 Charlie 4 哭 6 哭 0 Tracy 10 14 Jialu 8 0 6
-9 4 Jialu 7 Tracy 7 14 12
-2 10 14 Jialu 7 8 2 3 Jialu
-10 5 笑 哭 12 4 13 6 5 2 13 6 12 Jialu 6 7 10 11 4
-10 7 7 9 5 4 10 13 Jialu 笑 4 5 5 6 1 9 3 9 0 6
-Jialu 7 Jialu 7 1 1 Charlie 12 11 3 Jialu 10 14 13 14 Charlie 2 6
-0 2 10 3 2 1 7 Jialu Charlie 1 1 笑 笑 1 4 6 0 Tracy 8
-8 笑 11 4 Tracy 笑 Jialu 3 12 6 5 7 Tracy Jialu
-5 6 9 7 10 7 哭 Jialu 9 12 4 6 11 笑 5 6 1 0 11 Charlie
-10 Charlie 2 11 0 10 Tracy 8
-哭 8 3 0 12 8 8 0 8 3
-4 0 12 8 11 14 11 10 7 10 Charlie 14 13 14 5 12 Charlie 9
-哭 Jialu Charlie 2 3 哭 14 10 6 5 6 7 14 13 6
-7 8 14 Jialu 10 Jialu 6 Jialu 笑 14 3 3 0 3 9 Jialu 哭 11
-Charlie 12 8 2 Jialu 10 Charlie
-12 7 13 0 5 笑 3 哭 6 10 4 3
-9 1 14 4 9 7 Jialu 5 哭 1 笑 5 1 3 8
-哭 8 7 Charlie 6 哭 7 10 Charlie Jialu 6 5 9 Charlie 10
-10 3 4 12 12 12 11 13 Jialu Tracy 哭 5 9 4 9 12 12 哭 哭
-12 1 12 11 笑 Charlie 3 笑 0 5 13 14 Tracy 9 13 Tracy 5 12 Tracy
-10 2 14 12 Jialu 5 12
-5 12 12 10 2 11 3 1 0 Jialu 14 Tracy 8 Charlie 11 4 3 10
-笑 Tracy 哭 12 Charlie 哭 10 1 哭 1 10 9 9 2 4 哭 11 1 Charlie 12
-6 0 9 6 13 2 6 8 3 7 笑 6 14 7 2 1 Jialu 4 4
-7 Charlie 13 2 13 4 9 8 Tracy 哭 Charlie 3 13 Tracy 10 3 笑 9 2
-13 0 Tracy 笑 6 7 6 Tracy Tracy Jialu 5 3 5 7 0
-12 3 9 8 13 Tracy 1 13 8 5 9 12 11 13 3 14 9 0 9 2
-4 14 9 2 Jialu
-10 1 9 3 Charlie 10 1 1 笑 8 0 哭 0 12 7 5 笑 哭 0 4
-5 13 7 14 Tracy 6 13 笑 4
-笑 14 9 6 11 11 笑 0 Tracy 12 2 14 2 Charlie 11 7
-哭 哭 4 哭 6 11 Charlie 10 6 Jialu 4 9 3 12 6 5 10 Jialu 5 14
-14 9 6 5 哭 Tracy 0
-11 3 12 7 2 10 14 7 哭 11 5 Tracy
-10 笑 10 Jialu 2 笑 8 7 4 4 13 14 Tracy 5 哭 哭 3
-12 12 3 2 1 1 0 哭 4 0 Charlie 3 6 3 10 11
-11 2 2 13 11 2 14 Tracy
-0 7 14 5 6 12 13
-7 10 7 8 13 8 8 14 5 9 14 7 7 14 1 11 13 14
-6 哭 5 Tracy 5 10 5 0 4 7
-6 9 7 5 12 Charlie 2 1 6
-6 Jialu 14 3 哭 1 8 3 2
-笑 12 笑 11 13 13 笑 14 4 9 12 9 7 10 笑 2 0
-7 11 0 哭 5 3 哭 哭 1 0 笑 2
-5 笑 11 10 Tracy 8 3 10 0 8 14 12 14 11 6 Jialu 6 9
-Charlie Charlie 6 9 12 3 14 1
-12 13 6 7 5 6 13 Tracy 6 1 6 1 14 13 11
-0 11 13 Jialu 7 Charlie 7 哭 哭 14 5 11 笑 笑 哭 13 4 8 0 Tracy
-6 13 10 7 11 5 Jialu 笑 10
-1 5 13 9 Jialu Tracy 3 4 2 13 Tracy 14 Tracy Charlie
-0 9 13 6 13 14 8 12 13 2 Tracy 5 14 笑 哭 10
-13 7 Jialu 2 Tracy Jialu Jialu 4 12 1 9 9 12 13 9 9 11 4
-11 11 11 5 4 笑 9 13
-3 4 14 6 2 4 3 2 Charlie 12 0 6 Charlie Jialu 11 8 Jialu 1
-5 8 4 10 14 8 5 7 12 2 笑
-11 13 11 4 4
-Charlie 13 6 5 10 13 9 11 Tracy Tracy 3 Tracy 哭 笑 1 8 哭
-11 3 2 5 2
-Jialu 2 5 Jialu 10 6 Jialu Jialu
-Tracy 13 Tracy 13 10 笑 7 10 10 14 4 5 10 Charlie 7 1 9 8 3
-5 7 4 Jialu 13 10 笑 哭 哭 1 1 4
-7 0 8 13 0 3
-13 4 3 Tracy 13 7 笑 1 7 5 8 7 11 哭 7 2 13 7 7 Charlie
-1 4 哭 1 Jialu 0 13 8
-5 哭 9 3 11 9 5 3 9 Tracy 13
-9 12 2 2 11 哭 笑
-Charlie 7 0 0 4 8 0 Charlie 哭 5 9 12 13 1 12 8 10 12 Charlie 10
-Tracy 笑 2 6 12 2 13 10 6 13 0 5 Jialu 10 哭 1 6
-Charlie 0 哭 哭 3 Charlie 笑 Charlie 13 0 12 12 13 笑 3 8 5 11 11 4
-13 Tracy 笑 1 10 哭 3 4 9 4 14
-3 12 13 11 0 1 5
-5 12 12 笑 2 12 5 哭 12 3 哭 13 笑 10 5 Charlie Charlie 14 13 1
-1 10 5 0 13 4 11 Charlie Tracy 5 4 10 笑 7 Tracy
-13 6 12 3 Tracy 10 13
-4 Jialu Tracy 14 笑 11 10 0 9 10 13 1 Charlie
-2 7 2 14 1 10 11 12 6 笑 Charlie 1 11 7 7
-14 笑 1 12 8 2 6 12 5
-3 6 4 10 4 12
-Tracy 0 哭 9 14 Tracy 9 11 0 Tracy 笑
-5 10 Jialu 3 笑
-2 12 Charlie Tracy Charlie 14 4 5 Charlie 哭 3 13 9 0 14 0 笑 12
-7 10 10 12 7
-10 6 Jialu 6 9 5 哭 13 12 Jialu 哭 13 2
-4 4 笑 7 9 9 0 13 4 4 0 Tracy
-7 4 0 0 14 12 1 2 14 9 6 哭 0 2
-3 9 4 14 11 8 Charlie
-Charlie Charlie 10 6 10 3 3 13 笑 Tracy
-2 13 9 2 Jialu 笑 14 Jialu 10 2
-11 13 11 14 Charlie 10 4 14 笑 哭 6 5 Tracy
-笑 6 Tracy 0 13 4 1 12 Jialu 2 10 哭 6 6 2 哭
-7 5 Tracy 5 哭 13 0 9 1 Charlie Charlie 笑 1 4 3 Tracy
-13 哭 12 2 Charlie 12 11
-11 14 4 1 3 9 Jialu 11 1 Tracy 1 10 5 2
-14 2 Tracy 7 6 笑 Jialu 2 11
-13 Charlie 8 7 11 13 8 12 0 8 4 哭 14 Charlie 哭 Charlie 11 10
-6 14 6 0 笑 5 0 3 11 1 8 14 13 13
-Tracy 3 笑 1 10 13 9 3
-0 哭 2 2 12 11 1 7 14 Tracy
-6 笑 Charlie 2 7 Tracy 7 4 2 Charlie 7 5 7 7 Tracy
-14 Charlie 哭 7 14 4 0 2 14 11 0 笑 12 9 Jialu 11 4
-13 8 2 14 5 哭
-0 笑 2 2 9 Jialu 3 11
-哭 2 5 8 笑 0 8 2
-笑 8 5 10 1 10 2 4 1 4 0 10 哭
-13 6 10 Charlie Charlie 11 Charlie Jialu 13
-3 6 Tracy 10 Tracy 3 0 Charlie 3 笑 Tracy 6 0 6 Charlie
-12 7 Tracy Jialu 7
-8 2 8 10 7 笑 12 5 6
-11 5 14 哭 Jialu Jialu
-13 8 Tracy 7 笑 0 6 6 14 12 5 3 12 Jialu 8
-2 Jialu 哭 Jialu 10 11 3 0 12
-3 6 Jialu 6 5 Tracy 哭 笑 8 8 Charlie
-11 10 2 5 Charlie Charlie 11 Jialu 12 Tracy 笑 哭 14 0 14 11 2 4 12 笑
-10 11 9 2 Jialu Jialu 4 5 11 12 Tracy
-8 哭 5 5 8 2
-11 5 哭 7 2 笑 14 笑 1 9 2 0 8 Jialu 5 13 9 10
-Tracy 9 5 4 1 笑 哭 2 7 7
-7 5 0 3 Charlie 9 11 10 2 笑 0 9 5 Charlie 6 Tracy 笑 5 14
-4 Jialu 14 2 笑 笑
-5 7 14 12 11 哭
-Tracy 3 8 3 Charlie 2 9 Jialu
-Charlie Jialu 哭 6 7 3 12 6 0 6 7 10 Charlie 笑 4 8 9
-5 5 Charlie 11 13 Jialu Charlie 6 4 6 1 2 笑 笑 10 0 Tracy Charlie 5 Tracy
-13 3 Tracy 9 13 5 6 11 9 13 Jialu 0 6 0 4
-Tracy 14 1 8 7 8 4 8 2 哭 哭 Jialu
-5 11 6 Tracy 10 9 2 14 8 11 10 9 1 6 1 13 Charlie 1
-6 11 3 1 Tracy Tracy Tracy Tracy Tracy 0 9 Charlie 14 11 3
-12 1 Charlie 12 3
-7 3 6 14 4 3 0 12 1 0 4 13 0 哭 Jialu
-3 8 7 1 1 12 10 6 9 4 1 0 9 14
-1 7 13 6 6 Jialu 3 9 Tracy 4 4 1 笑 11 2 11 哭
-Charlie 13 6 4 1 2 8 7 3 3 哭 6 0 笑 7 Charlie 13
-4 Jialu 哭 10 笑 0
-Tracy Jialu Jialu 7 4 8 14 5
-哭 笑 Jialu 14 笑 2 7 7 3
-9 4 9 4 12 Charlie 0 12 9 13 9 8 12 笑 Tracy
-5 Jialu 8 0 11 1 11 10 11 0 7 Charlie
-10 2 9 6 2 3 10 10 Tracy Jialu 5 10
-14 8 6 8 笑 13 5
-Tracy 5 Jialu 9 2 9 Tracy 笑 1
-5 11 Tracy Charlie 7 Charlie 4 14 12 5 5 14 Tracy 14 8 Charlie 0 8 1 Tracy
-4 10 6 9 13 Charlie 3 Jialu Jialu 9 7 0 1 笑 5 11
-2 Jialu 哭 13 2 4 3 Charlie 6 11 5 13 10 5 7 0
-Tracy 10 Charlie 笑 4 8 5 11 6 14 13 Tracy 9 10 9 2 Jialu 3 1
-哭 6 13 5 11 13 7 2 8 11 4 1 12 9 0 3 Charlie 7
-2 12 11 7 9 1 5 14 13 6
-3 笑 2 0 8 6 9 2 笑 14 6 4 0 14 9 8
-10 1 11 8 0 Jialu 4 13 3
-5 11 12 13 7 3 14 13 11 2 14 10 0 10 14 5 0 11 2 7
-哭 3 笑 7 Tracy 笑 0 笑 11 Jialu 1 0 7 13 6 0 5 3 9 11
-7 Charlie 7 Tracy 2 0 0 8 12 9 12 11 8 哭 哭 5 Tracy 14 10 4
-1 14 0 10 14 10 9 8 哭 7 7 2 12 Charlie 2 0 哭
-9 Charlie 12 8 9 10 0 13 笑 Tracy 12 5 笑 Jialu
-7 14 13 5 10 3 1 10 10
-14 12 7 1 0 笑 Tracy Jialu 6 4 哭 6 14 哭 13 8 5 0 10
-13 14 0 11 8 1 4 7 8 2 Jialu 2 4 哭 0 12 4 哭 Jialu
-Tracy 13 7 5 13 6 Charlie 6 1 Tracy 0 12
-0 Charlie Tracy 2 笑 4 Charlie 哭 2 0 5 Jialu 哭 7 3 12 5 9 5
-笑 4 0 1 12 1 13 9 8
-4 2 哭 14 3 5 6 8 8 Charlie 14 2
-6 8 2 Jialu 哭 Charlie 7 6 13 Jialu 0 1 14 6 12
-13 9 Jialu 14 11 1 笑 9
-笑 10 11 2 4 5 8 10 Charlie 13
-11 Tracy 6 1 2 14 8 4 Tracy 哭 11 哭 1 14 14 Charlie 9 7 11 3
-2 Jialu 3 12 6 7 Charlie Jialu 1 10 0 笑
-11 哭 11 8 14 3 8 8 Jialu 7 10
-4 13 8 11 7 0 笑 Tracy 11 9 9 9 13 12 4 13
-12 12 14 Charlie 1 6 4 6 Tracy
-3 9 12 Jialu 3 8 2 14 笑 Tracy 6
-5 11 5 9 14 3 哭 哭 8
-2 8 笑 哭 5 8 笑
-1 笑 Jialu 1 1
-11 2 哭 11 9 5 8 Jialu 9 1 5 8 5 0 7 Jialu
-10 14 4 2 3 哭 13 13 1
-Tracy 7 1 13 10 13 5 Jialu Charlie
-12 8 10 5 Tracy Jialu Tracy 9 7 Tracy 5 11 10 14 笑 3 笑 3 8
-1 6 9 9 8
-7 13 笑 10 10 11 Jialu 0 3 14 10 Tracy 7 Charlie 13
-Jialu 2 哭 Jialu 8 Tracy 4 5 6 1 13 12 2 Jialu
-1 6 14 10 3 2
-Tracy 12 Charlie 11 7 Tracy 14 10 0 12
-哭 8 10 笑 7 Tracy
-8 14 7 6 7 Tracy 3 6 4 7 11
-12 9 Charlie 笑 笑 12 Charlie 笑 笑 Jialu 13 0 Jialu
-10 Tracy 3 14 Jialu 6 Charlie Tracy 3 11 2 Charlie
-2 14 Charlie 14 Charlie 0 12 4 4 14
-4 Jialu 4 Charlie 13 6 6 13
-Charlie 11 Charlie Jialu 3
-8 0 笑 6 8 8
-12 5 1 4 0 9 2 4 12 13 笑 12 Jialu 7 哭 Charlie
-Tracy Charlie 12 11 10 0 5 4 10 哭 13 14
-2 4 3 2 笑 哭 0 Tracy 8 11 7 14 Jialu 10 1
-Charlie 8 9 Tracy 0 12 2 3 2 14 7 8 7 Charlie 3 哭 14 Tracy Jialu 5
-3 2 哭 1 13 0 4 7 5 13 9 13 14 11 12 13
-8 0 9 5 1 Tracy 0 9 1 笑 2 Tracy 0 0 13
-12 1 13 11 8 7 5 Tracy 6 10 笑
-4 Charlie 14 Charlie 5 13 14 2 Charlie Jialu 14 哭 8 10 哭 6 12 6
-哭 14 14 Tracy 6 13 笑 12 4 笑 6 1 7 2 4 6 2
-2 0 7 3 Jialu 14 4 12 1 2 哭 5 12 13 14 哭 Tracy
-6 3 笑 1 1 0 8 7 11 5 8 笑 4 Charlie Charlie 13 笑 9
-7 5 笑 哭 Jialu 3 9 12
-3 5 13 Tracy Jialu 3
-Jialu 8 2 14 11 8 8 14 4 0 9 2 13 11 Tracy 笑 13 10 6 Tracy
-笑 笑 8 Tracy 3 Tracy 9 1 9 9 3 4 1
-11 10 9 1 11 笑
-Jialu 9 0 3 Tracy 1
-9 0 Charlie 5 2 8 Jialu 笑 Jialu
-4 12 Jialu Jialu 14 13 3 哭 12 Charlie 10 14 8 1 0 3 12 笑
-0 8 哭 12 7 12 6 7
-6 14 Tracy 9 4
-哭 3 10 Charlie 9 6 哭 13 6 Charlie 0 4 5
-哭 1 9 12 Charlie 哭 13
-11 4 Tracy 9 11 0 哭 哭 3
-13 14 13 13 2 Jialu 7 2 12 11 4
-14 10 Jialu 2 Tracy 9 6 10 笑 哭
-10 Charlie 5 4 Jialu
-3 1 0 14 5 9 10 Charlie 5 7 0 14 Tracy 10 14 笑
-14 笑 9 哭 6 14 Tracy 14 5 11 11 13
-哭 2 14 11 4 1 8 Charlie 12 13 3 8 2 8 9 5 哭 13
-Tracy 14 3 哭 7 0 5 12 12 3 笑 10 Charlie 14 Tracy
-9 7 0 14 3 哭 2 哭 3 12
-7 2 13 0 3 笑 3 8 9 Charlie 7 哭 Charlie Jialu 2 10 4 6 5
-11 3 7 哭 4 哭 9 Tracy 13 3 Tracy 14 14 3 9 1 4 Jialu 0 哭
-11 6 6 10 Charlie 5 12 哭 14 3 Jialu 5 6 11 14 Tracy
-12 Tracy 8 10 哭 6 14 6 4 Tracy Tracy 12 1 4
-2 Jialu 1 12 3 笑 13 8 7 8 11 2 6 14 14 6
-Jialu 13 0 7 5 4 0 笑 0 5 10 4 Charlie 10 4 2 1
-14 6 6 7 笑 6 3 5
-7 12 5 13 10 Jialu Tracy
-8 笑 哭 Jialu 笑 4 8 Tracy 笑 1 14 1 11 Tracy 7
-6 0 9 14 13
-6 笑 13 14 Charlie 5 1 9 0 12 2 0 6 2 笑 7 11 Charlie 笑
-3 2 12 1 笑 0 7 13 0 10 Tracy 6
-笑 哭 0 Jialu 8 9 14 笑
-哭 1 5 14 13 1
-13 10 9 6 11 3 5 0 9
-8 Jialu 13 哭 10 Tracy 1 14 14 6 0 Tracy 9 12 笑 5 14 5 哭 Jialu
-2 1 11 哭 13 4 Charlie Charlie 4 14 14 1 Tracy Tracy 12 Charlie 0
-13 Tracy 13 3 9 12 笑 Charlie 1 11 1 笑 Jialu 1
-12 10 笑 Tracy 哭 4 13 1
-Charlie 9 哭 Charlie 12 2 5 0 1 12 11 哭 2 Jialu 9 4 13
-2 4 Tracy 9 3 笑 Tracy 10 Tracy 8 8 6 Tracy 12 3
-6 13 笑 5 12 13 4
-10 Charlie 0 0 Charlie 5 9
-3 11 7 9 10 哭 3 5 4 Tracy Jialu 8 4 10 1 Charlie 3 12 Jialu
-11 10 Tracy 12 1 8 8 6 0 12 0
-12 3 9 Jialu 5 3 Charlie Charlie 笑 3 14
-0 1 12 Charlie 0 13 笑 Charlie 1 Charlie 6 10 5 10 笑 笑 8
-5 13 8 Tracy 笑 11 2 Jialu 6
-3 9 2 6 0 哭 8 10 10 7 9 0 10 7 14 7 13 5 6
-Charlie 笑 7 2 6 14 12 Charlie 14 4
-2 9 4 1 12 7 10 9 9 12 笑 3 9 Charlie 1
-7 Charlie 笑 1 9 2 7
-11 13 10 11 6 2 Tracy 1 1 14 Jialu 11 11 14 Tracy 2 3 3 哭
-笑 14 12 哭 哭 4 5 Jialu
-12 6 4 11 1 5 笑 11 12 1 5
-14 1 11 14 Jialu 1 11 11 11 10 11
-12 1 笑 1 5 9 Charlie 13 笑 Charlie
-7 0 7 6 哭 哭 1 Tracy 10 8
-3 13 4 2 14 Charlie 14
-6 5 9 13 4 13 12 Charlie 3 7 笑 13 13 13 6 1 6 8
-7 2 Tracy 10 12 Tracy 10 Charlie 14 10 4 笑
-10 12 0 1 11 8 11 11 10 9 4 3 1 7 13 Jialu
-13 8 Jialu Charlie 笑 12 12 3 Charlie
-14 11 8 1 笑 14 3 8 12 12 1 3 13 9 哭
-12 5 14 0 笑 9 14 7 13 14 4 5 7 11 8 3 7
-2 Charlie 5 哭 2 8 14 7 笑 9 0 12 13 Tracy 5 6 Charlie 0
-11 13 Tracy Jialu 4 11 12 11 Jialu 13 11 14 Jialu 10 1
-笑 4 0 5 2 5 14 9 8 0 8
-8 12 3 10 14 1 2 Jialu 14 13 4 7 13 11 5
-笑 6 Tracy Jialu Charlie 14 9 哭 13
-11 8 Charlie Charlie 10 Charlie 5 笑 Jialu 7 11 6 Charlie 3 Jialu 9
-3 11 0 5 7 7 0 笑 7 9
-2 Jialu 9 9 11 Tracy 笑 7 12 6 8 14 11 6
-11 3 12 14 4 14 11 0 12 13 13 3 4 13 笑 14
-笑 8 Tracy 哭 10 3 Charlie 14 笑 3 3 Tracy 10 12
-1 13 14 Charlie 哭 2 Tracy
-13 1 8 14 10 哭 12 9 Tracy 11 8 11 Jialu
-哭 13 4 7 Tracy 5 6 13 4 0 8 笑 Tracy Charlie 10 Charlie 12 12 0
-9 2 1 8 2 8 14 10 13 Tracy 5 5 6 7 4 8 0 8
-14 3 12 0 11 Charlie 8 10 Tracy 8 1 11 13 笑 13 笑 4
-13 Tracy 14 Charlie 8 Jialu 9 Charlie 4 14 Tracy 9
-Tracy 1 5 Tracy 3 6 5 7 9 4 10 12 哭 13 Tracy
-10 3 笑 3 1 8 1 9 11 Charlie 2 Charlie 2 4 14
-7 Jialu 8 0 3 2
-7 哭 6 Charlie 6 6 11 12 12 10 2
-14 12 13 3 0 3 哭 Tracy 4 Jialu 4 6
-2 7 6 Charlie Jialu 10 哭 Jialu 6
-1 9 笑 哭 9 8 Jialu 13 8 8 13 11 13 0 4 Jialu 6 Charlie
-6 Charlie 14 9 6 7 14
-Tracy 5 3 9 1 11 笑 5 7 11 2 0 10
-12 9 Charlie 0 5 哭 8 4
-Jialu Tracy 11 10 笑 4 Charlie Tracy 4
-0 14 哭 Charlie 14 0 9 3 4 3 哭 Jialu 笑 7 笑 Tracy
-3 9 2 14 11 11
-哭 Charlie Jialu 9 哭 9 Charlie 1 6 1 5 6 5 笑 14 11 11
-9 Tracy 11 13 12 笑 Jialu 8 12 0 笑 12 11 9 Jialu 10 11 8
-0 Jialu 11 10 2 14 1 Jialu
-Jialu 笑 13 8 Tracy Tracy Charlie 1 1 1 10 11 0 13 14 3 笑 12 Jialu
-Charlie 0 13 哭 12 3 9 0 12 13 Tracy 2 2 Jialu
-0 6 5 0 12 3 14 9
-5 12 12 8 10 Tracy 13 9 0 14 11 笑 13 7 2 12 6 5 14 9
-哭 10 10 13 1 7 Tracy 13 Charlie 哭
-4 12 14 哭 Tracy Jialu 6 11
-5 8 Jialu 3 Jialu 1 5 12 8 11 哭 8 11
-9 2 Jialu 9 11 11 10 14 8 9
-0 11 Charlie 14 10 14 4 1 2 5 12 Tracy 9
-12 Tracy 6 1 13 12 笑 12 Charlie 2
-1 7 1 9 8 Charlie 10 笑 笑 10 Charlie Tracy Jialu 笑
-0 10 6 Jialu 3 7 Jialu 10 Charlie 2 哭
-8 1 8 4 1 笑 14 笑 3 哭 14 0 13 0 13 12 哭 5 14
-0 12 0 10 2
-4 3 笑 4 7 Jialu 10 5 7 11 6 14
-9 12 7 哭 6 11 12 11 2 2 笑 10 10 笑 笑 7 2 10 4 2
-12 12 12 14 4 5 4 13 2 1 哭 14
-9 笑 6 0 2 笑 14
-8 Jialu Charlie 笑 2 Jialu 哭 14 10 14 Charlie 1 Tracy 7 13 6
-8 Jialu 14 1 3 笑 9 哭 6 2 14 12 5
-2 哭 4 8 14 3 3 1 1 11 Jialu Jialu 8 3 Tracy 10 6 3 14 8
-Tracy 9 9 3 13 Charlie 6 7 Tracy 8 7 Jialu 2 0 4
-14 3 6 6 5 8 9 13 笑
-5 Tracy 哭 0 11 13 11
-4 13 1 7 Charlie Tracy Tracy 6 6 哭 10
-哭 14 12 5 0 5 10 哭 1 14 8
-笑 笑 3 11 哭 14
-3 6 Tracy 2 Tracy 7 3 9 Jialu 11
-13 Tracy 6 13 14 哭 9 Charlie 9 10 10
-9 5 Tracy 4 14 14 Tracy 12 5 Charlie 4 1 12 笑 11 7 3 13 8
-6 7 5 11 2 6 3 2 2 8 6 5 10 Tracy
-4 11 3 9 10 13 4 11 0 6 11 1 5 2 3 12
-8 12 7 9 哭 12
-11 5 14 13 Charlie 笑 10 4 8 10
-7 8 9 0 14 14 9
-13 4 3 5 8 4 9 0 0 10 4 14 1
-8 8 Jialu 13 5 1 12 哭 3 14 Tracy 1 1 10 8 10
-Tracy 0 5 9 笑 笑 哭 10 10 1 3 6 4 哭 9 11 11 4 11 6
-哭 8 12 7 Charlie 14 0 Charlie 9 Jialu 7 0 3 9 11 Jialu 11
-7 7 8 7 14 5 10 7 9 6
-11 9 13 Charlie Charlie 8 10 7 14 2 4 6 3 1 Jialu 8
-1 7 笑 Charlie Tracy 8 9 12 Tracy 10 7 10 10 11
-11 0 3 9 6 0 8 笑 5 8
-Jialu 13 笑 6 6 哭 2 4 笑 0 10 哭 4
-0 1 2 4 笑 7 4
-6 12 Tracy 8 4 Charlie
-3 7 Jialu 哭 12 哭 3 2 14 0 Jialu
-笑 1 1 2 9 13 12 2 8 8
-1 哭 12 Charlie Tracy 13 Charlie 3 12 3 2
-3 14 0 14 9 0 11 2 0 3 5
-笑 笑 8 14 Charlie 14 0 11 笑
-0 6 6 哭 1 Tracy Charlie 13 1 9 0 0 5 0 11 12 12
-3 哭 1 笑 11
-1 14 Charlie 13 2 1 Tracy 3 2 4 Tracy Jialu 14 0 10 9
-8 5 哭 0 3 4 8 14 0 4 11 12 11 哭
-4 哭 11 12 9 笑 0 哭 笑 3 5 4 1 哭
-12 3 12 10 Jialu
-12 12 笑 2 11 6 哭 0 3 10 6 14 Charlie 1 笑 6 13 7
-13 Tracy 9 1 14 哭 7 7 11 5 11 9 1 12 8 6 Tracy 9
-12 0 14 2 笑 10 Charlie Jialu 4
-1 7 10 5 11
-哭 10 14 10 13 5 笑 8 4 4 哭
-11 13 14 哭 1 笑 3 Jialu 1 14 6 2 哭 11 Jialu Jialu 7
-9 笑 Jialu 10 Tracy 7 13 笑 4 Charlie 12
-4 5 13 0 Jialu Jialu 12 8 笑 笑 13 5 Jialu 13 5
-10 11 0 Jialu 哭 7 Jialu 3
-7 哭 12 11 10 哭 5 6
-2 14 14 12 Tracy 9 Jialu 8 4 11 3 笑
-2 10 13 Tracy 12 7
-6 4 13 哭 14 13 13 13 Tracy 6 8 11 14 Jialu 1
-1 1 14 3 12 5 9 Tracy 10 3
-3 6 0 哭 8 笑 Charlie 14 6 4 11 2 5 6 7 笑
-Charlie 12 13 2 8 6 9 6 8 2 13 1 8 14 11 Charlie 5 0 6 0
-笑 8 10 Jialu 12 2 笑 Tracy
-7 10 7 9 12 4 笑 7 3 4 5 8 哭 Charlie 10 1
-14 8 2 4 6 Jialu 笑 笑 Charlie 哭 10 笑 12 6 3 12 9 哭
-Tracy 3 Jialu 1 3 Tracy 哭 3 1 10 0 4 5 11 6 7 1 10
-Tracy 笑 3 Tracy 11 1 哭 9 14 11 Tracy 2 10 6 2
-Tracy 4 2 0 13 5 10 6 6 9 9 5 4 笑 13
-1 Jialu 11 11 哭 Jialu 9 3 8 Charlie
-笑 Charlie 10 10 6 14 11 10 2 5 11 笑
-11 哭 8 Tracy 9 8 Charlie 2 Jialu 8 1 笑 Tracy 13 4 6 哭 11
-Tracy 6 5 11 12 7 2 Charlie 5 11 Tracy 1 Tracy
-5 2 6 9 14 1 哭 笑 7 10
-10 5 4 12 2 8 5 3 2 12 笑 8 14 2
-12 0 12 13 5 8 6 10 Tracy 8 5
-Tracy 3 8 Tracy Charlie 6 Tracy Jialu 4 7 哭 笑 笑 12 14 10 13
-9 哭 7 0 8 10 1 9 9 14 6 6 Jialu 10 14 8 0 9 6
-笑 14 5 0 2 9 6 Tracy 9 13 11 14 11 8 7
-7 13 14 3 11 7 12 8 Jialu 9 9
-Charlie 8 10 哭 7 4 笑 8 哭 4 3 4 11
-笑 1 6 6 9 Charlie 14 Tracy 9 9 Tracy 4 1 12 12 14
-0 13 7 5 14 10 4 0 1 11 5 6 8 3
-10 14 Tracy 4 Jialu
-Charlie Tracy 1 14 14 1
-Tracy 0 8 1 Charlie 9 1 Jialu 10 12 8 4 11 12 14 哭 1 10 4 12
-0 4 哭 5 2 1 11 6 笑 6 3 10 3 笑 8 4 7 2
-11 0 0 14 哭 5 10 13 哭 Jialu Charlie 13
-0 Jialu 7 8 7 Tracy 5 8
-10 Charlie 0 7 4 14 4 0 Jialu 14
-笑 Jialu 13 7 Charlie Tracy Jialu 哭
-8 2 10 2 11 11 1 7 11
-7 6 12 Charlie Charlie 13 6
-1 哭 4 14 12 8 哭 3 Tracy 7 哭 笑
-8 2 6 Charlie 笑 哭 8 13 0 1 8 5
-Jialu 12 4 0 笑 笑
-14 14 2 Tracy 10 哭 11 13 0
-13 笑 Jialu 0 9 12 哭 Tracy 8 12
-1 14 0 0 笑 3 4 5 9 8 5 Charlie 11 4 Tracy 4 Charlie 13 Tracy
-3 4 Tracy 5 5 笑 5 2 1 8 6 1 4 3 0 Jialu 笑 8 Tracy
-2 5 10 0 0 Jialu Charlie Tracy
-6 4 12 Tracy Charlie 哭 笑 2 8 14 11 Tracy 0 4
-Tracy 8 Charlie 13 Tracy Jialu 笑 Tracy 13 2 0 11
-Jialu 3 3 Tracy 4 1 7 13 11 12 0 5 Jialu 11 笑 0 笑
-哭 6 7 哭 Charlie 7 0 12 11 3 哭 Charlie 9 Tracy 5 10 3 Charlie 2
-4 6 Jialu 笑 2 5 Jialu Tracy
-8 9 11 笑 8 Charlie Jialu 0 1 8 Jialu Tracy 10 1 哭 笑 哭
-笑 0 0 6 5 5
-7 14 11 1 12 Charlie 9 1 12 1 7 12 14 13 Jialu 7 8
-Charlie 4 5 0 Jialu 4 Tracy 7
-Tracy 8 11 Tracy 6 5 Tracy 4 14 9 11 Jialu 14 14 Charlie 4 4 哭 4 Jialu
-3 0 4 Tracy 5 0 11 笑
-10 2 笑 7 7 1 2 笑 11 3 12 3
-14 Jialu 4 Charlie 4 11 Charlie Charlie
-Tracy Charlie 1 0 Charlie 5 笑 1 11
-1 11 3 Tracy Charlie 6 13 12
-0 2 4 4 哭
-10 0 4 Jialu 4 9 14 1 6
-2 4 8 14 11 6 11 9 9 12
-5 8 14 Jialu 6 Tracy 9 10 11 哭 6 12 3 8 10 9 0
-4 4 3 2 Jialu 8 6 0 笑
-7 Charlie 3 1 3 10 0 Charlie 7 7 4 9 12
-笑 Tracy 5 1 5 4 8 5 10 14
-12 Charlie 10 0 哭 Tracy 11 4 7 8 11 Jialu 1 12 6
-0 14 7 11 1 11 Charlie 9 14 6 14 12 Tracy 13 6 13 14 8
-14 Tracy Tracy 哭 13 Tracy 9 哭 2 11 2 哭 6 8 5 Charlie 11
-11 12 7 Jialu 1 12 6 9 11 0
-10 笑 0 8 Tracy 2 6 笑 7 5 0 3 2 Jialu 2 哭 14
-12 12 3 5 Tracy 12 Jialu 12 2 Jialu 哭 Charlie
-11 笑 11 14 14 4 13 11 14
-3 5 笑 哭 4 1 笑 哭 3 Jialu 7 9 2 0 4 1 Tracy 5 1
-10 2 1 14 11 5 哭 2 8 8 Tracy 哭 哭 3 4 5 Tracy Jialu 8 13
-哭 Jialu 2 11 0 6 13 13 5 Jialu 4
-Tracy 8 10 11 7 4
-0 Tracy 0 8 Tracy 4 笑 哭 0 14 笑 4 1 7 笑 11
-8 8 7 Charlie Tracy 14 10 Jialu 5 哭 Jialu
-7 Tracy 8 1 14 3 14 哭 3 13 5 4 2 9 7 5
-7 Charlie 6 2 笑 7 Charlie 3 Charlie Charlie Tracy 13 Charlie 哭 11 Jialu 10
-Jialu Jialu 9 12 3 13 12 0 2 12 Tracy 7 0 14 Jialu 8
-1 笑 13 笑 14 5 11 Jialu 1
-6 7 12 6 3 11 2 14 1 6 14
-4 14 9 笑 1 9 12 哭 13 3 5 6
-6 Jialu 6 1 11 哭 6 1 11 9
-9 2 9 11 1 4 Tracy Tracy 2 笑 9 4 8 13 5 Jialu 10 6 2 哭
-哭 10 14 1 11 1 6 3 13 10 Charlie 笑 笑 笑 8
-哭 7 Jialu 11 7 10 Jialu 1 Jialu 9 0 13 1 4 11 14 Tracy 0
-哭 笑 14 7 5 4
-13 5 8 Charlie 5 6 笑 哭 0 9 10
-2 Jialu 11 13 笑 Tracy 5 2 6 14 12 8 10 2 1 8 11
-3 13 Tracy 10 6 8 11
-Jialu Charlie 11 1 13 10 6 11 12 14 Tracy 14 10 12 12
-5 笑 13 哭 1 4 13 哭 7 笑 5 Charlie 1 Tracy 0 4 0 12
-5 14 Jialu 3 5 14 14 笑 2 3 5
-2 哭 3 Charlie 1 1
-Tracy 4 10 9 7 笑
-7 5 3 14 14 9 8 Charlie 7 0 Jialu 5
-哭 6 4 笑 5 3 哭 Jialu 12 5
-3 3 1 13 笑 Charlie 5 11 2
-Jialu 5 3 13 10 Tracy 0 Charlie
-14 1 8 5 Jialu 0 14 4 5 12 5 12 14 2 5 Charlie 5
-哭 2 哭 7 4
-Charlie 13 14 5 笑 Jialu 9 Tracy 2 9
-Tracy 14 14 9 11 Tracy 哭 4 6 5 5
-12 笑 6 12 14 1 3 6 笑 12 1 Charlie 7 1 Jialu 笑
-5 11 Charlie 1 3 6 10 13 哭 10 14 6 14 Jialu 3 11 7 0 11
-14 Jialu 13 4 笑 11 Tracy Charlie 5 2 13 笑 9 2
-13 哭 哭 14 4 14 14 3 笑 11 6 6 14 3 3
-2 14 13 3 13 笑 5 8 10 3 笑 4 4 1 6 10 3 0
-Jialu 10 0 Jialu 14 Charlie 0
-8 3 11 14 9 7 7 笑
-8 9 12 5 11 4 7 7 10 6 10 9 哭 9 3 1
-2 0 6 13 Charlie 1 Jialu 11 11 14 笑 10 7
-11 13 4 Charlie 5
-2 2 笑 2 Charlie 笑 Jialu Tracy 13 Charlie 14 哭 1 Tracy 13 8 7 2 12
-11 11 5 14 11 4 9 5 13 13 Jialu 3
-3 5 8 Jialu 1 Tracy Tracy Jialu Jialu 10 12 11 13 10 13 笑
-11 1 Tracy 6 哭 4 13 7 8 1 11 Jialu
-10 10 Charlie 9 7 13 9 2 5 Jialu 笑 9
-13 6 13 Tracy 6 10 Jialu 12 5 Jialu Tracy 10 10 6 8 0 9 1
-7 4 5 Charlie 笑 6 Charlie Tracy 5 10 8 Tracy 11 哭 Tracy 8
-哭 Jialu 7 7 Charlie 0 3 2 12 7 0 14
-1 2 4 哭 Charlie 9 5
-4 13 Jialu 3 10 哭 Jialu 笑 6 Jialu 笑 14 8 0 2 11 9 Charlie 1
-Charlie 6 5 Tracy 6 2 14 7 笑 哭 0 2 8 9 11 12 3 1 Charlie
-14 14 12 11 8 5 0 10 14 7 4
-12 6 Charlie 0 1 1 0 14 5
-笑 Tracy 10 Tracy 1 2 1 12 7 5 10 10 11
-5 11 13 11 4 13 4 Jialu 哭 5
-Jialu 12 3 12 8 10 7 0 14 12 10 8 8 13
-13 Jialu Tracy 3 4 7 2
-4 5 4 1 Jialu 3 6
-10 5 哭 哭 Jialu 6 笑 9 Charlie 1 11 3 Tracy 1 8 笑 12 13
-2 10 10 14 2 9 6 6
-Tracy 13 笑 7 1 10 8 2 5 5 7 6 8 5 11 13 12 9 12
-6 8 6 11 Jialu
-3 9 10 12 5 5
-哭 11 9 8 Tracy Charlie Jialu Tracy 10 Charlie 11 3 2 10 Jialu 5 12 11
-5 哭 1 5 13 1 12 11
-哭 9 笑 5 Jialu Jialu 13 0 2 Charlie 7 4 笑 Jialu 5 1 7 1 Charlie
-14 6 6 笑 10 4 2 11 5 哭 2 Jialu 1 笑 14 1
-哭 9 5 8 Charlie Tracy 14 Jialu Charlie 7 0 9 哭 哭 0 8 笑
-10 13 2 Jialu Tracy 2 7 Jialu Charlie 0 3 0 1 3 10 7
-11 1 笑 13 2
-7 13 9 9 14 5 哭 3 3 9 Tracy 13 0 9 哭 9
-4 7 6 5 0
-12 14 14 4 12 2 4 5 2 哭 2 6 Tracy 1 5
-7 5 Charlie 6 7 11 4 5 2 哭 3 12 3 8 5 Jialu 9 14 3
-Jialu 14 1 哭 笑 8 4 9 6 11 笑 0 2
-笑 12 6 3 9 4 1
-14 哭 7 8 9 12 10 8 14 5 4 10 2 7 12 4 11 8 Tracy 6
-6 笑 Jialu Jialu 1 5 哭 3 5 4 11 0 13 Jialu 0
-Charlie 4 5 1 2 Charlie 14 1 Charlie Jialu 8 笑 3 Charlie Charlie 2 6 1 7
-Charlie 13 Tracy 6 Charlie Tracy 9
-Jialu Tracy 4 10 13 2 Tracy 12 哭 3 4 14 5 Tracy
-5 4 7 4 1 4 笑 哭 4 9 8 1
-Jialu Tracy 14 13 9 12 哭
-7 笑 Jialu 笑 3 笑 Tracy 7
-10 1 5 6 7 4 1 13 8 7 11 14 9 7 14
-笑 5 10 3 2 Tracy 13 8 6 13 14
-8 14 14 哭 Charlie 3
-6 Tracy 笑 0 12 Jialu 13 3
-4 6 4 Jialu 13
-5 Tracy 4 1 10 Tracy 10
-12 哭 0 8 6 14 1 13 3 10 8 9 Jialu 11 10 10 8 Jialu
-2 6 哭 哭 9 0
-Tracy 4 11 1 9
-8 笑 3 7 4 14 8 12 6 14 8 4 10 Charlie 8 3
-10 10 3 笑 Charlie Jialu 2
-哭 哭 哭 12 14 Jialu 13 2
-6 2 7 12 0 14 7
-7 哭 10 3 5 Charlie
-笑 8 4 12 3 Charlie 笑 0 0 2 0 Jialu Jialu 14 6 12
-0 4 8 2 Tracy 9 0 7 4 笑 4 2 哭 笑 哭 4 1 6
-1 5 1 12 哭 11 3 14 7 0
-1 3 3 0 14 14 5 1 Charlie 13 12 7 笑 4 Jialu 3 6
-0 4 2 笑 Jialu 5 12 3 6 Tracy 1 哭 12 哭 14 13
-5 13 Jialu 7 14 0 10 0 2 8 10 12 5
-0 哭 0 14 13 哭 4 Charlie 哭
-笑 2 9 Jialu 14
-12 4 12 5 7 哭 Tracy 6 9 8
-13 0 14 Tracy Tracy 3 2 9 Charlie 12 3 笑
-Jialu 13 1 笑 8 0 5 7 12 12
-Tracy 3 哭 8 4 Jialu 1 11 Charlie 1 6 10 13 12 笑 4
-14 Jialu 0 0 12 1 5 笑 5 6 12 13 4
-3 7 7 3 哭
-3 Charlie 笑 6 8 11 笑 10
-13 14 0 0 Jialu 9 14 12 7 笑
-Tracy 哭 10 笑 Tracy 哭 6 Jialu
-1 7 1 0 Charlie Jialu 2 4 10 1 6 12 9 9 1 8 6 8 13
-Jialu 2 2 4 4 12 哭 0 1 7 Charlie
-10 3 8 9 Jialu 10 5 12 8 哭 9 6 11 0 1 14 5 5
-2 8 5 1 哭 2 4 10 Jialu 6 6 3 10 4 3
-1 14 笑 0 1 14 12 1 Jialu 10 10 6 0 8 6 10 13
-6 12 8 8 Tracy 哭 1 7 5 9 3 8 Tracy 哭 10
-10 11 5 8 哭 Jialu 11 10
-0 5 Tracy Jialu Tracy Jialu 0 Jialu 1
-2 6 13 11 4 7 Jialu 5 14 4 10 8 Tracy 笑 0 9 5
-Tracy 8 哭 Tracy 6 14 8 笑 10 6 4 12 4 Tracy 13
-11 1 12 Jialu 12 哭 1 Tracy 9 9 4
-13 14 4 10 14 0 5 哭 0 Tracy 12 10
-10 2 4 8 Tracy 14 4 10
-2 13 哭 3 Jialu 13 Jialu Jialu 11 哭
-Jialu 3 2 7 3 13 10
-12 8 12 1 4 9 13 14 2 10 8
-13 12 6 14 1 Charlie 11 4 笑 13 3 Jialu
-8 Tracy Charlie 0 14 7 4 7 5
-7 3 1 12 10 Charlie 5 8 1 14 5 哭
-Tracy 笑 13 6 Jialu 哭 Jialu
-13 Tracy 5 Charlie 4 2 0 3 Jialu
-1 5 13 3 笑 4 4 3 9 Jialu Jialu 14 3 笑 6 7 3 2 11
-4 14 13 8 哭 Jialu 哭 Jialu 4 1 哭 Tracy Charlie Tracy 5 Jialu 12 0 14
-Jialu 3 哭 0 11 Tracy 0 8 3
-2 哭 12 9 6 12 6 4 2
-3 4 1 2 11 14 4 6 11 1 Charlie 2 13 2 4 3 1 哭 11
-哭 9 13 11 Jialu 3 9 10 14 笑 14 2 11 10 3 Charlie 6 1 Tracy
-11 10 Tracy 4 12 Jialu 14 12 8
-笑 笑 8 4 Tracy 14 4
-7 5 Jialu 8 6 0 7 6 Jialu 11 Jialu 哭 10 Tracy 4 0 笑 哭 0 Jialu
-13 7 笑 Jialu 7 0 14 0 5 Tracy 3 Tracy
-1 Jialu 1 11 4 Charlie 4 哭 12 4 7
-6 5 笑 6 Tracy 9 Jialu Tracy Jialu Charlie 8 9 7 8 4 哭
-10 5 笑 14 5 6
-0 14 Charlie Jialu Tracy 7 2 14 Jialu 12 Jialu 5 10 7 7 13 9 6 9 Jialu
-3 6 9 10 笑 4 4 6
-哭 12 Jialu 8 2 14 Jialu 6 5 2
-12 4 4 6 Tracy 8 Tracy 13 2 Jialu 14 14 Tracy
-2 8 11 3 11 9 14 6 5 笑 0 11 13 Jialu Jialu 9 14
-0 6 3 7 笑 哭 11 4 8 1 13 12 2 0 5 12
-2 0 5 8 7 11 10 3 13 3 10 Charlie 6 Jialu 6 7 9 4 0
-6 9 4 7 14 Charlie 2 6 0 3 Charlie 3 笑 9 10 Jialu 7
-Tracy Charlie Jialu 2 Jialu 12 笑 Tracy Charlie 0 2 9 笑
-Charlie 14 11 Tracy 12 10
-12 3 0 Jialu 5 5 Charlie 11 哭 8 8 Tracy
-Jialu 2 14 0 11 2 3 7 2 Tracy 13 9
-1 Jialu 10 4 5 Jialu
-9 14 3 13 笑
-哭 4 11 13 9 1 笑 0 2 0 6 Tracy Charlie
-8 3 6 笑 2 3 10 Charlie 笑 13 7 Tracy 13 9 哭 Jialu 14 笑
-0 Tracy 12 Charlie 1 8 5 Tracy 6 哭 13 笑 哭 8
-7 Tracy 10 Jialu 5 7 笑 11 Tracy 10 11
-3 笑 11 6 3 4 14 Charlie 哭 11 哭 7 2 Tracy 0
-1 12 7 2 7 笑 Charlie 12 1
-9 8 9 14 哭 10 9 2 笑 哭 Tracy 8 13 5 Jialu 4
-5 笑 3 10 Tracy 2 6 Charlie 笑 4 哭 Tracy 0 2 7 3
-笑 笑 5 12 哭 7 1 笑 10 14 14 Charlie 8 7 8 Tracy 9 14 14 12
-11 6 Charlie 2 6
-0 12 6 3 5 1 Charlie Charlie 14 5 Tracy 3 6 Tracy 8 8 1
-笑 3 3 9 13 3 3 5
-哭 6 0 0 13 10 4 2 Jialu Charlie 12 7
-7 10 13 13 5 4 14 5 10 5
-10 8 哭 5 笑 哭 1 1 0 3 7 7 哭 笑 13 10 5 12
-10 13 2 10 9 14 Charlie Charlie 8 10 13 笑 2 1 4
-1 9 3 Charlie 8
-14 9 8 笑 12 11 11 笑 7 Jialu 6
-1 笑 9 0 笑 0 5 10
-0 Jialu 4 12 12 2 2 8 12 4 10 11 Jialu
-11 哭 10 12 Charlie 10 7 Tracy
-2 14 1 4 3 5 2 14 Charlie Tracy
-哭 Charlie 10 4 哭 9 Jialu 11 0 Jialu 14
-4 11 Charlie 13 5 Charlie 8 3 Jialu 11 0 10 Tracy 笑 1 Tracy
-14 9 12 Tracy 哭 4 10 10 Charlie 哭 Jialu 7 13 8 12
-Tracy 9 Jialu 7 11 1 11 8 哭
-1 Charlie 8 7 14 Charlie 1 5 0 12 哭 笑 13 笑 10 13 10 4 1
-13 14 Jialu Tracy Jialu 6 2 笑 笑 2 笑 11 0 5 9 8 4 0 10
-8 14 13 Jialu 7 7 12 7 8
-12 Charlie 12 13 9 10 11 2 10 Jialu 3 6 13 Jialu
-8 12 哭 3 1 1 13 10 Jialu 11 哭 7 Charlie 10 11
-7 10 2 0 0 Tracy 6 4
-14 6 1 笑 13 12 11 4 1 11 6 0 Tracy
-1 8 2 9 7 3 1 Jialu 9 13 13 12 6 10 8 14 0 Tracy 6
-11 4 13 4 0 哭 7 0 12 笑
-Jialu 1 0 9 笑 13 Jialu 7 7 8 11 6 3 1 哭 1 1
-10 9 Jialu 11 Jialu 1 8 10 7 13 Tracy 9 9 Tracy 1 2 9 10 6 Charlie
-8 10 6 11 13 9 13
-0 4 7 8 哭 11 12 0 5 4 9 3 Tracy 10 0 8 3 9 5 1
-Tracy 1 2 11 0 4 12 Tracy 8 9 Charlie 2 11 9 8 10 哭
-7 4 10 10 12 Charlie 4 10
-Charlie 2 8 1 哭 14 6 8 11 3 13 5 1
-9 8 1 12 2 Charlie 0 Jialu 10 2 11 10 0 6 9 10 哭 5 10
-6 6 哭 笑 13 9 11 12 9 1 10 1 哭 14 Jialu 0 1
-笑 Jialu 10 Jialu 0 Charlie 9 4 5 Tracy 12 笑 13 Jialu 笑
-13 13 7 Charlie 13 哭
-14 Tracy 2 4 Tracy Jialu 5 Tracy 3 7 Charlie 4 5 13 Jialu
-6 13 4 哭 Jialu 7 0 6 3 Charlie 9 13 笑 9
-1 5 12 2 14 哭 7 Charlie Jialu 12 6 8 8 Jialu Charlie 0 6 3 13 11
-7 13 8 3 Tracy 10 2 8 14 笑 哭 7 9 5 1 Tracy 9 9
-9 哭 0 12 8
-9 12 14 Charlie 4 12
-哭 4 8 Charlie 0 笑 8 9 10 1 1
-7 8 9 2 哭 5 Tracy 0 13 14 11 7 4 5 14
-7 3 4 13 Tracy
-Tracy 哭 12 Charlie 9 5 Jialu Tracy 10 2 1 Jialu 11
-12 4 3 11 Tracy 1
-Charlie 12 3 Tracy 5 笑 12 1 8 1 10 2 11 13 10 14 0
-10 10 7 12 13 10 3 7 12 13 Jialu 2 5 13 4 14 8 6
-9 6 Charlie 6 5 2 2 12 8 8 Charlie 笑 12 12 1
-12 笑 14 10 Charlie 6 9
-9 13 11 5 Jialu Charlie 5 笑 Jialu
-10 5 4 Jialu 2 笑 Tracy Jialu Jialu 7 3
-11 13 6 5 12 6 Jialu 6 8 12 5 哭
-笑 笑 7 2 2 3 3 5 6 3 9 笑 0
-12 6 12 7 9 Tracy 6
-Charlie Tracy Charlie 8 2 7 10 6 14 笑 0 3 12 哭 5 哭 0 11 哭 12
-11 14 3 笑 哭 4 0 笑
-12 7 笑 4 14 3 14 9 12 哭 10 6
-9 Jialu Tracy 3 14 1 13
-10 Jialu 2 1 6 10 笑
-9 1 哭 4 11 8 14 4 1 4 5
-Tracy Jialu 14 5 10 9 Jialu 4 2 7 14 0 10 2 10 12 4 Jialu 哭
-7 哭 6 2 4 8 1 12 2 11 11 11 1 4 Tracy
-0 Jialu 6 12 Charlie 11 8 10 Charlie Tracy 11 Jialu
-10 12 哭 14 10
-12 哭 笑 6 Charlie 7 8 2 7 5
-4 2 6 1 10 Jialu 6 哭 0 Tracy 4 14 13 13 笑 笑 2 8 14 3
-9 Jialu Tracy 3 12 10 6 14
-1 5 5 8 3 11 5
-0 Charlie 0 1 Charlie 2 5 3 Charlie 0 3 14
-8 笑 7 7 9 笑 10 笑 8 哭 11 12 Jialu 5 12 14 Jialu 14
-8 3 3 6 Charlie 哭 6 9 Charlie 12 7 2 Tracy 14 9 4
-1 4 11 4 11 笑 1 Jialu 14
-7 2 Charlie 8 13 Tracy 8 2 2 11 14 11 7 7
-13 0 5 7 5 8 7 6 笑 1 8 Charlie 10 9 4 11 4
-10 9 Charlie 1 Jialu
-11 6 Tracy 2 11 12 4 3
-14 8 8 Tracy 7 11 11 笑
-13 7 6 14 10 13
-10 哭 Charlie 3 14 11 哭 8 1 10 6 12 9 5 8 Jialu 9
-6 11 3 2 Charlie
-12 6 1 2 12 9 6 哭 10
-Jialu Jialu 3 6 8 哭 哭 13 Jialu 3 7 9 12 13
-4 Tracy 9 5 4 6 14 7 5 1 12 4 0 6 12 6 10 7
-Tracy Charlie 0 10 13 3 哭 Jialu 6 Tracy 1 0 13
-Jialu 3 1 13 0 笑 1 9 Charlie Tracy 5
-Charlie Jialu 10 哭 笑 8 6 12 0 0 14 6 笑 Charlie 0 12 Tracy 6 14 8
-13 1 Jialu Jialu Jialu 8 哭 1
-7 1 Jialu 8 Charlie 1 Tracy 12 4 9 8 Tracy 哭 5
-哭 10 12 14 哭 哭 10 1
-1 10 3 13 3 12 6 10 哭 8 0 12 9 11 13 3 0 Charlie 2 2
-哭 Tracy 13 2 哭 1 3 笑 7
-5 10 2 8 4 Charlie Tracy 0 14
-10 6 4 4 13 11 2 Tracy
-6 11 1 笑 2 4 哭 14 6 Jialu 12 9 Tracy 0 10 3
-9 14 11 6 1 1 Tracy 7 14 12
-9 哭 10 9 2 14 笑 12 14 2 8 5 1
-6 8 1 9 Charlie 笑
-1 0 Tracy 14 3 Tracy 哭 7 4 10 13 12 10 2 14 Jialu
-9 3 7 6 12 8 8 9 8 10 笑 7 10 Jialu 10 8 3
-Tracy 5 9 9 13 12 哭 笑 Tracy 1 7 11 10 12 Charlie 11 4 1 笑
-14 7 笑 Jialu 10 3 9 2 6
-笑 Jialu 11 9 2 7 0 11 12 0
-8 9 12 7 5 Charlie 6 6 9 笑 Tracy 13 3 7 11 2
-10 9 13 2 Jialu 0 1 14 3 Jialu 14 3 13
-12 14 6 3 8 12 10
-2 14 9 12 5 5 0 笑 12
-1 12 0 10 4 12 13 1 12 13 4
-Jialu Charlie 1 9 3 5 Charlie 13 笑 14
-12 5 Charlie 7 4 5 11 3 9 Charlie 4 11 笑 2 7 4 4
-11 5 1 Tracy 笑 1 10 0 2 12 12 13 9 8
-1 6 12 13 6 9 0 笑 12 3 12
-Jialu 哭 4 12 5
-11 Jialu 12 4 12 13 12 笑 笑 Charlie 6 笑 Jialu
-11 Charlie Charlie 14 5 Tracy 11 Jialu 12 12 笑 4 8
-Jialu 3 0 2 2 5 6 1 0 6 Jialu 14
-8 Charlie Tracy 1 12 Jialu 14 7 4 Charlie 8 5 2 哭 6 Tracy 5 3 10
-Charlie 6 13 10 3 10 2 笑 14 11 0 12 Charlie
-7 8 14 0 12 14 Jialu 6 Tracy Tracy 4 0 5 12 3
-12 9 Jialu Charlie 11 6 Jialu Jialu 11 3 1 13 2 7 6 哭 Charlie
-9 5 11 2 8 13 8 7 0 哭 哭 Tracy 10 哭 哭
-0 3 Tracy 14 笑 14 12 4 Charlie 13 8 9 13 笑 笑 9 5 Charlie Jialu
-14 8 1 哭 Charlie 3
-4 Tracy 6 7 0 12 3 6 Charlie
-哭 14 哭 9 6 哭 0
-9 0 12 Tracy 1 Charlie 3 7 14 6 3 13 14 笑 5 8
-10 12 笑 8 12 12 14 9 5 Tracy 13 Jialu 8 4 11 6 9
-5 6 Charlie 11 0
-11 Charlie Jialu 9 6 11 1 6 14 12
-Jialu 4 笑 8 8 3 Tracy 笑 8 14 13 笑 13 Tracy 5 哭
-Tracy Tracy 8 13 5 0 10 12 7 7 6 Jialu 11 6 哭 3 Jialu
-Tracy Jialu Tracy 9 哭 8 13 14
-哭 14 Jialu 6 12
-7 Charlie 7 8 Charlie 1 11 11 13 笑 14 13 13 1 8 10 9 11 6
-Charlie Jialu 13 Charlie 6 13 7 5 14 12 Charlie
-12 11 Jialu 3 Tracy 哭 9 3 0 2 3 14 9 笑 7 11
-11 4 3 11 11 4 12 Tracy 10 10 6 Tracy
-1 笑 4 1 6 14 6 9 3 笑 4 笑 Tracy Jialu 10 Charlie 11 Charlie Tracy
-7 13 13 4 11 5 6 6 2
-Jialu 3 Jialu 0 12 5 哭 0 10 13 6
-10 0 13 9 9 5 6 4 3 13 14 5 14 9 Tracy 0 2 4
-12 Jialu 10 5 12 笑 10 10 Jialu 13 Charlie 12 0
-9 笑 0 8 7
-Tracy 13 3 笑 12 0 9 1 6 1 Jialu 哭 13
-Jialu 1 笑 9 13 7 Tracy 6 哭 8 14 4 10 4 2 Charlie 5 9
-11 Tracy 9 5 11 8 11 6 4 Jialu 8 11 14 6 11 哭 9 Charlie Charlie 3
-哭 6 哭 6 11 11 13 0 3 3 14 8
-0 13 6 7 11 7 6 1
-11 Tracy 10 Tracy 5 Charlie 13 9 14 4 5 11 8 笑 1 5
-1 11 Tracy 8 3 哭 Jialu 14 0 14 7 4 3 11 笑 2
-12 12 Jialu 3 4 8 2 6 6 4
-9 6 2 哭 14 7 Tracy 8 哭 8 0
-Jialu 7 Charlie 13 0 笑 5 11 5 2 笑
-11 哭 Tracy 3 哭 7 13 0 9 Charlie 10 1 4
-7 9 2 哭 7 笑
-13 1 7 13 Tracy 10 8 5 Jialu 8 11 2 10
-Charlie 1 12 笑 3 8 6 5 笑 10 8 11 10 14 笑 Tracy 4 哭 8 Tracy
-5 4 Charlie 14 11 14 12
-11 2 1 12 哭 Tracy 9 2 Tracy 4 8 7 14 1 4 Jialu 9 8 13
-7 10 0 13 笑 5 11 Jialu 4 10 Charlie 14 4 13
-14 12 8 13 7 1 4 3 0 Jialu
-Jialu 7 11 2 3 Tracy 13 1 1 哭 7 14 6 哭 4 哭 0 10
-Jialu 1 Charlie 13 Charlie Jialu 13 8 哭 5 笑 10 13 2 13 4 笑 3 11 7
-哭 0 11 14 13 9 12 13 笑 8 6 9 Tracy 7 7 哭 14
-3 7 4 10 Tracy 10 8 哭 8 笑 8 10 8 9 8 哭
-7 Charlie 4 5 3 14 12 1 5 Tracy 笑 1 10 6
-1 3 8 0 8
-1 Jialu 13 7 11 Tracy 12 2 12 4 1 12 Tracy Jialu
-10 7 7 笑 14 5 13 7 5 14 7 14 10
-7 1 12 Charlie 3 10 9 3 0 哭 4 5 笑 0 1 11 4 Tracy 5
-笑 Tracy 8 2 14 2 10 Jialu
-5 10 9 Jialu 5 8 6 9 9 笑 1
-5 Jialu 7 笑 2 Charlie Tracy 6 笑 笑 1
-14 5 哭 7 11 Jialu 11 8 4 4 Charlie Charlie 12 7 8 5 哭 1 3 Jialu
-笑 11 0 12 笑 哭 0 9
-哭 3 1 1 3 4 8 Charlie 0 哭 11 9 哭 12 Charlie 6
-6 2 8 12 14 12 10 4 4 5 2 笑 2
-3 Tracy 2 14 4 0 哭 4 哭 Charlie 2 Jialu 11 11 1
-9 5 1 3 1 哭 1 11 1 0
-12 11 8 0 1 9 2 12
-1 11 哭 1 哭 11
-13 10 12 1 笑 5 笑 5 13 8 7 4 6 5 9 Tracy 8 12 0 6
-6 6 8 10 Tracy Jialu 10 Charlie 12 10 3 12
-10 哭 14 Tracy 0 14 8 12 10 笑 13 哭 哭 0 12 哭 1
-9 14 14 5 Jialu 2
-0 哭 0 哭 10 14 13 6 10 4 5 7 笑
-0 Jialu 8 1 Jialu 2 4 9 1 9 4 1 0 Jialu 6
-Tracy 11 10 1 7 笑 5 5 11 13 Charlie 7 6 Tracy
-3 哭 5 笑 10 1 Charlie 13 14
-6 11 Tracy Charlie 12 6 4 Charlie Tracy Charlie Tracy Tracy 5
-5 13 6 9 13 哭 2 13 哭 9
-14 11 Tracy 12 笑 哭
-2 Charlie 哭 3 14 Charlie 9 14 10 9 5 笑 笑 5 笑 6
-13 12 Jialu 哭 10 Charlie 13 12 0 4
-0 8 3 Tracy 13 Jialu Jialu 笑 6 5 Tracy 10 12 笑 Charlie
-2 13 12 2 8 1 Charlie 1 Jialu 10 10
-14 笑 11 9 13 Jialu Jialu Tracy 笑 笑 11 笑 Tracy
-9 5 Jialu Jialu 笑 9 Jialu Tracy Tracy 笑 11
-5 0 Tracy 14 Tracy 笑 8 9 0 哭 4 2 5 9 9 10 10 13 9
-2 13 2 12 11
-笑 0 1 13 12 Tracy 4 11 6 6
-1 2 8 3 笑 4 2
-4 14 9 6 2 0 9
-Tracy 13 Jialu 哭 1 4 12 5 7 4 5 Jialu 8 13
-12 5 8 2 11 9 8 8
-14 6 14 2 2
-9 0 1 14 4 6 0 1 9 笑 14 7
-7 4 笑 7 8 10 6 12 11 Tracy Jialu 11 5 1 笑 12
-13 13 7 14 1 笑
-14 哭 5 笑 0 8 哭 哭 Charlie 9 3 10 1 6 9 8 2 3 Charlie 4
-3 11 6 3 哭 11 5 6 Jialu 8 12 13 Charlie 8 10 3 7
-11 13 13 12 0 Charlie 9 12 Tracy 13 Tracy 6 8 2 7 6 7 8 3 13
-6 笑 9 Charlie 10 4 笑 Charlie 5 1 11 9 10 13 0 0
-笑 6 0 哭 7 笑 5 Jialu 5 13 Jialu 8
-14 1 3 4 4 笑 3 2 5 8 哭 6
-Tracy 1 Charlie 2 Jialu 笑 3
-笑 1 12 Charlie 1 Tracy 14 0 10 Jialu 11 6 哭 2 2 8 9 9 10
-5 0 11 哭 哭 11
-3 10 Tracy 5 0 12 7 11 笑 5 13 哭 3 10 12 笑 6 Jialu
-10 9 13 13 1 11 Jialu 6 Jialu 5 10 0 1 10 7 11 4 4 2 11
-13 12 Tracy 7 Jialu Tracy 哭 10 5 4 11 2
-Jialu Tracy 2 11 13
-2 Jialu 14 1 6 7 笑 Jialu 4 2 3 笑 笑 Tracy 5 13 14 Charlie 0 Tracy
-1 14 笑 4 13 6 Jialu 8 5 哭 8 13 11
-Tracy 9 1 14 11 Tracy 9 1 6 Tracy Jialu 8 5 5 13 14 9 Charlie 14 5
-2 5 5 14 笑 Charlie 13 9 5 1 8 0 Tracy Tracy Charlie Charlie 8
-4 6 1 13 笑 3 8 Charlie 8 Charlie
-13 10 1 14 4 12 13 1 2 哭 2
-0 哭 10 12 5 11 0 12 9 Tracy 11 3
-0 11 Tracy 7 12 9 1 0 5 14 7 Charlie 5 2 笑 笑 Jialu 2
-2 3 13 3 8 12 Tracy
-笑 6 14 Jialu 11 9 12 Tracy 11 3 Jialu 8
-13 7 8 11 12 8 7 哭
-13 Jialu 10 2 12 11 Charlie
-8 7 11 10 13 Charlie 1 14 5 10 1 Tracy Jialu 10 14 Tracy 笑 Tracy 哭 3
-笑 Tracy 10 3 8 13 Jialu 1 2 3 6 13 0 8 Charlie 6
-14 10 笑 13 1 6 12 8 9 10 7
-Charlie 6 8 3 7 Tracy 哭 5 Tracy Tracy 14 1 笑 3 10 哭 2
-10 4 12 Jialu 哭 2 11 Charlie 8 7 1 6 2 哭 4 Jialu 12 1 13
-4 7 3 Tracy 2 7 6 9 0 Charlie 哭 笑 笑 11 Charlie
-1 12 哭 2 8 Tracy 10 5 Charlie 5 11 Jialu Tracy 3 7 5 3 8
-8 8 11 13 12 10 Jialu Charlie 13 7 哭 1 3 9 Charlie 12 14 14 11
-1 Jialu 3 1 2 1 8 4 4 0 10
-7 0 11 14 12
-3 11 7 Jialu 3 10 14 13 0 5 哭 13 笑 Tracy
-Jialu 2 11 11 Jialu 7 笑 10 Tracy 哭 10 7 10 10 6 6 Charlie 11
-0 Charlie 11 Jialu 0 Jialu Jialu 14 8 10 10 13 1 8 6 0
-Tracy 14 1 哭 Tracy 0 Charlie 13 Charlie 6 哭 哭 9
-哭 11 12 8 6 3 Jialu 笑 2 0 2 11
-Jialu 12 1 3 Jialu 笑 Tracy 12 13
-14 14 2 14 9 6 Charlie 0 0 7 6 Charlie 4 7 4 0 7 6 7 5
-4 5 14 8 14 6 笑
-0 14 8 3 11
-5 10 4 12 0 12 Jialu 5 5 4
-1 Tracy 10 2 哭 笑 Charlie
-0 6 14 Charlie 7 12 0
-13 4 0 4 哭 6 2 3 4 Jialu 0 12 Charlie 1 4 0 10
-8 哭 11 笑 哭 1 5 14 11 11 1 1 11 8
-哭 哭 14 5 13 14 5
-1 4 2 12 14 14 9 3 9 哭 笑 12 4 哭 6 3
-Tracy 10 14 1 Jialu 6 4 Jialu Jialu Jialu
-6 12 Charlie 3 10 2 10 10 5 14 7 Tracy 9 哭 6 Tracy 13 4 12 9
-6 13 Jialu 2 4 10 8 10 6 Tracy 2 Tracy 1 Jialu 8 Jialu
-13 11 0 12 1 7 Charlie 11 13 7 6 14
-2 4 笑 Jialu 5 Jialu 13 3 0 7
-3 哭 9 0 4 Charlie
-12 Jialu Tracy 9 2 哭 4
-2 3 Tracy 5 12 12 7 5 9 0 Charlie 13
-笑 5 10 4 13 10 Charlie 笑 笑 8 10 10 11 9
-3 12 0 哭 Jialu 13 Charlie 笑 9 14 14 哭 0 Charlie Tracy 9
-13 0 13 0 13 4 0 Jialu 1 5 Charlie 2
-6 1 9 8 0 Jialu 笑 笑
-9 5 8 11 7 8 1 11 笑 笑 11
-9 9 11 Charlie 0 1 14 10 12 6 14 4 10 0 10 9
-Jialu 5 7 Jialu 11 5 Charlie 2 5 9 12 3 6 12 8 0 7 1 笑
-2 8 Jialu 5 3 3 4 12 哭 4 0 13 8 11 2
-3 Tracy 哭 哭 9 2 10 Tracy 6 11 笑 10 0 哭 1 8
-Jialu 7 14 13 9 1 12 1 9 14 8 8 5 4 11 14 1 12 2 9
-0 7 3 6 7 12 Tracy 7 9 哭 笑 5 4 4 Tracy 12 Tracy 10 12 8
-14 14 哭 5 3 0 12 12
-8 14 1 12 11 4 3 5 Charlie 10 哭 8 Jialu 10 笑 10 14
-笑 12 哭 笑 2 13 1 7 3 5 哭 Tracy 12 9
-10 2 0 10 3 12 Charlie 9 Jialu 笑 12 Charlie 1 12 6 Tracy
-14 Jialu Charlie Tracy 笑
-哭 2 哭 笑 0 1 13 1 笑 Tracy 13 11 0 Charlie Tracy 0
-12 Charlie 1 13 12 12 9 笑 10
-哭 7 5 Jialu 9 12 6 11 笑
-Jialu 6 2 14 10 14 14 0 10 13 5
-哭 10 1 7 5 7 10 4 10
-5 7 2 Tracy 3 12 笑 5 9 7 哭 10 13 2 2 7 9 Tracy Jialu 笑
-3 6 12 0 Jialu 8 5 0 13 2 笑 哭 Charlie 10 9
-笑 1 笑 14 2 12 11 Tracy
-4 12 Jialu 8 12 6 6 10 12 12 6 2 Jialu 0 Tracy Tracy 哭
-Jialu Tracy 7 10 Charlie 12 3 2 9 13 14 10 13 6
-14 6 5 3 11 4 10 Charlie 5 13 5 12 8 13
-3 Jialu 12 11 13 7 3 9
-Jialu 13 12 11 5 笑 9 14 Jialu 笑 5 笑 笑 1 4 Tracy Charlie 14 12 3
-哭 5 哭 7 3 哭 Charlie 10 0 1 3 4 8 Jialu 8
-笑 哭 9 Tracy 哭 哭 5 8 7 Tracy 2
-6 14 10 Jialu 13 2 2 1 3 2 11 11 1
-4 4 9 6 7 5 笑 哭 7 6 Jialu 3 11 13 3 9 2 7 10 笑
-12 8 6 1 13 12
-7 11 Jialu 哭 3 Charlie 8 哭 笑 4
-0 9 哭 2 8 3 13 2
-14 哭 0 12 哭 13 3 13 10 Tracy 笑 13 Charlie 13 Tracy 哭 14
-7 8 笑 8 Charlie 9 6 Tracy 哭 9 3 2 Jialu 0 8
+69 75 57 79 46 Charlie 18 62
+71 61 Jialu 73 52 83 67 49 18 4 90 34 笑 76 Charlie 4
+32 77 62 25 4 52 50 50
+77 84 34 48 69 80 18 94 6 52 71 60 29 40 51
+24 51 87 81 40 46 77
+46 68 5 49 1 74 86 67 65 44 61 21 32 10 76 70 81 90
+11 35 17 86 55 Charlie 2 33 48 16 51 44 41 哭 42 31 34 87 39 12
+84 44 79 68 13 62 39 93 47 50 笑
+91 8 70 39 18 34 34 34 34
+16 45 59 62 11 35 2 43 6 Tracy 35 76 44 92 43 20 74 20
+87 19 70 94 30 86 47 6 11 60 86 86 59 70 67
+22 18 33 67 32 78 11 68 86
+90 22 84 42 70 6 84 4 0 72 2
+90 26 32 78 75 72 17 16 70 85 69 Charlie 17 83
+43 40 86 15 哭
+10 93 66 29 54
+64 1 7 44 24 69 80 54 45 1
+25 24 3 20 21 13 1 46 86 80 25 41 83 9 87
+92 34 11 40 Tracy 5 22
+58 74 哭 2 62 43 39 87 56 9 14 92
+86 22 72 36 26 55 46 70 43 57 55 8 43 83 56 4 59 21 43
+52 44 18 78 18 77 24 64 86 21 1 Tracy 52 25 72 41 68 31 63
+83 37 83 64 12 90 31 51 53 93
+11 91 76 35 45 53 76
+53 87 53 60 27 63 77 61 12 Jialu 85 49 10
+62 21 91 85 Jialu 60 74 35
+69 7 94 17 51 14 38 27 17 17 15 2 82 76 17
+94 22 Tracy 14 38 10 91 31 25 18 51 25 43 31 54 25 5 79 89
+78 50 7 90 85 42 18 88 76 72 34 45 63 22
+74 哭 20 68 56 43 86 48 7 1 5 56 84 50
+91 41 Tracy 2 79 15 49 86 28 86 83 31 93 14 26 53 27
+92 46 56 5 55 20 24 92 0 35 46 5 0
+94 25 17 87 38 91 哭 82 94 52
+48 28 5 1 47 73 49 46 53 94 43 7 22 12 7 70 61 64
+77 哭 84 29 33 52 47 10 84 57 19 62 54
+88 35 Jialu 73 93 89 32 20 4 66 24 77 哭 51 35 10 Tracy 22 0 87
+8 72 19 84 55 42 86 15 17 64 20 84 3 79
+53 36 54 82 7 49 75 87 73 21
+37 39 89 37 43 28 9 41 57 74 11 2 84 23 59 13 42 49 52 75
+91 54 74 8 70 57 18 34 75 31 笑 82 4
+69 78 59 14 81 38 12 58 4 61 13 49 13 73 4 哭 73 70 15
+70 34 52 哭 26 91 92 20 82 10 2 92 54 1 49 2 69
+38 12 90 Charlie 81 93 78 67 0 65 39 41 24 16 74 26 39 90
+Charlie 22 84 40 1 72 74 64 6 42 38 54 9 52 72 66 59 87 73 笑
+11 36 哭 58 68 89 7 14 71 64 6 71 91 11 69
+58 77 17 79 17 27 38 15 38 79 44 84 4 71 78 30 73
+53 63 7 86 17 2 91 83 Tracy 82
+59 18 48 29 16 81 57 92 16 72 51 72 11 29
+23 81 67 33 67
+哭 51 62 26 2 42 53 75
+27 31 55 64 53 70 46 62 12 57
+26 39 25 37 50 85 69 61
+哭 62 73 31 72 2 65
+77 43 10 89 74
+16 27 74 7 49 68 67 27 32 46 56
+37 73 55 32 59 66 84 83 74 28 75 26 14 25 22
+79 20 69 37 28 72 48 0 59 44 20 45 47 34
+Tracy 62 15 83 63 84 33 56 83 1
+69 0 64 26 23 29 6 59 69 0 哭 28 26 27 67 哭 40
+Tracy 85 14 91 75 笑 92 40 57 55 Tracy 笑 76 57 53 63
+80 77 11 58 81 57 68
+68 84 11 83 43 43 13 76 66 33 70 33 42 哭 27 0 13
+29 15 54 10 66 26 48 84 63 8 Tracy 59 55 91 73 42 43 33
+68 58 0 4 74 5 80 0
+50 22 15 81 77 87 50 91 15 15 36 57 10 11
+80 76 79 80 40 64
+Charlie 42 52 32 73 75 25 80 7 Tracy 31 30 49 47 91 3 56
+44 19 50 40 46 94 66 34 84 73 83 79 32 83 94 Jialu
+29 14 47 20 31 47 19 87 1
+84 36 88 77 21 58 37 91 4 44
+50 68 53 71 37 笑 29 52 40 84 31 89 53 29 10 83 55 56 32 Jialu
+15 59 17 63 12 92 14 54 51 72 19 0 61 93 83
+53 58 57 54 61 74 Tracy 43 34 15 81 21
+56 25 51 27 23 Charlie 10 2 58 83 65
+20 60 56 25 54 49 Charlie Jialu 64 28 70 44 88 51 75
+18 59 69 73 19 61 76 49 28 91
+91 37 Tracy 37 26 78 94
+4 83 9 68 32
+14 55 72 12 87 11 82
+58 33 82 Charlie 30 86 89 29 18 72 8 18 34
+89 27 77 90 4 52 55 20 78 24 12
+5 75 52 24 55 21 50 71 39 88 80 53 44 3 Charlie 11 6 7 40 55
+25 53 72 7 64 43 77 75 18 65 73 15
+54 83 91 62 5 1 76 38 80 34 Jialu 50 15 93 88 55 90 14 Tracy 91
+48 9 33 65 94 78 58 42
+10 84 71 87 50 46 59 46 85 86 78 25 71
+8 70 20 哭 57 33 40 67 19 46 哭 56 94 44 5 0 82 72 71 2
+74 81 16 60 20 82 6 3 0 58 67 66 73 90 21 92 9 43 25 33
+63 62 53 1 36 86 82 41 44 73 9 70 17 20 72
+38 35 27 11 37 80 20 59 78 0 83 Tracy 2
+哭 45 14 18 13 81 37 18 50 8 80 70 37
+92 13 62 32 37 45 69 34 22 39
+29 68 笑 69 32 1 82 82 49 61 5 87 16 9 15
+81 62 54 23 42 12
+33 67 Charlie 85 74 92 26 65 0 29 58 76
+85 90 79 Tracy 90 71
+64 16 76 4 37 1 75 66 47 10 1 24
+0 22 47 14 58
+46 3 82 51 37 53 50
+60 13 31 10 40 24 10
+30 92 60 Charlie 19 73 69 11 23 35 15 48 36 41
+43 42 73 13 51 58 91 88 50
+47 80 22 92 23 91 7 52 26 29 73 30 37 94 0 16
+61 11 47 43 77 74 75 57
+80 88 78 79 84 3 82 23 73 79 41 29 24 88 31 86 64 74
+50 64 79 89 53 71 24 Tracy 91 21 32 59 48
+38 28 10 8 60 50 41 38 9
+10 22 33 46 22 67 75 71 0 76 0 16 93
+8 92 17 28 35 63 21 44
+50 47 88 10 29 7 74 54 42 72
+37 42 42 25 5 87 6 86 41 47 81 41
+21 31 56 92 73 76 76 Charlie 12 78 51 29
+25 2 94 84 12 87 6 11 2 Jialu 35 67 41 6 33 24 48 42 5 81
+35 41 36 82 59
+86 45 47 20 78 48 25 76 43 51 41 30 24 30 51 4 1 36
+66 44 44 1 74
+73 71 74 31 55 26 43 2 94 78 53 69 9
+哭 29 73 64 Tracy
+87 48 73 11 79 9 58 88 Jialu 33 63 8 61 65 8 71 35 86 5 64
+52 32 59 37 93 70 72 84 34 30 9 93 31 50
+82 70 66 68 37 6 89 66 0
+19 72 6 8 12 14 46 8 62 40 笑 19
+38 哭 3 26 51 82 30 9 76 70 92
+46 58 93 57 35 42 33 16 90 66 36 49 48 94 16
+93 59 67 73 32 11 Charlie 73 66 1 58 46 16 63 58 Tracy Charlie 14 85 65
+笑 73 12 5 35
+25 34 15 6 79 47 52 28 93 28
+22 55 6 41 88 91 17 Jialu 94
+65 87 87 20 35 44 13 40 38 88 4 61 77 47 92 59 27 66 23
+30 54 26 19 29 0 88 17
+87 49 10 62 13 74
+67 73 64 82 22 60 83 6 34 69 Tracy 83 49 90 54 3 85 29 86
+33 1 93 66 6 Tracy 26 32 72 78 92 8 51 7 60
+84 34 7 2 70 72 33 59 67 20
+74 83 Tracy 哭 5 17
+64 82 12 60 47 10 35 54 12 89 43 68
+笑 23 40 17 17 74 7 7 35 25 2 53 87 13 39 10 笑 37 10 93
+66 11 44 3 11 86 37 50 32 54 32 33 70 34 6 19
+83 93 43 笑 22 57 86
+4 3 36 12 94 79 82 13 6 26 19 44 82 50 75 42 37 10
+46 22 79 60 51 74 1 14 75 21 48 51 42
+71 70 53 4 16 74 71 44 6 50 1 50 37 9 36 39
+27 69 Tracy 28 60 88 44 11 10 7
+12 92 85 1 Tracy 5 68 10 85 75 26 36
+71 21 89 80 37 81 77 45 75 63 63 54 8
+12 23 笑 82 52 14 12 79 81 41 1 70 43 63 65 39
+30 16 1 58 47 41 34 89 26 75 3 24 20 78 1 27 45 13 86
+67 66 23 76 1 35 33
+76 72 72 30 Jialu 71 Jialu 90 90 37 23 83 1 67 84 79
+7 49 9 13 88 2 8 59 3 16 2 84 89 47 69 92 59 28 80
+Jialu 7 50 36 32 23 60 44 82 Charlie 哭 68 33 笑 81 92 0 36 18
+65 74 72 5 3 笑 80 73 69 9
+73 76 93 58 89 47 69
+38 32 85 13 49 92
+16 92 19 0 33 10
+15 84 57 9 11 33 71 82 12 1 66 66
+82 4 18 9 38 87 13 57 54 20 48 77 76 47 88 20
+7 29 0 18 40 75 6 7 22 56 34 30 25 73 6 40
+10 44 73 89 18 1 27 56 91 10 34 12 2 85 91 21 13 13
+91 50 26 7 45 笑 17
+65 60 65 61 73 16 80 笑 94
+笑 Tracy 15 16 42 70 20 15 53 44 57 72 69 59 13 59
+78 75 27 14 92 56 44 72 49 84 85 84 53 42 59 26 49 哭
+4 27 71 64 46 50 29 33 86 70
+33 72 53 58 51 33 53
+40 Tracy 44 9 34 31 15 22 93 Charlie
+68 64 80 53 9 28 86
+86 46 14 1 72 34
+66 78 74 33 70 90 3 29 44 79 10 33 24 38
+85 70 45 51 84 45 72 77 79 76
+75 79 91 27 76 39 71 41 76 67 37 80 2 39
+56 40 24 77 Jialu 66 Charlie
+哭 49 19 14 57 74 69
+15 61 57 68 41
+54 58 60 15 52
+57 9 笑 26 57 37 69 9 20 9 13 53 37 88
+21 23 47 13 33 61 68 51 39 67 Tracy
+36 39 31 5 90 31 37 28 89 90 笑 76 Tracy 46 73 26 2
+60 38 33 35 44 49 49 Charlie 44
+80 55 61 5 81 笑 71 90
+72 72 88 11 66 73 56 8 33 4 笑 31 55 83 33 84 22 72
+27 87 41 48 87 6 62 58 32
+13 79 83 50 43 32 50 86 Jialu 93 86 58 85 35
+24 11 13 63 55 Tracy 4 80 29 86 82 24 87 69 66 1
+81 23 61 16 36 33 19 Charlie 2 50
+46 51 3 59 62 18 22 85 6 13 72 86 24 81 6 56
+29 78 18 50 笑 哭 5 43 92 21 16 26
+70 31 71 15 64 22 49 15 1 16 54 16 5 12
+62 63 41 3 80 55 3 80 84 74 57 18 20 94
+27 28 20 92 43 84
+32 36 40 40 30 80 68 48 Charlie 22 54 64 5 43 24 92 6
+86 53 4 69 92 91 31 57 23 Jialu 70
+76 14 48 87 68 71 57 47 45 66 52 64 72 85 1 89 20
+73 57 10 59 62 17 76 24 39
+79 64 76 27 37 18 92 44 51 52 27 88 55 21 58 70 64 26
+10 6 63 91 89 49 笑 37 86 73
+Jialu 38 71 42 59 73 29 58
+20 26 4 31 2
+23 42 哭 34 9 57 89 83 52 65
+71 6 27 29 67 66 79 30 22 86 37 30 5 28
+7 91 19 53 21 79 61 6 62 19 84 77 89 49
+61 42 27 66 65
+52 44 42 17 36 64 45 47 59 Charlie 75 2 82 56 37
+4 11 25 18 9 89 55 9 Charlie 52 73 Charlie 49 46 77
+59 69 46 36 4 74 13 68 41 4
+66 51 Tracy 29 69 48 35 81 21 88 41
+79 58 30 93 73 57 笑 38 10 1 83 64 71 56 37 20 48 74
+85 17 53 15 94 21 笑 32 70 7 29 17 57 8 35 32 32 49 52
+73 21 63 79 64 15 48
+7 64 14 67 22 26 87 笑 16 38 2 4 13 62 73 58 52
+49 29 0 65 83
+Charlie 30 25 18 53 88 10 2 55 40 16 42 55 53
+37 26 57 64 1 29 0 22 62 40 13 27 50 84 20 79 Jialu 0 79 51
+61 17 70 74 89 43 60 19 54 86 61 54 75 77
+32 2 2 93 55 30 63 78 49 33 哭 77 2 65 75
+72 60 53 24 哭 45 73 73 58 61 94 57 58 28 19 82 29 77 65 3
+22 28 81 81 57 22
+30 20 49 19 84 3 2 75 51 81 5 44
+11 36 76 36 Charlie 34 2 Tracy 16 44 44 68 22 82 61 哭 56
+33 44 0 笑 72 3 4 74 73
+45 5 51 58 46 35
+15 88 16 73 41 64 44 53 56 60 35 14 39 69 5 4 7 42
+83 13 10 85 94 39 59 22 笑 56
+27 48 85 44 哭 Jialu 89 23
+35 4 Charlie 32 69 75 Jialu 49 11 49 12 58 76 94 67
+50 15 82 18 23 38 79 34 56 28 34 31 63 6 84 34 14
+35 15 64 75 71 43 82 10 52 24 64 71 81 48 16 0
+45 59 19 68 22 4 50 89 87 31 83 1 74
+90 53 54 66 76 23 91 40 笑
+90 89 16 9 22 16 41 82 38 63 58 29 79 6 56 38 5 32 34 9
+92 10 86 42 53 9 54 64 12 9 81 45 64 48 11 83 5
+83 85 55 84 45 18 36 52 9 79
+64 71 80 48 29 83 90 75 0 33 24 27 30 39 23 47 48 46 80 3
+35 56 2 27 36 39 81 21 42 49 Tracy 82 22 88 80 笑 48 Jialu
+16 23 4 84 55 51 1 19 14 0 56 46 3 3 19 76 67 17
+11 67 88 37 56 79 Jialu 42 22 Jialu 41 84 30 73
+73 90 12 48 12 50 81 哭 26 37 21 43 92 51 13 17 67 49 30
+49 65 58 Jialu 66 41 66 4 4 9 83 27 71 10 62 64 Jialu
+42 83 0 91 21 87 82 16 22 55 65 2 5
+81 18 48 76 71 57 37 53 哭 33 5 48 50
+7 Jialu 44 89 31 67 75 91 89 66
+50 24 33 24 64 13 39
+86 14 43 24 Tracy 89
+58 64 6 85 45 61 94 90 18 Tracy 49 37 81 60 56 88 79 10 60 90
+29 60 36 9 39 36 81 70 75 2 49 9 笑 60 84
+92 82 Jialu 89 64 2 81 75 26 48 60 65 4 60 77 62 12 6
+82 11 47 19 6 78 73 90 23
+78 2 31 32 39 78 42 35 19 43 5 84 66 46 74 24 57 45 8 66
+36 58 62 25 93 66 71 52 67 94 62 76 71
+67 10 72 92 91 80 43 48 85 45 14 58
+37 67 60 12 29 92 92
+43 76 7 62 63 44 Jialu 4 92 Tracy 30 92 21 26 28 Charlie 2 43 75
+71 59 43 45 56 39 33 Jialu 34 29 11 10 57 33
+12 1 40 84 14 42 22 29 81 84 32 16 24 82
+49 66 33 7 84 78 62 45
+59 10 69 52 3 哭 31 4
+46 80 42 81 3 20 9 51 21
+2 84 47 1 4 4 18 73 36 53 63 哭 Charlie 22 78 65 23
+5 70 18 31 73 86 2
+39 40 59 69 54 46 12 83 29 79 87 11 26
+93 45 1 7 90 30 11
+56 63 29 7 41 91 79 5 23 25 笑
+37 49 23 9 75 19 23
+74 93 38 14 1 41 31 94 27 58 62 76
+92 0 18 25 84 Jialu 91 83 10 54 60 89 19 68 20 76 44 55 91
+6 26 69 72 75 30 10 Charlie 80 56 64 笑 42 31 63 9 82 50
+20 12 32 87 49 45 94 93 28 81 21
+42 92 37 30 37 2 89 26 15 18 26 45 22 71 32 Tracy 58
+63 73 36 48 61 67 30 70 Charlie 87 93 16 77 32 68
+58 38 21 90 53 59 42 21 82 14 30 34 71 31 35 77 16 41 35 17
+79 65 52 83 笑 47 15 86 69 Charlie 46 77 44 28 61 12 75 9
+84 70 20 9 13 42
+61 78 31 61 46 72
+57 61 40 56 44 40 20 72 64 59
+11 52 42 8 5 26 75 45 76 17 56
+3 79 哭 38 58 Tracy 29 Tracy 36 94 57 14 82
+72 92 19 36 26 48 Charlie 17 88 52 69 59 91 46 68 7
+29 47 65 75 64 68 73 25 8 25 22 20 55 94 71 15 27 9 71 47
+28 35 86 69 30 58 81 46 60 3 23 56 46 8
+Tracy 88 30 10 94 80 51 哭 84 57 55
+21 63 35 15 37 49 78 23 68 10 48 79 14
+29 59 哭 55 8 69 53 82 31 哭
+49 78 67 2 22 89 7 6 75 11 79
+29 3 42 44 Tracy 70 62 7 Jialu 33 86 25 17 哭 5 27 72 88 73 47
+31 57 55 笑 84 68 56 18 49
+26 34 84 68 48 17 12 32 笑 19 53 21 36 37 52 22 18
+74 33 34 84 4 81 49 27
+44 87 Tracy 67 38 94
+6 75 0 88 0 67 33 86 25 5 28 18 62 23 68 17 41 47 93 88
+11 44 59 3 37 37 哭 71 82 83 5 30 44 Charlie 52 16 27 32 27 20
+56 90 24 1 2 Jialu 22 68 92 66 36 4
+59 57 30 22 57 34 76 54 33 笑 86 80
+4 73 28 91 26 43 43 Jialu 5 88 12 8 58 72 20 27
+57 36 41 91 6 59 89 60 70 55 Tracy 50
+7 45 19 6 85 5 73 25 哭 75 0 13 80 50 39 91 88 72 56 30
+19 83 33 42 34 24 15 28 72 13 36 34 41 25 62 20 5 91 6
+70 78 Tracy 37 68 29 37 21 62 94 91 60 39 87 68
+79 33 52 22 9 13 31
+44 1 56 20 50 13 87 71 89 52 笑 57 72 90 12 1
+11 90 12 53 48 87 38
+60 1 57 37 哭 3 44 90 11 9 Tracy 71 47 63 28 8
+0 39 24 52 27 94 69 34 75
+76 65 笑 90 27 51 39 31 87 44 79 28 73 41 15 85 11 23 50
+33 92 10 22 61 93 18 37 26 33 57 38 89 84 72 33 Jialu 22 15
+94 4 哭 17 33 24 90 86 68 14 20
+6 23 24 20 69 Jialu 52 38 89 79 42 24 93 21 60 10 59
+62 59 37 56 25 32 27 68 55 35 30 38 4 18 哭 56 67 2 56 76
+26 76 9 Charlie 40 1 19 92 92 32 93 94 78 94 75 84 69
+2 58 81 77 56 36 72
+18 18 Charlie 16 41 90 35 20 50 53 52 59 69 89
+74 40 68 3 25 0 10 45 25 17 82 61 14 23
+73 86 35 30 68 13 46 74 22 7 65 64 78
+3 3 87 6 88 46 26 30 38 70 86 42 18 86 35 81 84 83 23
+6 80 30 33 85 哭 29 51 8 69 20 50 11 94 35 38 42
+48 50 笑 7 41 79 Charlie 10 4 69 40 40 27 90 24
+57 33 1 33 55 16 9 Charlie 18 54 21 75 71 13 60 6 48 46
+33 91 94 55 39 69 82 33 49 54 Tracy 77 13 48 56 Jialu 59 35
+89 28 22 50 77 40 39 19 46 29 84 71 85 92 49
+56 29 60 94 33 58 59 49 20 3 56 77 37 82 62 39 哭 6
+26 26 92 6 76 22 哭 35 46 26 47 11 43 Charlie 45 29 27
+18 76 2 Jialu 76 39 82 26 90 69 85 14 39 53 81 49 7 47 52
+70 59 15 39 4 64
+16 73 89 60 21 59 45 54 11 30 93 53 94 25 47 89 22 3 31
+30 55 63 53 83 12 83 94 62 45 71 45 28 68 66 3
+43 17 65 53 44 24 5 34 28
+54 57 89 51 61 36 18 47 49 29 44 37 48 44
+90 44 90 Charlie 56 39
+66 20 28 24 59 51 49 79 86 Charlie 54 67 28 60 30 49 75 40 33 85
+21 哭 25 40 86 36 7 93 75 12 80 41 24 71
+5 7 65 77 64 1 92 Jialu 16 61 5 84 7
+66 61 89 54 32 35 52 38 82 38 1
+20 60 8 49 Tracy Tracy 92 56 28 38 32 20 23 73
+38 46 61 23 63 4 88 哭 66 38 47 20 56 79 11
+62 24 16 72 28 Charlie 58 30 42 30 12 60 70 31 11 52 57 2 64
+83 39 8 51 87
+5 15 41 4 21 20
+34 77 67 16 33 15
+25 66 93 86 5 56 73
+82 80 3 23 37 28 57 24 36 66
+90 0 50 Charlie 52 78 21 43 87 39 42 37 47 9 6
+42 92 33 48 77 41 57 30 52 29 42 38 51 59 8 17
+Tracy 54 72 51 33 22 44 63 76 10 21 9 0 44
+65 19 74 89 26
+Jialu 76 14 36 83 3 43 70 55 27 71
+笑 44 46 28 64 3 55 29 30 52 25 73 67 73 44 64 47 94 4
+40 53 73 94 88 93 58 16 59 18 52 84 14
+61 94 39 1 哭 36 45 35
+17 44 55 45 哭 0 34 60 19 70 42 27 84 70 83 84 75 42
+52 Charlie 19 2 67 46
+Tracy 26 52 61 52
+5 9 39 80 23 12 49 21 75 16 78 93 61 75 92 71
+2 46 76 77 40 24 29 15 7 41
+44 12 93 14 20 41 20 Tracy 36 60 74 16 34 88 54 6 83 64 28 38
+41 73 79 17 65 22 9 59 77 2 78 72 15 46 65 5 18
+80 44 16 19 39 24 12
+15 84 73 62 4 1 42 80 11 8 24 26 23 29 81 56 7 35 40 8
+27 37 58 88 45 3
+63 80 59 17 70 13 哭 55 13 71 48 56 46 39 18 26 9
+34 59 10 41 92 2 67 79 56 57 19 46 76
+70 61 70 44 3 52 91 27 75 76 27 83 50 66 72 66 59
+76 87 Tracy 65 31 68 73 89 32 31 Jialu 39 66 60 59 28 6 Charlie 70
+38 25 21 9 52 59 52 13 40 82
+53 5 2 12 13 Charlie 11 19 76 9 18 72 43 62 3 64 55
+62 8 94 86 58 21 80 66 75 41 Jialu 93 23 80 34 3 3 52
+71 59 72 33 44 33 64 70 73 49 Tracy 82
+18 21 5 36 17 85 65 18 14
+41 42 38 20 35 61 15 16 24 94 91 23 6 67 37 78 80 58 22 哭
+5 11 12 83 40 22 2 21 Charlie 5 10 34 90 39 77
+58 74 83 12 59 13 11 35 12
+Tracy 45 48 70 29 83 44
+64 68 24 80 46 93
+39 12 46 3 56 28 67 91 36 32 6 87
+73 44 29 63 73 3 19 46 69 73 41 18 22 63
+68 26 46 41 45 7 86 50 29 60 69 66 18 11 86 30 78 13 1 11
+11 22 哭 56 21 64 31 19 29 78 89 16
+25 12 8 40 35 53 63
+52 26 Tracy 笑 1
+68 24 15 47 71 93 35 12 17 56 60 47 31 86 41 72
+77 75 20 哭 88 25 69 46 17 70 8
+24 3 56 41 68
+Jialu 26 52 43 27 10 34 1 55 78 6 89 48 65 Charlie 46 20 24 80
+0 68 91 86 80 92
+78 48 Tracy 20 29 68 83 6 83 74
+27 27 19 25 44 24 31 21 哭 41
+26 71 7 62 43 61 30
+31 83 15 33 76 31 Tracy 52 70 93 0 4 85
+39 哭 63 64 75 15 1 52 45
+89 91 23 46 1 82 17 61 49 71 38 39 67 67
+80 54 93 72 44 37 47 53 92 46 11 92
+91 17 Charlie 45 74 78 16 71 0 1 29 笑 76 93 64
+93 25 77 58 36 10 25 14 17 20 Tracy 1 32 31 93 55 44 17 13 73
+18 3 72 87 53 27 78 44 10 32 38 10 48 61 60
+57 44 Jialu 28 16 笑 63 33 75 75 73 36 69 47
+Charlie 6 74 26 87 35 86 59 85 79 71 53 51
+45 65 31 16 92 10 75 32 40 44 29 12 53 9
+31 1 85 39 9 71 51 Tracy 24 10 69 9 29 35 92
+36 19 Jialu 45 45 60 Jialu 哭 6 64 10 31 0 30
+63 50 24 85 84 71 11 22 32 50 4 48 53 46 62 69 25 Jialu
+49 35 38 50 83
+40 76 29 82 91 78 27
+38 64 37 86 21 87 26 62 70 10 1 76 87 1 83 29 59 53
+88 35 89 29 71 93 4 21 1 64 30 79 48 0 80
+9 12 55 9 15
+89 4 89 17 35 55 72 57 58 69 41 81 30 71
+46 74 70 62 55 89 23 30 哭 38 10 73 39 72
+87 90 81 47 笑 63 42 75 63 23 90 70 82 7 53 39 9 32
+71 34 91 45 3
+37 45 69 38 75
+8 Jialu 21 79 46 26 87 80 10 12 85 85 26 27 83 42 24
+58 32 60 47 87 29 23 69 哭 30 40 83 79
+72 44 53 11 16 61 58 77 27 86 13 Charlie 43 88
+49 64 0 79 88 54 91 Tracy 85 79 85 22 38 33 6
+2 2 28 2 73 60 91 75 57 2 39 81 91 74 37 88 1 25 71 49
+7 笑 32 50 76 21 57 6 11
+86 26 1 27 26 91 57 笑 Jialu 45 28
+76 19 83 33 75 30 25 19 Jialu 33 60 10 64 25
+42 86 28 93 10 2 78 39 85 55 67 28 44 39
+82 57 30 73 88 61 61 70 36 71 17 22 64
+42 67 79 87 15 6 8 84
+20 52 17 7 57 60 46 67 11
+76 23 30 94 30 32 92 78 4 73 36 47
+81 69 Jialu 90 37 20 84 哭 14 4 22 31 56 79 24 28 59
+77 50 29 7 12 47
+82 54 7 87 42 35 65 80 42 32 Charlie 14 50 66 87 49 85 91
+1 2 49 69 88 35 41 27
+Jialu 19 3 89 89 39 22 Tracy 42 84 89 60 28 21
+85 85 11 28 27 52 53 62 91 82 74 59 14 35 5 2 36
+26 75 37 10 49 笑 74 54 0 18 41 71 64 35 85
+0 92 75 67 41 53 9 89
+80 20 8 32 32 92 53 47 6
+77 60 22 40 55 笑 31 75 85 5 17 26
+94 76 9 33 24 89 65 6 91 78 17 6 61 45 82 72 51 84 45
+5 69 11 2 68 83 44 32 70 40 10 24 66 13 83 46 35 90
+62 19 32 48 53 45 2 73 33 61 66 72 36 78 58 40 19 90 31 59
+Tracy 93 13 80 12 29 哭
+67 82 Jialu 2 20 11 69 53 78 67
+73 87 4 2 66 59 38 62 66 32 91
+5 51 33 3 30 57 79 20 24 75 93 33 0 笑 38
+91 88 76 80 21 44
+92 75 73 3 40 56 哭
+91 74 17 56 71 75 31 73
+53 哭 0 26 65 4 0 83 72 36
+9 Tracy 23 40 28 73 56 44 26 82 80 55 笑 62 69
+49 20 21 6 19 52 1 38 27 46 36 64 20 55 3 37
+0 37 哭 48 笑 41 86
+44 52 57 0 13 11 49 56 58 28 20 8 9 60 32 82 17 67
+20 笑 32 53 92
+18 83 18 82 88 50 67
+30 51 24 72 25 48 6
+4 23 57 62 47
+41 25 93 81 38 18 9 47 62 25
+85 18 38 14 0 83 65 41 16 39 42 26 87 87 78 65 39 15
+74 57 8 45 22 82
+61 10 51 78 25 20 52 13 30 0
+10 13 6 74 31 6 68
+84 76 60 43 75 90 93 46 73 68 52 91 93 28 86
+86 68 36 68 74 11 46 15 43 84 笑 39 31 0 52 20 93 Tracy
+52 Charlie 94 45 80 12 59 78 48 94 67 65 32
+24 88 72 23 59 0 53 73
+47 60 25 27 20 46 64 65 25 Jialu 61
+39 65 14 71 87
+0 42 87 35 哭 94 94 73 35 41 7 61 77 3
+89 32 75 74 21 17 87 61 3 66 29 59 23 70 80
+9 82 16 Tracy 77 53 34 93 0 16 18
+74 35 69 1 65 63
+18 6 94 45 90 62 84 65 51 3 92 73 11 46 56 笑 78 28 Tracy 19
+94 86 14 59 3 23 31 80
+10 5 67 18 12
+93 13 21 36 7 16 6 哭 72 20
+67 63 75 26 Charlie 28 24 25 44 59 79 32 55 15 43 哭 83
+70 42 61 18 93 65 19 50 69 Tracy 39 73 31 16 90 33 5 93 17
+42 5 47 36 19 15 Charlie 89 2 55 88 Tracy 58
+35 13 34 30 73 55 3 哭 39 9 32 14 72 76
+27 49 15 88 33 1 53
+53 6 91 37 18 15 90 19 79
+12 78 23 83 25 4 65 91 39
+73 33 78 40 0 32 87 80 12 8 6 83 15 53 53 68
+9 13 4 8 Charlie 90 11 29 50 67 13 51 73 82
+72 70 39 81 77 60 72 71
+22 49 68 88 笑 63 70 25 68 51 7 10 77 57
+12 44 58 1 笑 78 19 85 17 54 3 90 30 80 65 64 72 61
+72 69 23 11 79 13
+63 31 28 72 40 35
+23 47 67 46 5 67
+66 31 30 47 83 58 43 18 80 38 31 49 76 91 62 23 58 91
+24 11 8 86 5 76 Jialu 91 27 56 65 14 64 Charlie 9 35 5 92 78 20
+59 46 84 37 89 59 27 11 34 46 4 17 87 45 85 56 27 27 83
+12 54 29 Jialu Charlie 15 74 Charlie 61 50 14 35 33 53 24 1 24
+50 77 41 Jialu 48 90 30 19 68 0 Charlie
+28 52 2 67 37 43 5 82 81 39 7 77 46 45 64 71 19 84 33 43
+14 11 91 16 59 18 41 31 64 32 92 24 84 78 81 22 18 31 70
+62 45 70 3 47 80 51 49 46 55 20 28 42 16 39
+18 13 85 32 57 21
+30 Charlie 55 19 23 18 47
+56 32 9 89 25 36 25 47 1 71 38
+54 23 61 29 Charlie 76 23 37 51
+71 17 46 60 64 79 77 68 16 78 31 13 90
+65 2 90 51 32 58 28
+12 55 71 37 53 21 48 37 31
+39 Charlie 59 44 4 1 33 9 71 2 83 76 90 31 42 81 86 84 86 40
+85 82 30 33 4 94 72 42 77 14 63 11 55 22 67 65 88 80 83
+71 52 2 82 58 5 46 44 4 36 20 54 75 65 3 14 94 56 59 30
+Tracy 52 42 88 53 89 77
+2 72 47 88 36 21 47 0 14 71 16 41 Tracy 16 93 57 17
+86 76 37 54 1
+10 93 5 45 0 69 77 19 69 65 63 5 76 65 64 15 41
+81 29 57 53 33 93 Tracy 8 76 1 23 60
+10 21 22 41 59 78 69 78 68 38 26
+1 24 41 63 25 Jialu
+41 39 59 0 32 30 笑 哭 76 70 17 23 40
+49 63 31 Charlie 71 63 21 37 33 2 71 91
+24 14 1 6 66 38 74 71 73 65 22 89 62 62 47 64 36
+17 65 66 12 9 60 71 58 77 16 48 18 79
+Charlie 74 15 37 91 43 82 37 Tracy 71 4 21 74
+14 39 66 55 15 30 93 31 66 65 83 61 14 29
+84 81 41 83 11 1 68 92 5
+67 43 52 79 83 88 65 83 85 5 63 29 69
+28 91 11 11 58
+87 36 1 62 18
+27 20 42 68 46 5 5 90 Charlie 52 11 87 12
+14 8 23 1 40 2 37 32 36 40 93 23 42 53 35
+90 11 34 34 59 87 29 70 21 8 3 78 74
+0 90 19 10 55 72 Tracy 77 84 66 56 40
+85 14 31 48 58 41 12 51
+9 31 4 17 51 21 31 4 13
+92 72 85 34 79 86 69
+55 10 27 51 60 91 16 6
+42 36 Tracy 89 40 86 16 93 11 46 22 87 0
+81 41 91 笑 4 47 78 30 47 49 78 75 93 笑 24 48 39
+Jialu 94 92 4 24 38 4 94 34 44 16
+56 67 17 85 68 31 66 28 59 66 0 12 4 86 3
+0 73 54 79 74 53 笑 6 37 31 53 25 43 45
+53 80 41 53 3 34
+83 38 24 47 20 26 79 25 81 34 29 67
+56 62 3 43 43
+50 59 40 52 93 52 74 43 21 36 26 36 Tracy 16
+26 94 36 91 28 15 53 12 69 14 42 92 40 82
+30 46 68 74 37 60 0 Jialu 79 77 63 88 76 38 56 29 90 85 27
+17 63 1 76 11 37 65 33 61 89 75 8 33 32
+27 53 23 72 41 11 69 12 笑 6
+58 20 42 27 80 47 53 66 12 6 59 67
+47 36 91 69 17 47 79 18 5 35 14 22 28 3 20 6 笑 16
+56 78 32 80 89 15 5 45 59 30 78 11 60 2
+12 6 48 73 39 Jialu
+67 0 81 29 24 16 92 Jialu 17 80 57 25 76 86 3
+59 94 74 17 30
+88 5 46 61 30 48 56 0 89 Jialu 31 31 79 7 66 94
+7 20 52 61 82 27 2 4 24 45 75 66 32 26 16 5 44 75 70
+Charlie 21 42 32 41 42 26 31 38 0 64 76 30 28 49 7 22 13 21
+18 57 73 8 87 84 36 4 48 13 34
+29 23 55 56 54 43 47 16 49 56 29 Jialu 50 67 81 8 83 66
+19 19 43 93 11
+83 13 48 28 83 60 83 72 56 Jialu 43 40 32 41 41 9
+54 45 88 56 94 31 35 29 80 66 52 83 84 4 25
+28 44 70 82 73 18 86 9 14 57 53 94 82 21 60 3 36 49 81
+47 8 87 84 13 9 70 86 83 36 57 66
+19 76 81 36 67 62 70 85 74 57
+5 28 34 46 92 30 70 68 91 68 79 16 19 50 19
+64 0 94 哭 16 64 70 39
+76 2 68 80 94 42 45 28 40 68 76 78 59 31 82 37
+62 72 63 24 87 0 84 0 77 79 28 58 68 79
+36 13 19 Charlie 3 85 63 12 65 59 7 45 2 21 20 79 57 哭
+19 32 55 25 85 3 33 15 1
+71 51 39 26 67
+72 85 27 37 91 43 93 16 94 33 41 92 30 29 71 45 42 3
+41 12 11 44 13 20 94 75 62 37 14 33 30 44 17 57 31 75 23 3
+24 17 9 65 53 47 32 94 26 63 51 86
+48 29 6 23 6 5 8 26 44 81 62 4 75 12
+74 22 72 32 16 78 1 3 3 2 7 81 14 87 43 5
+88 26 78 29 1 75 43 71 16 75 21
+58 75 笑 61 79 30 32 57
+7 37 27 31 90 72 61 20 62 14 73 5 88
+54 18 34 46 80 哭 26 35 29 20 Jialu
+65 49 57 64 92 2 0 51 24
+76 13 49 61 37 57 91 12 44 43 57 82 53 81 94
+27 55 54 41 42
+2 5 34 40 75 59 83 71 42 70 19 1 68 61 18 31 38
+79 15 13 70 46 80 2 53 93 哭 14 2 78 70 89 1 哭 90 69
+63 93 30 79 22 92 86 51 56 84 54 哭 47
+17 1 44 65 9 73 36 85
+51 12 88 37 54 17
+55 65 66 25 76 46 62 81 47 44 72 85
+34 21 22 45 7 76 笑 60 28 51 56 80 49 60 26 20 79 66
+78 77 4 79 43 69 43 88
+36 82 24 42 49 72 22
+61 73 30 29 Charlie 16 33 13 53 15 8 53 85 81
+20 43 79 65 4 0 Charlie 36 5 68 87 1 61 93 2 43 40 23 50 35
+51 68 37 48 14 80 38 75 38 35 94 69 45 0 48 51 8
+20 61 Charlie 30 39 63 37
+70 35 31 40 58 9 33 82 Tracy 80 42 33 45 75 笑 83 11
+75 40 14 57 86 39 46 73 70 13 1 29 89 76 21 0 37 55
+29 42 60 23 38 42 89 14 84 59 10 38 55 16
+43 53 78 Tracy 62 笑 27 25
+1 22 41 84 37 63 39 77 笑 70 74 67 53 68 54 6 38
+9 49 68 59 Charlie 65 65 45 91 85 21 45 25 64 69 Charlie 61 19 24 Tracy
+44 44 26 41 44 69 88 8 Jialu 43 28 85 11 69 50 10 27
+25 Tracy 18 26 68 11 25 48 68 21 32 31 73 笑 88 11 69 18 65
+19 6 1 72 18 92 72
+Charlie 7 28 85 93 37 88 17 70 49 27 30 53
+47 14 25 15 88 48
+72 90 8 92 67 37 29
+56 21 83 39 64 88 6 76 83 23 34 86 39 59
+14 48 28 22 58 51 44 36 17 5 62 47 22 94
+42 40 14 80 23
+40 18 10 24 28 33 55 33 52 Charlie 59 25 72 7 25 Jialu 10
+62 66 55 82 55 94 72
+34 83 54 79 15
+75 91 52 58 35 55 90 73 72 9 59 Charlie 41 40 90 26 31 64
+3 75 82 33 59 57 81 0 1 37 75 51 笑 28 58 4 14 91 49
+76 27 63 Charlie 42 37 63 48 86 71 56 46 72 28 88 93 85 75 72 47
+39 83 83 14 68
+61 36 Charlie 76 68 86 2 Tracy 50 34
+59 74 1 12 21 36 74
+41 Jialu 3 4 13 Charlie 18
+81 74 93 90 75 39 4 45 64 60 58 24 84 49 Tracy 78 8 46
+62 Jialu 79 40 30 16 45 50 71 80 54 63 3 76 13
+38 76 38 40 35 61 84 31 42 Charlie 19 66 25 56 27
+94 10 85 52 39 12 85 66 1 16 25
+57 87 Tracy 93 24 3 0 8 23 0 55 51 Tracy 1 87 23 37
+25 51 37 84 77 48 Jialu
+47 12 53 60 25 75 32 43 Jialu 4 0
+81 59 83 68 93
+58 32 71 1 26 67 9 77 46 38
+67 64 72 22 27
+54 20 70 57 61 4 59 84 37 63 92 84 8 56 49 73
+45 72 Tracy 46 56 Tracy 44 41 50 19 33
+8 Charlie 64 1 79 85 79 10 4 37 56 Charlie
+39 3 61 79 52 38 50 63 7
+49 37 73 90 80 Jialu Charlie 72 55 哭 31
+42 87 93 75 91 48 46 69 41 75 76
+4 64 2 笑 2 2 27 40 93 46 35 58
+38 82 26 1 91 72 86 88 12 89 90 71 3 22 52
+46 15 13 37 44 93 55 76 29 48 Jialu 39 62
+13 36 21 30 6 77 71 69
+66 75 Jialu 66 8 62
+47 38 71 48 70 87 78 63 87 68 14 87 50 69
+67 41 44 81 37 37 83 77 44 44 16 54 34 73
+52 16 16 81 73 笑 87 24 26 62
+91 74 28 38 54 44 0 21
+20 29 35 68 87 31 10 94 26 0 59 16 62
+29 28 82 59 66 2 93 86 12 Tracy 48 44 33
+10 13 Tracy 28 37 65 89 56 92 25 1 94 44 0 65 26 83 75
+84 47 25 94 63 77 87 57 57 1 68 48 90 50
+17 29 2 24 72 56 27 75 12 17 35 55
+67 33 82 27 0 77 17 18 45 21 85 48 84 73 88 50
+67 49 88 46 13 49 77 16 69
+60 19 43 48 55 12
+73 83 74 46 54 73 72 34
+43 66 58 63 Jialu 25 74 21 91 58 82 34 21 13 15
+45 32 58 笑 45
+51 82 82 29 21 85 76
+67 47 41 19 85 11 46 Charlie 92 6 84 9 18
+34 14 34 18 38 24 75 76 0 73 21 10 52 88 34
+Tracy 47 8 30 71 22 90 80 21 60 83 42 89 3 28 85 89 18 87
+73 33 10 42 30 51 37 17 72
+22 35 84 1 62 75 59 43 24 18 91 92 8 87 33
+19 66 38 76 30 19 35 63
+73 8 80 76 93 40 65 28 17 52 76 55
+47 90 67 20 44 84 23 72 22 68
+34 74 43 2 92 27 89 28
+71 80 39 57 45 51 34 62 55 62 4 Charlie 86 88
+5 50 86 62 50 8 4 25 89 87 6 56 83 41 85
+75 40 Charlie 1 69 20 70 22 Charlie 51 54 30 1 24 63 11 28
+31 6 0 50 20 24 67 83
+Charlie 84 33 91 15 72 69 59 48
+79 88 52 2 52 16 60
+6 45 65 42 56 5 77 73 Charlie 87 83
+13 52 63 22 69 89 93 3 82 笑 26
+76 69 54 15 23 37 28 72 15 13 30 77
+58 88 76 6 63 92 6 75
+31 39 64 11 46 10 18 78
+9 14 66 90 51 75 57 87 52 82 57 69 38 Charlie 45 70
+2 71 49 90 79 84 7 88 0 40 笑 13 25 47 63 45
+33 92 25 28 44 64 60 5 19 90 44 81 18
+4 54 57 86 80 41 13 54 13
+62 1 67 93 10 66 46 3 80 52 88 57 59
+65 14 58 8 31 73 94 23 80 47 93 67
+18 77 93 16 76 45 87 82 31 9 29 15
+31 37 7 56 79 20 61 85 14 76 93
+16 27 25 43 21 17 笑 72 59 24 50 27 65 37 9
+89 43 4 40 82 51 17 63 22 7 32 61 82 5 92 13 45
+94 22 36 86 72 26 1 21 8
+8 17 72 55 9 39 45 90 15 17 5 24 35 12 59 58
+54 64 74 23 89 32 14 16 67 72 80 59 31 22
+1 Jialu 85 38 83 67 1 37 39 93 1 12 21 55 0 74
+53 84 7 20 64 32 3 46 88 9
+43 13 4 10 62 2 63 Tracy 12 9 15 60 12 32 Jialu 1 11 12 73 68
+23 9 90 8 35 25 65 5 39 93 72 22 91
+66 73 16 37 9 79 6 29 69 27 43 50 85
+62 24 46 20 73 86 56 55 54 5
+93 62 8 94 71 Jialu 44 93
+12 Jialu 45 42 35 18 6 40 76 25 5 13 82
+34 90 55 65 3 38 79 45 19 74 88
+20 50 39 71 88
+23 87 69 Jialu 86 47 55
+72 10 笑 66 33 Jialu 4 46
+6 83 82 60 72 9 4 19 20 21 92 Jialu 59 30 Jialu
+23 75 11 47 21 Charlie 笑
+66 51 89 10 50 35 22 62 33 41 哭
+17 89 15 76 60 73 30 78 41 5 87 60 45 Tracy 93 25 6 65 21
+32 74 21 65 77 4 84 Jialu 13 1 45 81 34 74
+79 81 8 91 75 35 32 57
+83 13 73 23 72 39 64 16 47 28 8 15 83 10
+11 72 65 36 21
+39 92 39 8 82 92 52 66 55
+Tracy 82 87 20 55 32 14 6 79 83 73 77 23 Jialu 19 32 85
+82 77 82 Jialu 29 77 83 34 46 43 Tracy Jialu
+45 9 9 71 45 41 60
+79 91 57 79 30 27 21 42 66 37 2 1 71 92 15
+52 42 23 10 44 哭 85 24 44 16 16
+6 24 23 93 46 87 Charlie 35 41 41 64 79 58 36 60 54 33
+31 71 6 45 30 18 25 3 51 72 5 57 82 94 23 91 42 79 61 24
+50 43 22 0 82 87 51 15 79 51 59 88
+80 55 57 20 0 51
+88 42 79 29 87 5 62 67 15 Tracy 93 45 60 66 35 哭 67 52
+93 60 87 10 44 14 21 32 85 0 29 6 37 10 61 94 92 10 30
+40 6 14 0 56 3 67 51 75 25 28 3 80 34 31 8 7 43 8 48
+88 72 12 81 42 85 61 79
+24 37 80 63 23 54 73 21 29 63 82 3 32 67 27
+48 72 7 11 21 66 36 43 哭 63 9 61 32 14 40 70
+15 69 30 69 23 91 72 10 39 86 84 25
+29 70 19 29 61 92
+91 哭 67 20 71 32 65 85 92 68 4 20 50 64 57 2
+50 30 22 57 10 23 38 49 65
+94 Charlie 45 39 42 44 58 60 76 78 34
+86 27 50 53 56 50 8
+80 1 Tracy 76 93 21 74 36 49
+64 43 59 48 Jialu 90 57 71 7 41 39 79 74 20 45 56 21 59
+59 39 75 Tracy 74 76 1 69 38 40 73
+39 54 61 60 16 15 4 81 84 8 31 30 48 27 10
+笑 37 22 39 67 23 72 63
+48 50 55 87 59 47 58 24 16 1 22 21 72 48 2 32 11 哭
+0 37 3 34 2 66 57 25 16 52 27 93 21
+43 35 59 4 62 46 1 33 35 19
+10 66 51 80 61 Jialu 31 3 82 45 87 32 13 31
+62 14 Tracy 10 12
+92 33 41 44 60 37 Tracy 哭 35 4 15 11
+37 3 32 43 11 84 81 29 60 15 17 59
+75 26 66 80 71 28 51 5 58 71 16 81
+65 Jialu 31 84 85 笑 64 75 64 73 22 68
+64 89 21 88 74 25 17 82 30 84 13 Tracy
+42 25 哭 57 54 29 45 61 31 76
+62 13 38 89 77 37 73 5 72 65 4 49
+70 57 5 94 66 41 64 49 79 52 34 11 92 23 47 47
+49 Jialu 8 70 6 48 73 51 哭 15 5 66 25 30 64
+79 67 50 51 13 29 20 24 2 82 Charlie 80 22 60 84 40 22
+58 Tracy 56 59 88 21 54 44 86 34 16 56 30 32
+23 78 80 37 42 1 65
+49 77 57 1 44 31 23
+9 45 15 80 12
+71 67 4 35 29 58 Jialu 37 21 64 34
+25 55 8 86 哭 3 Charlie 69 55 12
+21 79 70 15 34 0 53 19 4 6
+82 82 50 笑 6 44 90 46 68 哭 44 85 25 16 51 12 71 94 93 7
+92 80 笑 25 77 89 6 39 59 7 16 69 51
+21 91 37 57 62 23 Jialu 88 26 36 56 14 81 27 10 72 13
+45 14 9 52 53 76 57 29 59 14 50 2 7
+7 37 59 44 61 25 46 52 20 63 49 0 Jialu 48 51 44 笑 32 23 91
+85 61 14 86 85 34 24
+42 59 71 73 Jialu 83 Jialu 21 34 31 14
+64 51 63 23 16 59 38 Charlie 94 46 69 84 81 7 62 Charlie 82 94 54
+50 12 22 10 25 30 33 90 31 24
+17 27 40 69 62 43 33 11 53 12
+22 82 45 73 0 90 7 12 90 21 17 82 53 90 83
+68 55 74 63 52 50
+35 38 74 66 66 71 41 19 37 49 48 27 63 5
+88 32 6 80 27 61 41 41 31 4 8 Charlie Jialu 42 31 38 2 84
+65 23 23 8 87 92
+33 91 14 93 28 39 4 64 31 71 1 88 47 41 5
+15 18 25 0 56 33 38 2 63 12 58 47 7 18 笑 52 18
+47 63 69 73 10 87 33 10 10 笑 26 13 25 17 23 41
+44 Tracy 83 64 65 62 40 80 46
+36 24 52 30 90 83 47 22 50 22 73 33 79
+88 5 15 45 23 86 54 笑 87 13 54 50 65 92 79 29 笑 83 35
+29 36 83 78 1 68 30 5 19 58 90
+78 哭 4 17 15 Charlie 14 88 Charlie 45 45 12 19
+68 88 笑 87 68 85 16 56
+94 82 62 71 22 26 62 2 22 18 4 29 43 84 3 27 38 41 66 79
+35 37 74 26 56 0
+74 34 20 75 18 23 64 94 2 83 76 3 73 81 39 11 86 15 60
+4 1 14 86 73 71 14 笑 23
+3 63 46 16 50 23 18 56 85 31 22 61 19 82 48 79 48
+74 56 59 22 59 86 16 65 75 51 10
+63 38 69 63 77 81 68 82 55 19 11
+28 93 82 9 43 14 93 54 68 76 Tracy Tracy 39 74 50 85 11
+81 0 14 65 29 38 78 53 Charlie 84 Jialu 54 86 25 35 2 48 59 32
+18 67 29 90 67 40 80 24
+81 32 92 31 71 哭
+75 Jialu 65 89 45 23 67
+35 17 53 10 90 52 2
+21 87 3 15 72
+34 55 50 40 54 69
+26 63 34 90 23 0 17 80 35 70 29 91 11 50 11 52 44 62
+44 54 53 29 11
+81 60 17 92 63 79 Charlie 53 40 67 24 38 64 57 37 36 4 44
+4 Charlie 92 19 74 72 45 49 38 84 1 16 25 25 91 21 17 43 9
+63 61 18 13 65 11 90 52 4 11 6 17 78
+78 Tracy 44 11 42 65 49 39 13 19
+92 21 67 笑 42 67 32 74 61 91 91 72 73 2
+62 63 52 9 Tracy 90 6 85 91
+43 89 9 64 71 22 44 34 20 29 90 0 92
+20 40 82 2 45 41 26 87
+94 Jialu 21 51 72 75 63 38
+74 82 15 41 40 24 65 73 42 37 85 48 72 47 4 50 51 88
+76 28 48 94 5 14 68 71 45 54 29 94 55 55
+53 18 52 43 87 22 61 78 50 42 79
+29 36 2 Jialu 81 63 26 32 34 13 65 Charlie 92
+4 5 44 18 39 16 19 1 70 9 41 92 哭 30 60 22 72 Charlie 57
+39 18 42 54 68 51 70
+81 21 30 笑 52 Jialu 58 53
+64 19 53 35 73 71 93 89
+55 61 28 1 73 68 28 64 30 83 28
+30 19 7 Tracy Charlie
+85 22 7 Charlie 39 51 12
+83 30 2 6 68 19 58 4 56 24 0 93 56 15 68 73 62
+89 9 19 53 11 7 4 32 38 92 Tracy 39 74
+6 0 Jialu 36 32 60 7 13 81 68 19 14 4 17 80 37 48 79 40
+2 75 8 75 83 50 89 31 15 25
+8 85 78 39 55 77 81 42 81 49 80
+77 35 65 71 41 58 72 42 66 92 93 82 66 86
+35 1 81 78 83 2 43 86 46
+32 61 52 19 32 42 2 62 36
+68 24 32 84 45 90 86 43 41 42
+73 88 46 94 11 71 27 72 40 28 3
+43 1 47 35 27 85 28 2 19 69 91 60 86 68 19
+13 73 3 72 6 13 45 80 11
+94 76 23 14 30 2 23 62 13 54 62 19
+70 13 11 83 11 78 84 78 77 2 94 11 56 94 1 92 18 81 83
+20 32 1 74 4
+72 89 80 36 Charlie 84 61 94 42 20 62 37 35 74 31 4 54
+85 87 Charlie 44 82 94
+28 50 80 46 0 23 29 哭 36 7 18 83 64 30 61 64
+94 5 86 62 39 66 41 29 44 56 90
+92 81 58 65 55
+37 90 85 18 15 82 67 15 86 11 9 53 71 5
+哭 77 88 8 28 Charlie 72 29 88 40 29 25 18 78 37 91 40 61
+56 32 76 62 66 Charlie 36 90 74 8 81 5 90 24 5 39 81 52 哭 81
+48 18 55 15 29 90 51 31 40 26 15 92 69 17 53 18 55
+59 40 65 13 50 42 21 61 81 40 43 1 91 77
+88 Jialu 59 67 78 2 63 43 67 18
+65 14 86 60 哭 43 43 Charlie 77 49 83 56 18 19 10 74
+69 81 42 12 Charlie 36 Charlie 48 Tracy 48 77 16 65 28 31 89
+31 92 8 58 82 13 79 72 75 93 87 48 40 25 44 43 57 1 65
+63 20 37 57 11 31 93 4 5 72 60 10 1 89 60 5 64 53 44 85
+48 12 64 65 76 34 94 12 13 38 58 39 34 3 49 15 50
+5 79 50 59 47 47 56 82 61
+17 92 2 笑 笑
+4 37 60 80 11 82 68 92 6 52 8 36 61 56 70 24 22 24
+25 19 64 72 15 58 11 15 63 23 65 9 24 70 85 33 74 42 83 52
+61 17 32 11 93 59 67 56 57 69 76
+23 85 47 85 47 19 69 10 13 51 59 32 30 36 54 58 28 63 47
+7 82 哭 39 18 1 87 24 46 65 79 49 78
+75 72 56 91 15 6 88 73 92 81 81 38 32 30 74
+81 6 92 32 16 29 39 47 32 21 48
+笑 49 62 38 70 69 Jialu 62 Jialu 42 47 93
+91 51 80 12 58 15 72 65 85 19 45 65 4 32 41 87 61 19 43 Tracy
+69 70 56 53 33 71 67 24 24 80 48
+60 31 93 65 75
+50 64 67 10 38 75 53 61 2 13 42 Jialu 20
+13 8 50 84 18
+87 92 22 13 18 13 22 65 41 Tracy 16 28 64 74 48 21 22 32
+笑 43 63 31 54 Jialu 92 68 37 45 53 38 12 56 88 66 37
+6 78 32 92 56 24 34 40 65 7 34 76 15 45 94 60 48
+11 42 24 30 18 92 0 92 78 53 80 0 80
+38 38 53 54 85 51 81 36 46 82
+70 27 10 25 82 28 70 53 8
+87 69 2 90 73 79 53 65 51 84 71 46 39 3 62 13 89
+Jialu 11 90 41 6 35 36 76 51
+65 11 70 10 49 82 3
+76 85 40 19 54 85 12 43 29 44 94 36 78 18 78 48 66
+9 0 13 20 33 77 31 68
+93 6 0 35 24 13 57 42 53 15 12 27 80
+62 71 64 5 51 13 44 29 73 32 59
+52 88 54 38 91 77 25 60 51 27 11 Charlie 6 10 笑 78 71 83 46 27
+0 78 57 62 77 88 70 50 83 83 80 14 35 50
+53 30 28 67 77
+43 69 71 80 40 76 46 92 67 39 93 67 68 43 28 86 48 23 12 94
+49 91 44 73 4 30 27 35 70 67
+46 84 55 18 哭 64
+60 29 9 94 67 60 35
+18 35 62 14 39 23 27 11 16 27 笑 38 73 40 30 52 60 3 84
+67 21 14 79 17 14 3 64 63
+Tracy 44 54 31 53 73 11 15 77 47 43 94 64 63 83 1 85 46
+1 12 92 72 Charlie 41 70 6 笑 63 8 48 48
+14 26 62 53 18 66 36 68 75 23 93 23 26 84 55 78 哭 41 67 55
+20 33 79 19 28 11 42 9 76 47 12 62 3 72 64 Jialu 88
+36 26 47 83 笑 43 94 30 25 12 79 0 Charlie
+63 26 46 76 39 笑 15 8 15 79 80 哭 37 31 9 36 8 笑 76 73
+53 69 11 65 27 70 78 33 4
+71 76 49 31 53 61 23
+47 83 87 36 21
+68 90 38 73 21 62 85 7 81 12 66 7 90 20 35
+74 83 70 23 56 67 62 68 22 4 50 53 89 15 76 3
+55 59 74 73 68 58 76
+69 41 8 7 32
+21 9 18 34 77 哭 4 38 77 14 73 28 33 81 52 哭
+94 47 34 笑 11 16 84 42 47 22 0 84 75
+53 62 45 92 67 74 62 34 3 Jialu Charlie 62 56 37
+87 52 77 82 24 64 Tracy 29 11 16 36 82 18 37 50
+24 41 61 71 34 46 65 0 31 39 76 51 67 72 17
+67 笑 68 86 25 43 16
+18 63 9 56 20 44 68 57 43 88 33
+43 笑 31 69 41 77 Tracy 44 14 Charlie 94 78 21 哭 83 77 1
+67 84 73 哭 笑 32 23
+5 Charlie 笑 78 19 笑 18 10 49 21 Charlie 84 42 42 93 71 67
+53 82 73 9 75 37 31
+68 23 92 24 42 40 39 笑 81 40 73 9
+35 26 54 64 85 31 32 53 9 0 44 59 2 85 32
+32 77 33 74 92 51 34 Charlie 22 24 39 哭 66 77 30 36 19 Jialu 1
+91 87 83 18 89 41 8 46 33
+37 89 74 55 23 90 32 86 56 69 45 29 20 24 24 22 39 27 25
+49 70 34 33 2 1 69 91 61 26 19 35 84 6 54 87 4 78 22
+89 32 38 5 22 46 6 52 83 94 26 6 28 60 73 15 5 63 37
+42 32 68 69 90 42 51 48 71 49 45 27
+49 31 10 39 89 58 26 69 5 18 29
+3 57 51 51 58 42 63 19 94 1
+85 43 77 94 44 39 61 50 85 8 86 76 65 88 34 67
+72 14 6 76 49 75 75 38 57 24 Charlie 45 12 15 11
+83 9 69 32 35 60 88 45 60 53 10 66
+10 69 39 78 45 72 10 24 58 27 77 46 70 73
+55 46 16 58 64 Charlie 33
+42 33 33 93 Charlie 69 82 75 51 笑 57 90 19 15 64 9
+65 69 哭 50 19 52 80 60 27 89 87 82 42 41 80
+34 笑 58 61 18 23
+22 笑 Charlie 81 30 77 70 26 41 16 41
+40 74 50 25 65 81 69 72 26 89 45 24 2
+26 68 82 67 65 91 44
+50 Tracy 79 9 72 81 23 3 86 1 88 76
+57 20 66 17 4 12 26 0 36 77 88 41 42 78
+54 9 24 16 5 70 41 34 53 92 2
+56 87 76 16 17 53 59 7 46 57 94
+57 69 67 22 28 67 3 42 49 Jialu 18 23 58 26 34 30 92 2 85 66
+48 37 47 26 78 47 70 68 笑 49 33 78 23 94 94 13 60 53 16
+8 30 78 38 11 78 0 60 86 33
+87 84 94 75 55 42 4 72 69 57 8 17 44 89 28 Jialu 19
+84 67 49 27 66 39 52 59 79 44 76 40 23 21
+6 53 29 24 Tracy 37 28 4 50 52 58 81 59 69 30 74 16
+36 27 94 6 55 47 58 82 13 70
+92 3 43 11 43 70
+0 60 79 24 54 27 91 82 8 1 56 1 84 87 89 50
+7 65 33 34 27 11 50 34 42 60 28 35 33 44 哭 38 47
+50 哭 14 60 15 85 笑 84
+36 72 78 18 64 44 47 26 2 笑 58 26 19 78 77 27 笑
+19 72 27 91 19 88 14 76 35 48 40 15 18 27 18 12 12 38 57
+18 28 13 43 26 10 45
+73 14 Charlie 31 61 5 26 12 60 85 Charlie 65 47 62 67 3 80 90 61
+62 7 83 38 85 32 36 38 15 34 0 33 57
+84 52 8 24 89 4 21 34 62 0
+59 13 90 Charlie 51 80 48 86 12
+12 53 67 41 13
+39 38 16 0 66 79 2 56 63 75 63 1 90 66
+56 13 52 17 94 75
+90 21 63 72 20 87 61 56 24 哭
+74 4 77 72 77 90 40 66 1 89 76 22 89 28 24 3 35 34 36 93
+31 20 31 84 64 27 80 85 9 62 60 5
+89 59 82 20 28 20 13 29 81 51 85 40 52 31 1 89 29 67 15
+48 60 42 52 37 笑
+36 45 3 9 78 14 59 3 24
+47 86 85 88 28 58 49 33 18 92 93 56 21 20 38
+Jialu 49 67 42 27 19 54 3 55 35 18 92 27
+44 10 32 68 2 65 1 85
+80 78 55 60 61 50 67 47 5 54 26
+29 49 69 31 65 83 50 43 84
+哭 76 64 9 94 14 41 53 28 9 20 24
+14 63 27 66 57 8 44 44 59 15 40 83 20 93
+26 24 16 4 20 35 4 58 41 25 10 31 40 65 35 64
+56 34 50 17 64 1 53 7 76 35 Tracy 90 8 57 22 15 94
+88 42 77 15 64 89
+17 Tracy 65 48 73 94 49 78 68 1 43 67 56 72 2 69 10 74
+11 54 47 33 47 58 82 84
+76 56 哭 0 43 64 27 25 19
+18 91 4 69 19 3 87 1 24 65 2
+65 16 81 40 50 50 57 67 54 71 94 Charlie 60 1 11 38
+73 39 55 33 74 54 13 38 89 9
+Jialu 1 32 35 88 11 30 63 81 13 44 40 79 78 84 89 77
+31 17 75 9 47 22 33
+55 4 16 Tracy 40 7 37 24 36 8 2
+47 51 47 26 65 36 25 92 40 哭
+63 32 84 92 86 85 3
+45 1 54 68 48 84 62 90 83 16 46 93 12 18 54 55 32 3 32 1
+0 70 75 92 85 87 45 Jialu 81 41 9 82 74 87 33
+54 72 76 57 9
+36 50 76 50 56 41 26 46
+9 8 24 41 25
+13 7 78 41 45 34 67 49 94 82 39
+72 26 18 27 80 64 75 31 Tracy 66 6 16 31 92 88
+笑 8 92 93 17 55
+29 30 63 86 5 64 23 71 35 6 11 67 79
+笑 45 52 12 77 72 58 3
+35 46 41 70 52 63 哭 10 38 26 93 6 60 55
+90 12 50 66 3 66 59 4 8 9 67 90
+25 50 74 42 86 51 93 6 44 71 34
+31 23 85 17 23 58 7 49 28 14 12 46 75 50 12 30
+78 82 84 24 26 75 3 77 42 35 38 60
+42 35 76 20 58 36 56 89 1 79 50 84 42 11
+24 20 哭 11 72 71
+68 笑 58 59 9 9 6 53 94 22 8 68 13 37 62 60 23 68
+1 47 33 79 11 92 59 6 18 54 33 70 22 20 65 5 10 65 33 10
+78 53 47 2 85 47 92
+92 37 38 2 Tracy 84 49 58 48 82
+28 83 85 33 77 22 48 56 86 79 56 29 哭 70 73 20
+5 89 79 6 35
+43 78 11 94 84 72 33 23 62 59 38 90 41 8 48
+63 53 40 27 47 59
+82 15 41 5 73 22 49 54 44 10 11 68 77 43 20
+7 32 74 88 4
+52 32 92 86 43 92 67 3 1 86 35 31 22 28 23 49 Charlie 32 41 36
+52 56 76 72 34 89 76 25 14 43 12 哭 65 64
+51 19 68 15 67 82 17 86 35 35 9 Tracy 40 16
+6 10 80 38 Charlie 65 Tracy 20 63 23 84 9 0 27
+64 7 69 51 19 10 Charlie 52 53 1 Tracy 52 11 90
+49 76 94 44 32 56 78 54 92 66 27
+28 84 18 13 15 17 71 Charlie
+10 21 91 32 7 50 37 45 6 73 90 90 49 3 32
+48 13 14 24 10 81 12 46 28 63 84
+13 23 22 71 59
+51 15 2 1 22 10 69 7 89 60 14 49 22 笑 11 78 37 45 26 39
+84 83 92 65 75 88 91 7 79 3 28 哭 30 Jialu 68 0
+7 60 59 56 22 笑 Tracy 71 4 49 48 38 41 Charlie
+Jialu 83 26 6 9 68 20 4 11
+62 70 81 89 Charlie 11 53 33 84 51 3 0 6 46 66 80 3
+哭 61 82 89 46 6 哭
+51 80 93 69 Tracy 88 Tracy 24 84 44
+60 0 88 70 93 46 46 67
+22 Tracy 哭 15 81 8 50 53 6 31 4 37 82 46 笑 62
+44 15 76 51 哭 26 18 13
+12 Charlie 28 20 74 14 54 52 69 43 哭 69
+6 88 Tracy 0 4 13 71 62 54 72 76 7
+76 3 81 4 72 6 83 54 18 Charlie
+53 62 47 1 71 54 69 7 86 46 19 10 91 7 84 13 65
+35 25 40 30 Tracy 73 81
+19 18 24 48 47 73 42 93 0 53 68 1 64 74 3 Charlie 84 27
+9 9 89 42 70 56 41 69 51 5 40 29 69 28 47 79 8 80 3
+70 7 19 77 23 6 69
+Tracy 89 29 86 36
+29 71 84 56 10 24 Charlie 55 Charlie 50 48 Tracy
+68 Tracy 31 52 54 9
+46 6 93 12 2 36 48 75 56 54 26 73 11 88
+93 54 26 56 3 3 54 Charlie 65 89 4 36 Jialu
+6 21 65 78 19 54 90 17
+Jialu 40 73 80 9 32
+90 53 32 80 37 38 37 Charlie 72 75 23 40 9 80 33 34 52 89 44
+82 78 28 40 36 35 73
+43 78 75 49 61 57 3 83 67 52 85 1 21 15 83 38 10 51 Charlie 51
+15 47 7 36 66 25 27 14 75 56 90 Tracy 49 73 11
+66 38 86 60 Jialu 19 24 笑 44 84
+20 18 10 21 24
+60 79 50 24 87 64
+80 64 77 42 30
+22 19 94 25 94 33 42 44 27 45 79 78 75 23 4 14 79 43 81 74
+92 5 44 64 42 89 14 59 36 6
+62 15 16 92 62 18 15 63 60 12 58 67 Jialu 90 18 50 29 15 70 14
+63 24 17 72 12 10 5 53 9 5 27 46 86 92 86 5 33
+94 81 41 43 34 43 43 35
+85 24 87 92 22 73 72 85 69 90 13 51 86 9 24 36 64 84
+58 44 0 62 14
+78 47 72 13 46 45 4 65 笑 72 20 70 23
+3 49 10 43 Charlie 0 66 2
+84 45 43 66 22 19 23 31 31
+Jialu 62 22 25 50 84 24 1 75 81 68 56
+29 89 Tracy 81 2 88 77 21 87 49 28 46 23 10 13 77
+Tracy 17 22 88 72 5 57 23 27 83 19 8
+8 94 44 41 49 53 47 93
+89 30 48 44 66 4 12 47 65 89 笑
+70 52 哭 0 27 58 75 11 61 笑 53
+42 1 5 91 64 39 66 70 31 25 Charlie 10 85 72
+Jialu 46 50 90 64 10
+哭 83 92 79 70 66 18 20 29 44 60 67 Jialu 94 76 10
+10 84 41 62 7 27 30 90 35 Tracy Charlie
+13 81 77 79 67 92 40 69 41 76 48 45 88 81 42 85
+86 82 10 66 47 Jialu 45 16 39 82 3 3 85 90 25 68 75 7 0 50
+29 79 2 20 哭 81 47 57 3 23 72 92 28 23 4 25 50 51 15
+22 25 47 73 71 52 77 28 3 54
+84 61 92 32 5 2 91 74 43 20 14 40 15 19 76 26 87 7
+81 54 77 35 56 11
+49 18 23 82 43 0 2 63 1
+75 47 25 81 84 48 11
+0 17 84 84 52 66 83 5 26 83 83 45 20 18
+25 Jialu 61 65 86 25 60 83 33 84 3 85
+27 85 52 92 55 57 60 19 92 42 15 60 25 Tracy 89
+92 12 2 33 94 31 27 33 61 53 Tracy 29 69 93
+43 20 Charlie 35 41 88 33 62 62
+88 77 11 41 93 1 26 19 21 53 30 70 19 15
+9 40 92 15 16 19 71 72 38 65
+76 14 90 44 28 71 Tracy 93
+49 39 80 92 76 20 69 67
+48 60 85 32 88 83 6 92 88 20 57 70 48 29 17 35 93
+82 Tracy 35 25 7 70 笑 36 44 91 笑 2 69
+34 3 39 68 52 13 10 4 83 77 42 8 51 29
+74 76 37 72 26 Jialu 4 63 笑 65 90 70
+56 21 35 18 86 4 70 34 0 34 55
+30 72 56 1 65 9 53
+89 28 46 53 7 8 82 63 53 13 60
+30 94 43 43 14 28 28
+54 7 47 91 51 60
+84 78 18 91 13 67 32 72 51 56 84 41 10
+Tracy 11 59 26 80 88 64 35 32 62 28 47 48 16 79 91 64
+66 20 59 58 65 47 73 66 笑 21 77
+82 81 哭 26 75 0 54 80 26 33 46 88 71 59 92 54 27 94
+78 22 75 3 22 4 71 10 43 7 56 30 64 3 43 88 哭 66 29
+17 56 59 7 54 43 4 36 39 56 38 37 94 2 43 74 52 15 44
+57 3 Tracy 25 18 77 39 9 笑 85
+10 7 82 41 89 1 16 63 49 53 25 65
+43 40 11 35 29 66 5
+18 3 37 83 30
+15 38 76 26 57 59 52 46 60 90 4 11
+63 76 0 75 36 61 65
+68 46 17 46 60 30 55 36 Jialu
+22 67 18 57 19 83 23 20 52 88 24 Jialu 40 42 45
+7 67 34 71 29 40 4 90 94 14 57 6 74 73 1 52 79
+27 84 60 91 73 14 58 23 43 43 54 20 14 82 36 85 69
+86 75 79 4 16 86 32 62 72 38
+75 74 61 70 31 78 75 30 1 90
+15 77 82 60 5 Tracy 5 21 34 46
+3 32 9 78 哭 56 64 92 38
+80 75 30 34 66 79 18 33 52 59 15
+45 87 7 91 92 80 51 93
+47 9 44 24 41 50 70 0 57 33
+5 35 笑 93 74 82 28 48 47 33 49 11 0 54 56 81 6 48
+66 15 哭 65 77 56 61
+14 15 90 14 48 84 Tracy 63 2 39 52 11 85 93 81 44 4
+55 66 17 53 17 0 50 18 59 35 11 91 4 78 16 85
+92 77 78 笑 90
+6 61 48 84 Jialu 85 76
+54 94 49 19 32 26 26 66 3 66 30 82 63 83 21 84 27 94 41 18
+12 77 73 84 57 14 90 86 63 58 74 7 31 Tracy 85 54 25
+Charlie 82 75 29 28 7
+58 Charlie 89 75 26 Tracy Tracy 71 71 82 88 17 48 85 62 35 81 62 8
+91 8 81 90 87 51 87 9 12 58 14 76 65 75
+Tracy 69 49 91 85 77 44 19 48 87 21 45 61 47 Charlie 42 8 42 60 73
+66 23 77 20 84 73 72 35 71 39 88 74 70 17 94 26
+44 70 77 21 29 58 13
+39 81 40 6 Charlie 59 15
+72 24 27 87 86 39 20 2 44 73 54 47 6 94 20 78
+84 64 11 58 29 62 14 46 49 16 23 82 79 63 26 78 哭 34 38
+37 14 67 77 67 41 13 47 35
+56 73 83 47 19 16 24 Charlie 82 10 74
+5 94 29 23 10 19
+64 66 85 47 44 62 12 74 94 63 71 68 93 38 54 27
+93 80 24 52 91 38 48 89 89 28 26 53
+37 20 43 Charlie Jialu 94 91 75 55 18 13 36 7 1 43 49 73 32
+56 37 19 22 83 65 42 27 83 45 37 14 22 70 26 17 5 40 78 84
+28 19 88 10 69 31 63 82 8 48 19 20 66 91 Tracy
+23 51 73 35 笑 45 9 64 87
+35 61 85 3 29 37 39
+Jialu 53 72 37 64 15 58 28 28 94 52 53 59 31 0 82 40 37 57
+50 3 85 Charlie 76 21 9 4 63
+55 27 10 79 66
+59 71 12 36 81 56 55 19 11 哭 47 91
+90 10 51 50 61 笑 54 58 68 7
+11 78 48 82 52 56 23 55 87 92 5 81 44 69
+46 87 38 51 86 86 56 52 91 65 79
+77 28 62 57 39 89 71 48 81 74 17 25 79 66 86 Charlie 34
+55 55 25 86 笑 笑 83 80 4 2 21 15 55 15 48 67 9 13 29
+63 49 31 61 51 61 52 92 49 55 6 1 70
+62 21 35 17 11 16 75 82
+19 9 49 53 31 82 13 6 78 30 80
+44 37 58 57 45 68 33 26 87 Charlie 21 26 63 85
+20 38 30 23 83 32 Charlie 70 16 90 58 哭 70 45 53 12 63 1 13
+6 89 58 59 19 47 12 24 74 44 54 13 1
+30 91 37 34 63 47 76 33 84 94 24
+34 12 Tracy 59 31 59 81 17 10
+91 19 8 15 58 笑 49 74
+43 29 90 29 48 28 46 53 71 66 23 65 52 86
+64 22 34 30 Tracy 37 80 50 54 56
+38 69 52 19 59 52 22 61 45 33
+2 84 40 89 46 81 32 29 81 20 21 42 30 22
+64 Charlie 55 27 24 55 42 49 41
+91 59 48 37 44 13 47 24 笑 54 43 91 2 34 29 17
+1 57 60 87 87 74 76 59 33 24 82 10 73 40 66
+34 18 68 12 7 68 17 79 90 12 48 67 49 83 38 18 24
+57 26 21 77 77 69 73 34 67 0 44 6 21 86 75 39 31
+54 24 10 9 18 80 69 32 笑 60 33 75 51 37 5 32 74
+74 41 59 27 71 24
+12 16 11 69 37 36 45 22 81
+55 79 Jialu 26 24
+33 1 32 93 18 25
+66 Jialu 56 6 50 85
+77 52 86 68 Tracy 72 56 50 81 13 哭 20
+58 67 91 71 8 88 3 54 9 20 6 74 16 16 64
+18 39 20 85 Tracy 27 63 16 92 15 86 66 26 40 78 27 88 74 62
+41 27 72 35 33 42 70 83 49 14 23 12 6 14 85 85 44 32 93 32
+笑 39 76 Tracy 4 85 63 55 28 93 19 39
+7 22 69 62 87 21 58 39 18 38 29 45 79 Tracy 88 80 29 40
+46 37 68 89 9
+16 49 63 34 61 83 16 92 65 62 29 33 68 90 50 18 52
+48 39 14 93 44 80 70
+36 7 20 14 42 11 80 56 44 89
+Charlie 84 2 66 31 91 2 66 63 8 12 60
+61 56 Charlie 42 82 0 39 76 47 61 48 28 62 37 41 32 18 9 42
+20 72 30 26 38 82 62 83 84 6 Tracy 88 52 23 20 43 笑 64 88 61
+19 40 49 47 61 4 61 27 Tracy 83 83 7 78 69 37 36
+6 36 62 14 51 34 76 44 72 19 0 50 17 74 43 93 65
+7 17 11 39 91 21 13 58 16 86 32 91
+13 8 45 61 14 17 77 77 49 58 86 15 62 Charlie 23 68 81 56 61 11
+42 29 70 56 87 11 60 44 50
+38 14 94 8 74 35 33 52 85 90 75 7 33 67 23
+27 53 12 13 34 83 21 78 2
+35 68 61 Jialu 26 58 76 9 49
+4 89 87 31 70 39 14 23 26 91 25 3 16 58 23 笑 60 4 29 80
+64 43 81 笑 46
+86 91 64 7 63 70 54 60
+84 48 4 51 43 51 69 82 77 56 18 80 哭
+45 41 48 24 23 Jialu 85 35 52 50 36 39 43 2 1 20 49 30 83
+66 27 15 75 3 32 47 38 55 13 49 25 7
+27 35 37 10 54 19 41 65 65 76 90 40 40 79 59
+94 54 60 90 14 73 24 51 73 53
+75 34 16 57 33 2 46 68 81 52 23 64 81 31 65 24 9 Tracy
+72 71 8 47 35 78 94 87 42 76 92 89 51 6 24 0 36 76 20 8
+77 34 46 46 25 25 68 48 54 36 13 4 49 27
+89 23 38 66 6 48 90 17 31 13 37 56 54 91 45 92 15 76
+63 11 44 83 14 74 34 45 41 11 43 47 7 42 51 82 13 56 86
+72 56 54 45 7 17 47 28 85 85 27 32 69 86 14 23 91 80 22 13
+13 78 70 1 66 29
+89 22 2 57 30 4 4 75 30
+53 69 79 24 23 30 36 12 39 76 74 40 79 33 90 69 93 66 29
+36 64 73 33 39
+76 24 23 87 2 29 71 75 66 63 4 93 6 35 28 76 32
+79 58 41 37 44 80 68 58 93 61 64 82 16 8 5
+10 48 25 57 13 15 4 62 11 3 55 70 18 84 94 44 55
+69 56 18 57 62 35 28 31 84
+55 26 30 53 55 71
+73 5 88 92 34 86 33 48 67
+73 80 笑 31 24 8 18 32 54 2 29
+63 48 41 58 56 77 90
+53 27 84 47 16 32 76 47 79 35 70 Tracy 27 55 Jialu 4 86 39
+39 4 14 14 49 41 70 34 0 4 71 67 0 29 58 89 85
+42 25 80 52 25 32 24 77 66 47 12 27 51 36
+36 17 75 53 30 22 51 66 92 25 42 73 51 81 11 73
+19 15 哭 5 23 22 33 75 77 72 47 82 25 76 65 0 笑 69 90
+48 52 42 61 Charlie 34 93 34 70 Tracy 39 51 哭 2 82 24 33 22 55 63
+3 52 38 14 92 38 9 6 21
+42 50 40 82 22 81 34 75 60 32 62 58 20 57 94 哭 25 61
+11 4 2 50 69 71 12 48
+38 Tracy 34 59 91 46 84 52
+61 58 48 72 69 20 48 38
+55 4 77 19 63 Jialu 43 64 19 81 24 84
+6 16 43 61 8 54 9 13 2 89 61 79 18 69 15
+44 8 65 71 Jialu 19 25 51 6 14 70 11 25 11 6 35 79 86 33 71
+32 47 67 18 8 94 43 36 86 18 77 46 85 42 91 60 84 2 75
+44 68 72 66 14 30 39 3 60 75 2 Tracy 71 62
+33 33 7 42 72 Tracy 44 30
+89 87 0 83 25 72 33 63
+37 27 0 38 71 5 69 16 48 93 61 74
+91 5 80 46 12 44 31 14 86 20 46 20 69
+86 6 35 0 62 43 6 50 6 26 25 87 83 59 40
+27 39 46 19 89 46 73 12 54 13 35 16 62 60 6 66 88 哭 67
+27 28 56 93 28 66 16 91 5 37 Jialu
+24 26 62 60 53 33 86 47 Charlie 88 27 90 8 30 28 33
+78 94 32 94 65 87 28 27 1 26 11 哭 Tracy 35 78 65 93 20
+76 44 23 89 64 Charlie 52 68 5
+14 46 12 42 47 52 34 72 86 27 93 50 86 81 1 0
+8 14 53 12 13 21 60 53
+14 37 31 50 66 Charlie 50 74 25 20 3 92 8 91 61 14 26 14 15 40
+77 25 48 24 11 31 83 61 62 62 9 49 70 18 61 10 11
+24 48 72 22 21 48 80 22 12 58 哭 55 17 26 85 35
+5 哭 32 72 85 60
+17 57 41 74 22 81 笑
+94 16 41 43 66 79 72 7 85 28 42 7 51 46 0 2 Jialu 88 88
+85 Charlie 46 13 78 笑 60 1 7 60 11 8 18 哭 16 61 24 35
+86 69 35 87 笑 89
+10 35 54 0 28 52
+94 4 31 34 87 75 24 57 1
+34 14 27 50 83 23 32 8 7 53 46 41 75 57 12 59 8 83
+15 哭 0 8 47 33 53 0 50 92 56 79 笑 89
+52 47 3 48 24 59 9 44 44 55 Charlie 5 47 84 9 10
+4 72 32 55 Charlie 9 45 27 64 7 1 14 28 76 7
+45 2 76 34 Jialu 56 85 52 91 70 65 31 46 89
+7 10 3 90 56 4 92 48 23 85 31 3 47 2 33 74 68 34
+11 86 Charlie 18 52 48 笑 63 25 90 62 43 72
+31 65 81 18 29 10 23 0
+74 49 11 89 47 63 40 81 70 11 2 80
+22 50 80 57 31 28 82 55 31 22 70 39 37
+68 19 31 3 8 37 2 68 76 41 44 91 33 67 5 14 83 72 Jialu
+36 56 33 2 80 37 69
+12 4 5 84 43 55 Tracy 93 4 12 93 5 92 4 71 89 72
+70 48 53 2 86 11 81 91 75 8 55 43 10
+64 72 3 79 34 0 6 6 45 10 3
+76 25 笑 31 13 92 49 76 36 66 69 57 24 13
+57 50 14 哭 32 37 59 Tracy 40 Charlie 26 32 60 37
+35 72 83 笑 64
+44 85 29 4 77 74 22
+47 2 51 5 37 75
+93 49 45 90 51 74 32 21 84
+43 9 36 72 笑 11 93 41 57 57 29 31 9 87 82 22 86 0 81 60
+22 62 73 10 90 42 4 49 68 28 66 64 52 38
+32 68 49 15 44 44 7 0 20 1 50 82 笑 53 83 60 44 10 73 70
+90 10 Jialu 47 80 26 70 61 66
+28 38 61 66 75 86 61
+52 Charlie 71 笑 60 42 笑 44 14 71 7
+89 37 50 15 41 47 9 51 93 78 Charlie 20 84
+23 24 笑 17 74 笑 哭 笑 58 17 84 46 29
+25 18 20 74 78 68 11 75 43 51 74 65 38 53 44 63 66 Charlie
+94 50 1 77 78 Charlie 20 80 18 47 15 30 21 81
+0 18 40 30 59 35 82 4 60
+69 73 35 7 2 84 18 71 42 32 91 42 61 15 92
+69 8 2 6 7 24 19 10 71 91 29 1
+62 61 93 30 83 39 18 69 哭 15
+19 68 38 56 32 2 74 28 3 6 94
+93 89 1 24 13 58 18 16 81
+50 21 17 24 43 27 62 哭 87
+22 52 73 66 19 34 73 88 91 64 33 69 26 81 57
+71 84 48 41 41 41
+86 31 49 80 24 59 76 6 0 72 47
+31 30 34 34 47 85 50 1 17
+6 13 94 50 76 43 81 13 13 85 70 79 51 71 72 3 8
+54 22 77 Charlie 78 51 30 66 58 47 24 52 24 51 46 34 Jialu 9 76 73
+Tracy 81 90 78 29 51 43 70 86 27 55 61
+72 66 56 14 Jialu 92 20 29 84 1
+19 74 9 79 54
+18 39 86 3 65 88 33
+10 33 75 62 24 38 61 82 25 30 18 哭 67 71 70 55 41
+72 35 52 37 37 66 18 Jialu 44 60 86 9 笑 62 71 79 77 5 39
+12 42 27 26 Tracy 30 12 18 32 74 37 67 50 41 57 67 哭 4 40 12
+78 35 94 60 27 2 12 26 83
+71 41 51 79 4 92 36 43 69 58 35 91 23 3
+18 72 52 11 54 22 31 29
+51 18 59 77 12 49 29 51
+10 41 5 43 29 35 50 31 69 79
+84 笑 24 20 30 49 56 Tracy 76
+56 21 47 60 27 54 57 22 25 1 40 68
+23 87 15 65 33 60 26 Jialu 88 92 9 88 22 12
+Charlie 19 笑 Jialu 12 13 28 79 55 50 93 33
+88 91 81 44 59 70 43 82 66 32 42 83 82 30 37 20 5
+69 58 76 0 88 36 59 39 89 Charlie 69 94 86 笑 53
+15 Tracy 71 24 71 80 69 12 65 75 27 4
+35 11 77 89 20 17
+85 Jialu 69 6 46 44 72 67
+51 21 50 50 71 25 58
+4 72 49 81 81 40 10 90 80 92
+47 26 89 82 9 67 40 7 56 71 54 46 18 12
+56 63 51 30 19 27 8 26 20 64
+71 49 20 6 77 75 62
+Jialu 31 60 85 39
+1 13 25 41 82 53 27 27 67 71 39 10 29 47 76
+24 91 78 46 24 63 26 61 68 59
+60 43 79 60 40 44 44 59 19 67 92 40 82 Tracy 64 61 Tracy 21
+86 67 58 57 84 55 22 74 80 78 94
+35 20 26 63 27 笑 52 82 82 12 34 34 13
+37 23 3 57 38 74 47 20 31 7 45 40 26
+48 60 54 73 47 28 46 49 69 23 笑 52 58 79 92
+91 88 53 67 15 46 60 10 17 59 10 38 55 45 Tracy
+60 25 6 68 55 哭 78 15 72 66 76 64 76 86 16 37 90 91 71 33
+19 42 49 64 64
+34 30 82 45 91 29 17 16 9 0 29 84 55
+44 71 62 60 61 5 35 85
+27 91 80 79 22 77 33 76 46 91 61
+77 73 23 60 74 10
+85 6 42 0 28 78 29 4 53 33 0 48 73 76 42 47 76 89
+8 31 2 47 79 28 Tracy 59 39 6 0 24 85 62 52 81 41 4 71 93
+10 4 67 哭 70 36 52 90 31 58 61 33 90 11
+22 48 26 4 31 89 34 29 49 42 笑 62 58 16 6
+21 0 24 86 48 0 9 58 65 90 35 69 61 66
+27 32 62 93 93 63 83 93 19
+29 88 笑 5 87 26 12 Charlie 33 14 18 24 Tracy 92 57 63 84 14 92 69
+11 60 52 88 81 9 Charlie 32 85
+78 22 26 23 7 21
+11 11 8 76 66 80 93 39 62 哭
+12 41 26 82 47 71 56 0 77 61 51 66 46
+53 15 85 81 64 23 80 24 78 7 71 19 11 74 76
+66 88 35 7 Jialu 50 68 88 14 73
+88 43 0 59 65 1 19 2 77 48 19 52 7 80 68 55 29 69
+52 Tracy 12 1 46
+64 71 50 87 62 38 33 17 67 86 49 56 43 87
+76 77 45 31 82 49 7 94 86 65 15
+54 3 70 61 9 74 89 71 76 71 30
+23 81 26 66 76 60 73 5 35 65 Jialu 61 2 78 57 0 84 24
+68 43 0 Charlie 40 46 20 52 39 88 31 1
+11 94 68 89 22 84 Jialu 34 41 16 84 27 7 70 53 21 60 84
+10 82 39 16 5 45 81 43 94 91 3 77 15 18 2 13
+70 34 70 23 14 8 40 85 64 79 72 17 51 7 7 23
+94 68 68 54 45 47
+Charlie 63 74 65 58 Jialu 91 42 8 9 68 37
+28 42 75 60 28 69 21 74 29 3 84 33 88 86 18 41 92 63 59
+64 57 43 81 41 93 84 35 52 哭 23 9
+63 哭 21 14 17 94 70 20 74 9 51
+30 88 26 69 Charlie
+66 69 69 Tracy 59 41 44 14 32 87
+8 80 34 34 41 1 1 33 47 34 80 88 75 67 70 83 37 37 14
+59 25 31 77 2 8 85 22
+1 88 Jialu 72 46 42 29 45 49 92 52 82 1 90 82 24
+60 1 89 88 41 34 24 35 85 52 85
+88 80 52 78 9 54 13
+83 22 50 笑 91 0 40
+86 85 94 15 58 Tracy 70 47 Tracy 51 24 4 32
+23 42 6 27 89
+77 3 10 38 80 32 35 57 80 30 59 66 5 22 30 67 29 6
+Charlie 24 1 54 17 9 0
+87 69 29 72 Jialu 37 87 24 69 44 51 10 71
+28 57 Tracy 17 84 48 77 4 71 87
+65 45 17 59 64 24 71 40 41 44 85 22 21 77
+94 44 46 90 39 14 14 60 22 42 71 59
+63 8 61 16 91 56 50 48 Tracy 61 40 13 Charlie 19 24 53 84 13 63 4
+89 32 10 78 67 20 11 80 12 14 32 38 52 92
+53 7 49 79 34 55 5 17 12 18 12
+41 52 Jialu 84 81 55 80 42 67 69 42 79 53 47 笑 37 89
+69 5 3 71 67
+36 14 67 9 84 90 71 18 27 43 哭 83 27
+48 57 54 84 13 11 90 50 69 88 48 35 9
+Jialu 56 34 44 82 23 44 45 19 26 0 26
+70 89 55 43 13 10 Tracy
+72 83 88 77 65 9 84 72 71 91 Jialu Jialu
+93 44 28 42 19 69 84 8 59 0 74 7 92 32 6 27 笑 80 89
+68 73 55 7 83 8 73 81 70 64 13 47 13 1 46 28 6
+23 88 58 0 Tracy 61 28 28 70 2
+91 79 87 48 43 79 2 53 12 0 71 66 52 29 18 40 Jialu 87 23 18
+87 57 Tracy 19 哭 10 15 43 63
+Charlie 64 94 45 61 57 6 32 27 26
+66 42 92 89 83 30 57 22 27 11 74 4 19 50
+51 45 8 16 41 6 19 49 52 19
+Tracy 31 89 52 57 70 42 65 62 5 20 81 5
+56 28 6 48 83 74 80 40 51 72
+79 33 76 33 30 44
+50 16 63 58 85 86 79 58 14 40 18 35 44 2 44 56 43
+80 16 19 77 0 31 33 45 37 51 92 61 32 85 81 55
+4 16 29 33 哭 86 93 26 86 4 11 26 14 5
+72 2 51 哭 19 53 74
+53 14 85 Charlie 37 16 Jialu
+65 60 0 41 44 27 67 82 94 Tracy 46 40 91 93 Tracy
+11 23 46 94 16 31 哭 72 37 34 43 56 59 88 8 25 28 31 71 62
+81 13 5 67 Tracy 88 58
+59 20 哭 12 49 40 69 85 33 22 79
+15 1 Charlie 3 76
+21 33 49 72 43 30 94 35 24 12 8
+2 58 25 88 17 27 4 75 26
+60 46 39 15 50 28 40 61
+42 78 88 43 19 84 11 31 94 68 32
+65 27 44 69 53 56 87 30 52 6 74 27 41 25 80 65 37 33 42 71
+26 52 19 37 36 51 17 44 89 67 53 91 40 88 6 64
+29 84 58 27 1 40
+6 57 90 15 60 35 14 42 37 1 13 Tracy 82 Charlie 59 Charlie
+15 2 5 28 3 26 70 34 60
+47 15 41 76 25 35 21 47
+61 71 26 0 31 43 52 27 59 58 68
+89 74 61 91 7 71
+9 哭 27 80 20 8 70 82 Tracy 91 76 83 88 1 Jialu 86
+74 60 79 65 57 51 37 83 50 0 89 68 89 11 86 32 75 32
+笑 哭 30 20 44 55 45 57 12 Tracy 65 16 50 59
+10 Charlie 59 55 57 61 69 75 1 4 59 66 2 50 58 52
+49 52 56 50 72 91 68 94 75 87 72 94 76 76 78
+85 82 79 56 94 52
+88 5 89 15 14 12 37 72 51 92 35 62 66 80 81
+70 17 13 63 2 74 73 37 50 81 59 6 94 70 35
+17 74 42 82 73 76 72 66 21 94 71 85 41 28 65
+83 41 80 75 50
+30 43 82 92 90 83 31 Jialu 3 24 6 23
+32 64 77 7 25 50 27 68 51 28 39 88
+68 48 Charlie 31 70
+10 15 89 Jialu 38 66 22 6 64 44 67 87 Charlie 41
+22 21 80 44 69 0 14 37 4 74 35 42 20 63 27 79 60 86 24
+77 81 笑 49 9 13 32 42 Jialu 52 21 18
+68 31 41 39 65 74 83 49 22 20 11 82 56 39 61 24 21
+63 80 哭 69 1 15
+46 5 Charlie 笑 46 笑 44 88 23 80 33
+50 54 64 94 69 56 91 6 83 45 47 26 8 72 35
+89 11 4 26 58 71 笑 16 6
+40 58 34 1 61 78 27 57
+84 19 89 43 44 24 Tracy 23 56 31 11 48 81 49 87 50 7 19 49 33
+8 94 35 1 Tracy 65 23 22 41 34 76 45 36 67 62 57 47 67 90 94
+58 50 11 92 42 75 5 4
+58 24 80 94 30 29 76 17 12 哭 11 22 哭 73 25 83 77
+87 25 64 51 21 17 68 21
+25 32 18 48 60 41 26
+41 31 17 89 28 20 74 68 33 33 59 27 79
+18 41 2 87 58 34 哭 32 52 19 Charlie 71 88 52
+81 75 52 56 25 67 81 16 75 67 5 59
+93 20 39 85 30 50 50 76 42 8 82 42 81 77 48 29 67 61 66 80
+Jialu 94 20 47 88 26 73 2 14 66 62
+11 62 4 10 27 63 65 90 89 47 13
+23 44 31 12 61 Tracy 哭 50 38 76 13 25 43 80 86 44 79 41 笑
+45 5 85 Charlie 19 84 48 46 24 45 89 55 94 86
+52 笑 52 75 89 63 72 9 31 27 14 7 72 47 75 2 71 47
+92 73 15 3 85 29 Charlie 8 75 3 81
+51 11 笑 33 32 13 43 25 50 12 Charlie 17 23 75 16
+16 58 1 70 33 50 20 64
+50 Jialu 72 35 3
+59 Jialu 87 27 25 4 44 31 52 40 67 11 51 87 29 10 16 30 36
+56 8 57 38 20 12 29 68 74 1 55 Tracy 45 94 50 31 27 27 90
+5 11 63 54 49 53 14 哭 4 Jialu 32 61 39 38
+笑 15 笑 37 1 31 32 0 18 1 Tracy 笑 72 1 15 47 7 68 91
+30 22 33 1 91 74 75 39 91 87 1 9 27 86 56 27 5 63 49 59
+25 39 32 50 94 56 38 78 38 11 23 41 56 34 93 75 13 5 61 81
+37 70 65 23 53 43 44 70 93 47 0 93 30 16 31 81 88
+44 16 53 11 43 36 87 24 Charlie 32 49 20 36 50 81
+94 77 72 30 16 73 22 83 71 88 12 79 80 37
+39 2 56 48 48 哭 32 90 3 65 45 63
+11 21 22 32 20 89 71 59 哭
+32 5 42 57 84 66 53 53 69 83 26 92 12 6 49 71 83 61 46
+68 73 54 69 28 86 30 28 10 11 78 81 10 81 47 Charlie 15
+55 Jialu 65 5 56 25 78 71 91 92 15
+64 5 45 15 33 26 86 58 61 30 56 67 1 73 71 50 65 88
+61 79 笑 5 66 87 70 33 45 72 77 Charlie 65 41 81 82 14 0
+10 14 71 38 90 25 49 2 41 93 42 70 91 44 21 57 84 19
+16 74 7 70 64 7 48 18
+41 42 59 27 0
+61 6 42 41 68 43 20 64 12 91 2 5 22 73 10
+39 Charlie 0 8 19 60 笑 19 41 33 笑 84 65 32 6 16
+5 0 47 16 12 26 48
+55 42 12 52 5
+31 50 79 92 7 9 27 44
+42 82 42 86 16 85 哭 46 63 4 83 59 17 74 49 56
+Tracy 74 6 50 10 16 56 67 81 27 9 哭 76 65 3 93 75 91 93 51
+72 72 88 66 64 52 33 40 30 84
+26 32 26 41 48 89 24 33 50 32 92
+63 Tracy 42 25 44 41 4 29 71 42 29 29 14 36
+17 39 38 64 26 29 哭 83 哭 90 65 89 28 79 67
+69 34 5 86 53 41 82 53 63 76 Charlie 53 22 19 10 70 60 42
+79 28 28 36 10 46 78 40 24 4 2
+56 2 55 41 笑 7 Jialu 39 41 26 55 44 9 30 23 20 70
+48 56 33 91 73 6 43 58 42 55 37 35 74 59 59
+73 Tracy 16 91 72 80 38 91 32 24 8 61 60
+18 41 33 84 63 15 17
+78 60 91 77 63 76 61 6 Jialu 28 65 91 84 20
+51 51 36 36 49 哭 84 62 4 41 10 43
+59 31 81 57 41
+47 36 72 11 69 8 66 56 38 45
+25 64 37 65 35 25
+78 50 Charlie 89 67 49 45 65 51 Charlie 笑 28 12
+20 27 23 8 91 Tracy 54 35 64 Charlie 10 22 58
+45 60 52 24 12 80 79 89 74 46 58
+40 62 91 74 49 69 86 31 75 42 25 90 51 32 22 70 6 48 78 77
+10 87 1 51 18 68
+62 35 49 74 2 1 27 78 67
+32 73 74 91 68 75 85 73 76 89 Tracy 21 27 70
+17 13 5 44 6 73 41 61 23 9 89 92 72 80 32 8
+83 28 49 4 80 41
+76 31 44 57 76 59 哭 7 42 56 83 43 25 8 16 94 75 2 94
+80 91 24 18 81 8 31 78
+2 26 9 81 26 12 67 91 2 87 66 33 9 92 Charlie 36
+53 56 46 59 22 30 78 51 4 67 90 12 49 40 13 34
+80 66 Tracy 39 30 93 85 52 56 39
+83 5 58 31 89 27 45 18 70 32 6 32 47 24 50 Charlie
+17 59 63 42 41 78 14 87 23 59
+7 28 6 92 35 92 50 90 0 58 6
+Tracy 69 68 21 59 20 73 60 83 70 38 92 36 64 36
+7 39 94 82 84 78 71 30 10 18 34 Jialu 7
+29 39 48 63 34 笑 9 68 84 90 41
+71 80 52 44 48 7 14 1 92 69 66
+15 60 68 40 Jialu 24 32 4 90 30
+6 85 Tracy 8 86 47 90 Charlie 62 85 86 59 27 71 16 20 79 39 27
+哭 9 16 14 71 15 67 53 38 34 15 笑 58 61 17 19 34
+70 14 18 27 35 3 18
+83 93 43 42 24 63 40 69 13 51 Tracy 64 55 62 58 13 24 89 34 51
+Charlie 11 69 13 76 21 91 31
+50 24 92 9 53 Tracy 46 76 65 23 50 11 72 83 45
+71 94 64 51 83 94 24 55 43 69 46 90 53
+72 32 16 59 62 31
+58 Tracy 60 12 40
+22 62 57 87 29 72 34 50 72 37 26
+5 40 3 37 哭 51
+9 35 85 91 91
+92 11 44 88 16 72 13 82 44
+Tracy 92 51 24 33 4 42 57 14 18
+5 25 39 67 45 89 1
+笑 58 59 88 Charlie 0
+68 11 43 63 48 71
+64 27 笑 Jialu 24 笑 16 39
+79 67 25 26 Charlie 58 54 27 86 62 69 4 86 31 87 0 37 21 36
+9 Charlie 49 46 11 77 13 11 13 30 22 76 56
+61 78 37 18 67 23
+92 10 笑 19 69 29 82 13 73 62 35 29 45 57 56 70
+89 78 17 46 6 36 10 11 Tracy 2 54 73 0 14 5 75 11 28 27 31
+32 75 5 76 52 31 51 61 0 46 7 21 33 90 86
+笑 51 64 26 65 65 39 10 80 82 39
+33 88 94 15 17 54
+70 55 69 38 34 37 38 45 18 43 69 27 52 71 47 74
+70 68 5 32 41 50 16 51
+82 20 91 4 6 61 68 75 49 36 45 61 20 82 43 24 48
+45 90 87 40 53 78 46 12 18 16 23 76
+83 50 13 33 69 28 70 48 65
+89 Tracy 40 15 28 82 87 22 88 42 70 48 74 14 2 43
+76 19 19 25 27 25 5 17 24 52 2 88 26 41 58 40 83 62
+53 62 87 68 30 37 8 83 49
+2 69 83 65 29 73 69 72 12 73 3
+90 2 25 38 6 66 6 0 91 82 63 79 62
+Tracy 47 69 17 90 34 17 79 88 37 9 68 7 70 17 77 79 1
+32 11 45 19 62 2 13 5 68 46 4 86 88 18 9 75 16 81 93
+65 11 49 29 17 16 1 59 2 64 4 93 20 71 6 57 10 78 24
+85 笑 笑 19 29 65 62 1 49 30 16 9 47 66 44 1 72 67 73
+22 35 90 37 60 62 10
+2 17 8 7 30 Jialu 49 94 88 29 63 27 56 45 84 29 笑
+42 30 72 66 29 47 57 15 66 36 84 58 71 21 10 65 27 76 65 84
+85 笑 15 12 22 89 54 54 22 48 72 12 31
+38 52 86 17 83 80 69 73 18
+94 85 85 60 19 33 70 52 9 76 44 25 10 38 50 58 29 18 49
+57 7 41 82 34
+64 6 59 69 94 27 25 11 85 43 33 31 93 85 85 5 53 54
+15 13 17 31 0 51
+35 77 81 20 72 32 10 26 33 45 44 4 31 42 49 13
+23 70 43 47 62 71 62 66 22 26 3 37 35 27 33 Jialu 92 0 4
+23 3 29 24 16 33 80 19 85
+85 15 4 52 10 83 90 32 77 22 78 4 66 65
+26 Jialu 32 8 24 59 31 31
+64 Tracy 44 64 44 79 62 18 32 63 21 31 16 49 9
+笑 78 26 68 94 哭 27 87 哭 0 59
+2 25 49 19 0 84 70 44 8
+12 9 48 79 49 哭 76 54
+12 46 15 5 46 58 86 6 21 89 76 47
+22 52 34 73 43 28 78 76 88 7 67 12 47 17 50 哭
+42 89 57 哭 12 37 21 38 笑 70 77 89 26 56 71 1 89 75 36
+2 14 15 51 0 50 65 18 91 2 28 哭 69 33 Tracy 62 51 41 53 22
+52 77 90 哭 46 19 1 31 16
+16 89 58 22 58 78 82 63 83 9 68 7 71 2 6 76 Jialu
+82 72 88 35 77 4 60 18 24 45 54 58 60
+34 85 55 1 14 24 10 44 42 59 56 92 52 45 46 74 63
+1 87 48 5 58 20 18 48 9 70 32 87 56 71 43 53 41
+85 32 46 30 40 79 哭 35 56
+28 10 12 31 39 12 13 58 27 22 哭 8 27 77 哭 31 71
+33 84 53 75 33 74 27 36 Jialu 89 29 40 86 56 17 10 80
+16 33 60 45 36 16 59 24 36 80 65 21 10 40
+69 62 32 28 31 65 54 3 35 16 12 57 59 28 43 72
+8 43 85 68 25 45 60 16 Tracy 17 Tracy 17 56 84 2 94
+61 73 26 76 19 17 80
+77 65 11 29 17 70 59 30 9
+45 10 51 46 39 58 60 80 38 75 46 28 36 51 33
+26 26 93 76 9 15 15 92 25 33 45 79 74 70 43 48
+66 17 10 70 44 84 55 3 25 61 82 52 Tracy 94 54 19
+72 24 56 11 32 82
+87 32 46 91 32 57 85 66 89 14 84 92 70 21 83 16 34 17 72 18
+4 74 71 33 80 47
+42 77 84 12 7 17 55 70 94 65
+86 20 81 3 25 17 49 84 68 45 29 9 57 69 40 53 3 18 37 61
+35 17 48 71 Charlie 66 79 94 25 82 7 86 20 33 71 62 58
+49 68 23 88 61 67 91 40 89 27 58 54
+70 39 Jialu 87 15 36 33 15 83 60 61
+92 28 19 90 1 53 58 21 56
+58 32 21 82 72 28 10 71 48 68 18 50 63 11 22 38
+61 笑 61 63 40 52 12 86 40 9
+36 92 19 53 79 7 51 笑 28 66 15 8
+Charlie 72 15 52 8 40 26 34 34 65 15 56 79 15 20
+92 Charlie 30 29 65 哭 11 87 94 9 29
+12 94 75 59 91 5 Tracy 92 50 81 0 24 45 笑
+76 55 25 94 84 63 37 3 21 32
+74 26 82 5 29 34 50 37 54 46 64 34 82 45 Jialu 14 91 92 91
+66 15 4 38 19 58 49 69 77 6 57 64 75 43 36 27 24 5
+17 75 9 54 28 76 57 82 8 48 24 Charlie
+85 23 59 34 Tracy 49 17 Jialu 12 92 48 74 27 90 62 60 11 44
+32 11 52 78 49 5 15 43 79 33 60 63 73 23
+29 31 21 28 78 79
+4 32 9 5 57 64 80 82 25 78 50 72 Tracy 65 7 94 83 58 13
+94 20 77 62 22 25 74 58 90
+30 56 37 43 27 笑 53 24 94 74 22 2 哭 29 哭 94
+40 92 66 23 52 70 69 29 30 82 0 73 84 51 19 90 34 27 54
+32 24 65 20 31 61 42 87 23 17 21 71 笑 19 38 79
+34 79 34 23 69 11 61 44 36 90 22 14 47 83 5 笑 79 7 42
+89 77 45 笑 81 91 82
+12 16 Jialu 32 6 49 32 5 69 57 85 94 45 46 43 94 61 8
+40 1 33 78 41 24 41 83
+25 91 64 28 84 55 66 69 12 18 6 56 27 66 51 66 75 72
+90 12 60 33 90 63 23
+24 0 26 26 67 5 85 27 13 77 61 56 59 Jialu 84 87 46 82 37
+51 6 90 92 Tracy
+35 18 19 31 43 46 53 41 66 89 79
+29 75 24 8 58 14 64 Tracy 86 68 11 23 33
+27 25 31 68 41
+91 9 17 83 30 86 12
+84 46 80 8 哭 59 5 12 18 56 59 40
+82 14 91 36 62 85 21 74 18
+93 87 88 36 81 笑 26 46 38 91
+67 41 39 64 46 65 34
+60 79 60 88 53 74 69 69 92 59 8 15 71 67 32 7 52 87 7
+46 37 87 84 91 18 65
+14 27 49 60 84
+40 75 45 92 52 2 80 5 14 22 41 86 76
+31 63 45 15 58 15 44 10 12 8 30
+74 85 43 89 58
+75 45 56 1 23 59 93 75 20
+59 22 28 10 3 4 23 82 14 8 76 89 61 笑 15
+8 43 62 48 37 34 46 Tracy 78 81
+13 92 64 32 55 82 69 Tracy 76 62 51 53 64 85 22 79
+0 19 77 45 34 16 78 8 38 55 78 21
+4 10 31 43 91
+13 90 89 69 46 44 Tracy 45 40
+48 35 87 81 4 40 50 2 15 哭 90 94 6 48
+28 50 69 61 47 23 35 44 38 45 17 77 9 49 23 61
+6 13 77 28 77 6 10 72 58 62 90 66 Charlie 71 33 35 6 80 18 72
+56 72 67 25 73 33 40 82
+75 70 5 74 70 89 哭 7 60 3 86 74 11 84 26 78
+69 82 54 16 51 89 34 51 81 40 26 27 77 55 68
+6 74 72 89 44 81 92 72 40 20 42 8 48 83 58 85 14 85 45
+28 Charlie 9 55 84
+73 84 51 67 58 25 37 57 69 38 81 Jialu 13 91 33
+66 77 19 48 19
+22 Tracy 93 44 85 43 41
+24 94 3 40 9 55 66 29 86 20 15 24 41 17 6 9 8 35 89 74
+10 19 32 50 76 18 哭 32 Jialu 90 Tracy 79
+43 15 66 94 27 7 15 哭 94 7 73 30 75 94 哭 26 85 65 83 24
+Tracy 哭 83 72 47 49 42 72 60 13 50 12 71 14 27 69 72 37 11
+19 35 72 76 11 15 24 38 21 39 14 37 87
+2 59 Tracy 6 34 2 91 31 75 44 86 39 51 75 60 29 53 20 82
+82 5 21 69 39 58 15 6
+70 哭 70 Tracy 38 0 56 8 16 61 40 76 33 45 22 85 52 46 88 75
+16 15 38 46 10 3 19 30
+15 53 33 15 43 43 71 4 哭
+49 13 90 29 32 13 70 11 86 44 50
+83 Jialu 52 88 24 Jialu 84 19 9 67 78 48 笑 64 15 1 64
+53 53 35 Charlie 86 哭 Tracy 34 77 15 49 80 19
+31 76 68 40 85
+43 16 17 38 12 35 67 Charlie
+75 23 57 32 42 83
+70 37 70 86 61 52 72 36 19 28 11 91 39 32 58 39
+23 79 38 94 71 4 40 20 20 42 15
+68 53 27 94 15 73 85 90 80 67 34 56 3 67 34 29 33 44
+47 60 29 80 3 65 11 44 57 71 25
+0 12 65 35 57 33 66 35 7 31 82 30 60 Charlie 27 35 58 72
+88 54 44 2 3 28 59 72 32
+83 66 55 56 91
+55 5 86 40 28 77 哭 66 46
+76 31 51 50 13 40 53 22 32 76 57 Jialu 66 Tracy
+56 53 哭 21 32 89 71 21 72 67 Charlie 79 68 57
+82 75 59 14 13 75
+26 15 5 70 72 22 53 41 89 72 82 67 53 34 30
+46 41 Charlie 13 23 26 29 24 23 37 87
+37 77 28 4 71 70 66 61 67 90 27
+20 94 7 78 42 87 41 0
+12 86 39 23 73 55 笑 35 82 45 86 31
+35 5 78 91 45 73 44 77
+36 17 62 64 46 22 78 91 88 35 75 31 84 30
+12 85 19 64 76 43 92 25 86 19
+39 12 93 15 53 78 18 53
+29 笑 33 76 79
+77 59 85 26 8 30 10 45 78 25 59 46
+41 10 65 Tracy 41 12 43 Jialu 42 Charlie 23 81 26 77 15
+56 Charlie 34 51 23 28 10 30 1 50 33 36 6
+73 13 62 50 32 26 笑 15 24 46 62 6 57 41 10 87 27 60
+42 2 94 48 1 75 73 11 74 4
+84 36 81 2 93 13 58 49 34
+22 2 21 5 47 66 80 83 69 47 30 73 2 哭 33 94 77 83
+Tracy 42 72 28 47 56 17 60 85 78 67 哭 26
+92 68 65 Jialu 48 4 49 93 65 32 11 73 34
+12 63 81 24 78 85 15 53 48 63
+2 31 60 10 10
+3 哭 77 Jialu 84 52 16 36 82 23 38 80 74
+73 72 43 64 37 Jialu 86 50 89 4 81 65 83 79 8 89
+81 81 40 32 61 5 80 15 36 74
+6 35 55 61 36 4 Charlie 9 6 34 67 73 93 73 73
+17 58 26 20 36 37 92 51 36 48 Tracy 67 0 17 67 59 60
+8 49 13 84 2 90 49 19 0 23 24 43
+46 78 11 73 39 66 93 52
+1 22 59 71 84 35 82 11 93 39 26 56 14 14 29 12 57 16 68 15
+0 86 33 32 83 86 56 35 52 49 49 58 72 24 17 60 26 47 88
+28 17 83 33 13
+36 54 57 21 31 32 67 61 14
+33 63 65 33 63 84 11 22 76 0
+48 7 70 57 32 85 93 Tracy 3 52 88 16 46 58 3 48 47
+57 66 72 66 50 27 36 17 34 5 64 46 43 51
+哭 88 69 28 17 16 41 73 90 42 92 77 70 笑
+37 25 36 12 23 17 54 7 68 68 11 72 86 1 32 71 36
+2 48 38 79 29 63 84 75 51 45 69 24 56 12 76 5 35 90
+79 60 48 41 44 81 58 83 17 94 25 44 89 57 Jialu 25 7
+91 51 12 59 67 88 76 47 5 81
+86 46 91 71 18 53
+1 77 21 69 2 51 31 40 8 Charlie 2
+9 33 0 61 43 44 18 12 93 28 34 63 20 85 32 65 85 50 31
+61 27 0 32 30 11 76 58
+Jialu 36 43 76 0 17 24 18 85 37 94 51 58 25 71 2 63 31
+41 81 54 17 54 29 83 28 76 14 7 61 77 57 59 29 92
+7 39 3 41 12 76 58 86 42 26 11 14
+44 2 69 56 85 15 74 54 84 22 46 87 86 89 33 15 67
+81 53 笑 48 86 20 25 19 75 19 55 37 55
+28 69 51 70 40 18 35 71 92 11 73
+63 8 30 63 30 84 39 62
+45 84 86 65 22 68 70 7 83 42 22 70 59 2 74 76 10 65
+41 13 20 80 72 69 57 15 68 40 75 69
+74 84 94 12 22 37 53 46 38
+44 1 49 65 71
+46 33 34 57 51 39
+27 75 54 35 33 64 22 83 54 76 8 13 87
+53 94 93 41 61 14 91 7 Charlie 8 8 45 85 36 12
+59 81 51 91 90 77 33 30 7 54 34 41 75 93 72 14 63 39 91
+71 54 90 55 63 88 75 61 70 92 88 31 10 86 16 91 54 34
+62 笑 75 36 79 0 91 54 63 74 15 7 49 52 14 69 28
+93 81 Jialu 68 44 16 77 41 39 81 73 90 笑 3 52 18 77 44 72 64
+93 0 7 64 13 12 62 89 94 47 笑 52 34 6 笑
+5 Tracy 3 48 82 13 19 16 53 13 84 12 67 68 4 51 Jialu
+67 93 86 88 32 78 88 29 64 5 90 67 Tracy 80 25 56 77 8 78 68
+60 62 27 6 69 71 19
+笑 18 86 85 65 27 87 47 49 34 66 82
+15 Charlie 8 13 0 Jialu 12 2 87 91 32 65 68 23
+32 51 46 94 51 27 8
+16 35 43 87 55 93 11 Jialu 89 17 39 63 27 16 67 44
+38 85 4 67 10 43 37 38 56 50 63 93 44 23 37 44
+15 71 41 32 92 70 33 85 91
+89 1 48 8 5 72 93 54 13 89 35 13 71 22 92 11 31 46 94
+27 79 76 51 65 84 50 36 31 89 3 84 82 12 48 75 11
+51 11 23 62 32 78 38 89 76 79 11 7 48 44 13 88 50 37 93
+38 68 42 31 25 29 44 31 37 20 64 40 56 7 81 69
+82 36 43 94 74 11 19 91 43 19 61
+77 33 18 14 33 39 78 14 55 60 81 21 25 43 51 35 5
+8 57 11 49 4 42 76 74 56 71 93 45 18 Charlie
+58 78 8 30 20
+57 26 19 28 26 21 44 78 87 53
+66 6 9 44 55 Jialu 78 7 11 15 90 53 75 44 57 18 10 23
+7 77 59 11 63 93 38 36 76 84 22 9 78 笑 4
+78 1 31 94 57 85 54 54
+71 20 1 15 37 44 8 84 63
+70 83 60 73 3 13 Jialu 49 53
+哭 37 17 19 69 88 52 50 33 65
+54 37 36 94 4 63 笑 32 68 78 64 36 36 38 2 77 27 49
+72 93 58 26 50 34 4 48 0 89 70 17
+24 59 63 6 21 22 41 1 13 59 47 79 1 44 41 Tracy
+36 13 36 Tracy 71 8 82 60 5 69 42 92 11 50 39 91
+75 1 61 67 48 13
+40 86 1 73 29 71 86 75 40 18 Jialu 91 52 78 92 67 60 60 68 76
+83 85 90 53 48 10 57 56
+49 35 85 68 42 46 Jialu 17 66 93 1 20 62 94 Jialu 64
+30 1 2 9 58 7 50 77 37 28 33 43 49 68 91 Tracy
+68 79 60 50 90 27 79 52 2 81 60 75 9
+45 55 35 26 81 40 92 49
+80 6 77 30 39 13
+47 0 哭 40 87 Tracy 16 4 57 46 86 36 64
+47 34 20 1 35 77 23 76 38 0 6 5
+0 29 47 Jialu 38 3 63 3 10 55 32 54 83
+76 2 73 22 11 62 8 53 30 63 Tracy 8 哭 23 83 31 47
+65 46 43 35 33 20
+20 11 笑 93 94 18 41 19 33 18 63 48 48 30 22 13
+11 43 94 53 36 67 25 79
+0 57 57 53 76 50 88 16 Charlie
+16 69 1 6 35 0 42 61 71 71 63 69
+86 39 83 40 22 12 65 55 0 9 25 32 40 38 18 74 50 12
+40 46 46 11 11
+2 59 60 88 5
+27 35 0 92 29 19 70 47 37 90
+37 86 42 69 0 93
+60 62 45 8 47 59 69 62 21 93 78 80 哭 42 40 19
+2 21 58 53 77 44 34 11
+55 61 79 0 25 47 笑 41 12 40 41
+32 53 34 21 52 47 59 18 81 40 47 88
+83 72 78 48 73 25 42 72 66 28 69 54
+78 8 81 88 55
+9 41 69 85 68 15 30 哭 27 4 47 80
+48 16 72 12 9 8 42 24 71 36 50 22 34 90 25 77 83 9 6
+29 3 87 84 68 22 18 61
+88 79 76 Tracy 14
+93 14 75 59 82 46 45
+10 83 48 33 2 22 75 80 15 52 29 47 67 26 50 32 55
+52 21 58 91 45 94 64 61 19 51 18 69 18 63
+87 85 80 6 44 35 50 14 62 31 76
+64 18 67 35 89
+51 6 91 35 11 66 Jialu 67 35 50 89 10
+72 25 3 71 26 74 91 63 36 37
+60 59 0 19 82 7 22 82 7 58 27 55
+32 72 58 76 4 39 88 39 51 7 50
+66 30 57 11 88 84 18 38 27 79 27 76 15 94 28 3
+61 笑 55 Jialu Jialu Jialu 92 20 41 6 26 49 Jialu
+38 40 65 38 94
+34 Tracy 87 12 84 15 52 58 22 34 21 93 6 51 14 81
+9 40 20 88 27 67 88 37 43 6 74 2 27 笑 71 10 67 46
+62 71 11 29 16 81 Charlie 23 8 41 3 6 86 80 45 74
+79 笑 27 23 64 78 53
+83 78 41 62 48
+25 72 59 75 61 84 12 94 30 73 18 66 54 28 85
+1 16 31 86 46 83 59 68 10 70
+79 41 19 70 70 41 40 17 64
+2 44 94 笑 55 2 24 Tracy 83 55 75 58 88 1 18
+0 40 66 77 84 44 57 54 3 61 15 18 90 0
+64 52 7 71 7 Tracy 6 4 9 11 31 Tracy 0 63 91 72 65 82 笑
+1 51 83 48 57 85 10 79 43 62 7 12 76 Tracy 45 69 25 34 76 54
+15 37 55 17 64 36 6 83 92 84 58 18 37 20 0 43
+85 33 27 56 85 19 1 48 27 48 61
+15 55 47 9 42 10 32 39 87 10 25 90 49 11
+83 62 70 62 Charlie 45 27 37 80 2 39 28 94 9 24 38 60
+65 32 89 71 53 67 7 66 60 37 48 10 27 46
+48 28 87 90 67 44 74 24 37
+1 哭 哭 65 49 29 52 93 19 57 65 86 75 49 27 83 67 52 36 9
+37 88 22 28 90 15 74
+66 28 25 12 53 39 30 47 2 83 56 8 25 80 93 Tracy 47
+85 52 53 66 57 71 44 81 71 93 2 59 91 67 89
+86 60 8 74 67 94 64 50 88 5 34 71 47
+87 41 78 2 75 49 44 38 43 52 91 59 87 21 11
+48 58 20 72 17 20 61 10 10
+76 76 37 31 21 84 72 9 46 2 16 3 60 35 Jialu 94 33
+65 Charlie 7 38 6 5 24 91 Charlie 82 3 64 50 15 80 87 77 19 56 24
+83 10 51 23 61 62 62 43 86 68 17
+55 Jialu 89 72 Tracy 27 5 4 33 36 80 86 39 4 79 86 Tracy
+9 45 44 37 70 36 85 28 58 19 33 81 23 7 31 92 50 27
+5 67 4 17 76 44 62 35 23 32
+88 7 91 22 34 87 Tracy
+9 73 86 77 89 0 26 47 67
+4 90 76 10 82 33 92 62 26 66 92 40 93 23 81 笑 48 32
+90 6 13 82 10 37 34 25 37 62 21 20 31 52 87 90 54 笑
+80 59 31 81 66 6 Jialu 3 3 29 50
+30 6 63 5 30 56 0 69 27 Charlie 57
+6 25 36 15 22 89 53 53
+59 63 15 31 42 46 88 82 77 92 1 79 53
+86 25 4 41 81 58 2 48 86 49 82 58 65 45 13 7 5 33 31 34
+81 88 74 22 0 58 87 62 72 58 54 61 43 82
+35 79 74 36 69 28 68 47 59 57 74 77 31 61
+44 5 17 58 8 80 58 26 1 21 45 9 13 33 29 26 94
+14 82 17 0 15 62 18 2 23 79 31 15
+59 1 61 哭 59 91 33 85 53 54 34 82 89 84 30
+80 33 57 7 20 6 11 42 3 63 37 39 49 1 17 31 49 44 61
+84 Charlie 69 71 57 45 笑 54 36 29
+48 13 40 67 35 Tracy 90 78 19 26 42 62
+25 0 77 36 93 59 64 25 43
+84 46 20 68 75 39 75 71 25 10 28 2 79 60 Jialu Jialu 2
+14 25 77 52 35 92 56 10
+84 9 90 83 5 51 73 92 80 34 37 48 73 0 36 37 6 54 66 76
+69 30 8 0 Charlie 23 22 62 0 63 38 41 20 35 40
+28 73 50 73 50 88 64 Charlie 70 41 36
+36 20 78 53 68 37 49 84 52 28 哭 20 50 88 Charlie 60
+27 6 2 5 37 66 38 52 17 43 83 55 6 13
+78 Jialu 60 哭 78 56 44 93 63 71 46 61 64 48 72 21 89 91
+34 16 35 24 9 34 0 35 80 9 69 54 33 88 90 93 4 64 44 61
+12 80 65 59 55 85 21 32 89 39 60 0 13 89 55
+49 91 68 4 54 6 47 5 44 88 74 0 11 49 66 69
+56 90 72 0 86 20 26 19
+32 35 43 77 4 49 4
+93 82 17 42 47 75 24 13 23 63 64 Jialu 笑 69 55
+40 51 62 26 31 60 35 60 44 68 47 56 18 58
+62 53 65 79 54 45 92 92 2 12 34 22 40 29 47
+2 12 3 64 64 50 94 33 30 0 61 27 85 22 0 28 34
+61 35 15 笑 47 71 26 12 0 83 28 37 34 76 53 41 51 58 83
+77 89 68 61 76 5 26 72 53 47 34 34
+92 8 79 56 14 59 19
+59 89 47 26 36 42 11 57 30 47 88 69 82 77 77 66 37 90 25 39
+37 8 5 68 18 49 91 75 18 20 52 21 36 9 66 27
+59 43 Charlie 1 83 60 50 56 28 37 68
+33 58 20 17 11 1 11 23 26
+66 哭 33 14 哭 54 25 47 38 3 27
+36 22 63 78 84 Jialu 39 87 70 94 31 62 43
+90 41 42 70 83 86 45 13 1 7 88 27 51
+6 38 82 52 70 86 Charlie 11
+33 77 10 41 72 82 45 44 78 68 Jialu 16 10 59 37 45 60
+Charlie 29 40 28 71 30 85 52 34 54 32 52 36 10 51 70 45 87 4
+7 67 43 19 80 60 49 87 7 Jialu Jialu 93 62 61 3 74 73
+14 93 13 64 59 61 72 47 13
+25 79 46 50 笑 12 19 65 30 29 68 21
+17 66 82 53 Charlie 77 37 6 16 82 19 57 62 49
+Tracy 52 19 92 70 9 哭 40 73 63 66 55 0 43 4 Charlie 6 44 20
+26 84 66 78 53 51 66 45 24 22 91 41 14 31 65 Charlie 84 Tracy
+20 29 笑 90 3 30 31 1 7
+87 22 73 28 57 33 36 70 43
+5 44 3 79 29 71 69 51 80 24 87 63 74 74
+28 15 4 21 58 Tracy 50 55 32 72 9 25 21 49 22 89 61 32 78 85
+66 42 65 37 67 70 8 88 76 52 11
+64 26 笑 50 Jialu
+70 64 82 76 40 4 54 Jialu 40 64 5 9 2 85 68
+30 61 16 92 49 73 21 69 22 18 24 20 35 39 14 Jialu 9 28
+Jialu 8 44 64 42 20 3 15 80 69 6 33 52 30 26 18 60
+35 34 62 50 75 1 21 80 45 91 13 21 20
+75 0 38 30 45 65 55 88 6 63 92 21
+66 25 27 8 52 35 44 39
+85 94 74 55 47 92 91 16 27 19 22
+17 59 66 74 82 86 64
+94 70 38 9 35 68 38 23
+93 20 5 6 74 75 77 83 46 13 6 43 38 39
+77 11 22 12 57 79 61 24 40
+6 19 35 4 19 64 11
+91 13 12 70 57 36 59 41 34 77 45
+79 30 27 32 2 笑
+23 3 Charlie 1 42 87 36 57 37 31 27 Jialu 7 11 41 94 11 86 52
+63 35 49 82 9 8 85 20 9 88 35 28 14
+25 27 81 46 55 0 Jialu 66 79 63
+88 62 4 7 53 76 32 63 40 43 71 56 93 Charlie 48
+38 5 Tracy 71 70 67 28 53 74 16 73 80 16 49 75 13 24 6 2
+33 46 14 77 63 93 9 70 30
+59 34 91 43 Tracy 27 46 2
+87 59 12 69 14 56 82 91 75 1
+28 90 49 55 65 50 44 6 7 10 21 6 18 76 35 9
+6 45 42 25 43 44 88 64 52 4 47 9 91 92 52 72 22
+12 56 83 41 87 64 13
+62 18 14 6 7 91 8 53 39 39 24 2 50 24 Jialu 2
+31 40 40 86 91 86
+8 52 91 44 63 35 39 45 Jialu 49 20 76
+24 5 9 23 24 70 62 77 77 Charlie 85 85 17 61 47
+35 80 39 Charlie 48 16 62 45 31 9 2 91
+53 89 90 25 19 89 76 59 8 65 77 16 63 11 89 46
+30 40 89 15 61 15 7 5 93 31 59 84 62 94 88 23 41
+84 86 12 哭 12 91 69
+44 79 14 76 78 18 Jialu 33 45 66 55 哭 66 91 Tracy 49 47 86 39 18
+72 44 53 16 8 44 70 3
+54 62 52 52 9 62 笑 55 51 5 75 39 28 5 33 91 58 33 20
+88 60 91 5 73 20 92 94 17 35 62
+8 92 0 93 9 89 2 Tracy Tracy
+83 90 72 81 90 14 54 69 85 94
+哭 85 67 6 4 18 71 86 Charlie 12 Jialu 33 14 0 52 1
+哭 19 27 67 92 Jialu 10 81 23 86 82 53 44 75
+8 Charlie 92 33 3 55 0 15 62
+13 10 79 30 Charlie 94 73 60 8 10 27 83
+92 23 42 15 21 0 57 44 19 81 32 61
+90 57 83 57 31 6 20 39 23 43 92 40 25 5 94 47 28 24 85
+87 26 39 10 60 93 24 Charlie 2 2 53 36 10 哭 17 34 76
+85 10 49 90 17
+27 2 76 27 86 94 53 93 55 23 Jialu 6 31 73 哭 2
+66 0 30 77 36 3 6 16 66 65 24 59 66 7 70 84 45 0 54 61
+14 79 54 15 笑 15 53 27 32 39 24
+Charlie 18 22 35 14 32 1 69 62 18 13 0 66 46 86 16
+70 70 35 41 64 24 44 43 50 哭 75 80
+22 59 88 69 86 33
+1 15 46 26 19 23 Tracy 5 74 86 30
+25 10 75 9 21 17 35 33 67 8 70 94
+19 51 28 25 83 42 11 18 85 87 68 92 89 51 5
+哭 92 63 45 6 39 17 51
+45 42 36 46 5 29 87 51 29 70 26 7 5 59 30 79
+70 27 46 93 63 11 1 11 8 84 85 7
+69 77 52 91 55 58 12 79 42
+7 59 62 86 55 38 56 49 6 46 56 43 5 37 86 58
+14 38 23 16 41 31 15 80 92 3 85 75
+Charlie 44 78 57 45

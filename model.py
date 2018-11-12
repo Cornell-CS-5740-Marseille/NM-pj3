@@ -23,7 +23,10 @@ class model(nn.Module):
 
     def compute_Loss(self, pred_vec, gold_seq):
         return self.loss(pred_vec, gold_seq)
-        
+
+    def saveModels(self):
+        torch.save(self.state_dict(), 'my_trained_model_weights')
+
     def forward(self, input_seq, gold_seq=None):
         input_vectors = self.embeds(torch.tensor(input_seq))
         input_vectors = input_vectors.unsqueeze(1)
