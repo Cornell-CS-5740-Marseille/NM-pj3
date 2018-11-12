@@ -1,3 +1,4 @@
+import sys
 import numpy as np
 import torch
 import torch.nn as nn
@@ -21,7 +22,7 @@ def read_input(task):
 	path = Path(relativePath)
 	originPath = Path(origin)
 	train_f = originPath / ("train.txt")
-	test_f = path / ("test/sources.txt")
+	test_f = originPath / ("test.txt")
 
 	with open(train_f, encoding='utf-8', errors='ignore') as train_file:
 		train_inputs = [line.split() for line in train_file]
@@ -103,14 +104,15 @@ def saveLog(reference, candidate, log):
 
 
 
-def train_evaluation():
+def train_evaluation(method):
+	print('Attention method is ', method)
 	global data_dict
 	datasets = read_input(data_type)  # Change this to change task
 	forward_dict, backward_dict = build_indices(datasets[0])
 	train_inputs, train_outputs, test_inputs, test_outputs = list(map(lambda x: encode(x, forward_dict), datasets))
 	# for arr in train_inputs:
 	# # 	print(len(arr))
-	m = model(vocab_size=len(forward_dict), hidden_dim=128)
+	m = model(vocab_size=len(forward_dict), hidden_dim=128, method=method)
 	optimizer = optim.Adam(m.parameters())
 	minibatch_size = 100
 	num_minibatches = len(train_inputs) // minibatch_size
@@ -171,7 +173,12 @@ def train_evaluation():
 			_, predicted_seq = m(input_seq)
 			# Hint: why is this true? why is this assumption needed (for now)?
 			assert len(predicted_seq) == len(gold_seq)
-			correct += sum([predicted_seq[i] == gold_seq[i] for i in range(len(gold_seq))])
+			for i in range(len(gold_seq)):
+				if predicted_seq[i] == gold_seq[i]:
+					correct += 1
+				else:
+					print('golden', gold_seq)
+					print('predicted', predicted_seq)
 			predictions += len(gold_seq)
 			# Hint: You might find the following useful for debugging.
 			predicted_words = [backward_dict[index] for index in predicted_seq]
@@ -242,14 +249,19 @@ def experiment(parameter):
 
 
 if __name__ == '__main__':
+	method = 'no'
+	if len(sys.argv) > 1 and (sys.argv[1] == 'add' or sys.argv[1] == 'mul'):
+		method = sys.argv[1]
+
 	num_examples = 2000
 	vocab_size = 20
 	max_len = 20
 	special_num = 5
-	data_type = "copy"
+	data_type = "reverse"
 	varyParameters = ""
 	current_value = 0
 	data_dict = {}
 
-	train_evaluation()
+	train_evaluation(method)
+
 	# experiment("train")

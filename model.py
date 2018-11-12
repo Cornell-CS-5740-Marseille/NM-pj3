@@ -12,12 +12,16 @@ from torch import optim
 
 class model(nn.Module):
 
-    def __init__(self, vocab_size, hidden_dim=64):
+    def __init__(self, vocab_size, hidden_dim=64, method='no'):
         super(model, self).__init__()
+        self.method = method
         self.hidden_dim = hidden_dim
         self.embeds = nn.Embedding(vocab_size, hidden_dim)
         self.encoder = nn.LSTM(hidden_dim, hidden_dim)
-        self.decoder = nn.LSTM(2*hidden_dim, hidden_dim)
+        if self.method == 'no':
+            self.decoder = nn.LSTM(hidden_dim, hidden_dim)
+        else:
+            self.decoder = nn.LSTM(2*hidden_dim, hidden_dim)
         self.loss = nn.CrossEntropyLoss()
         self.out = nn.Linear(hidden_dim, vocab_size)
 
@@ -81,11 +85,16 @@ class model(nn.Module):
             predicted_seq = []
             for i in range(len(input_seq)):
                 prev = torch.nn.functional.relu(prev)
-                attn = self.attention_additive(hidden[0], save_outputs)
-                # attn = self.attention_multiplicative(hidden[0], save_outputs)
-                context = attn.unsqueeze(0).mm(save_outputs.squeeze())
-                new_prev = torch.cat((prev, context.unsqueeze(1)), 2)
-                outputs, hidden = self.decoder(new_prev, hidden)
+                if self.method == 'add':
+                    attn = self.attention_additive(hidden[0], save_outputs)
+                    context = attn.unsqueeze(0).mm(save_outputs.squeeze())
+                    prev = torch.cat((prev, context.unsqueeze(1)), 2)
+                elif self.method == 'mul':
+                    attn = self.attention_multiplicative(hidden[0], save_outputs)
+                    context = attn.unsqueeze(0).mm(save_outputs.squeeze())
+                    prev = torch.cat((prev, context.unsqueeze(1)), 2)
+
+                outputs, hidden = self.decoder(prev, hidden)
 
                 pred_i = self.out(outputs)
                 pred_i = pred_i.squeeze()
