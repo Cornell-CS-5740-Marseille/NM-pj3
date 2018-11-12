@@ -1,3 +1,4 @@
+import sys
 import numpy as np
 import torch
 import torch.nn as nn
@@ -12,6 +13,7 @@ from model import model
 import time
 from tqdm import tqdm
 TESTLOSS = False
+SAVEMODEL = False
 def read_input(task):
 	assert task in {"copy", "reverse", "sort"}
 	# modify the path
@@ -21,8 +23,7 @@ def read_input(task):
 	path = Path(relativePath)
 	originPath = Path(origin)
 	train_f = originPath / ("train.txt")
-	# test_f = originPath / ("test.txt")
-	test_f = path / ("test/sources.txt")
+	test_f = originPath / ("test.txt")
 
 	with open(train_f, encoding='utf-8', errors='ignore') as train_file:
 		train_inputs = [line.split() for line in train_file]
@@ -104,17 +105,18 @@ def saveLog(reference, candidate, log, prefix=""):
 
 
 
-def train_evaluation():
+def train_evaluation(method):
+	print('Attention method is', method)
 	global data_dict, models
 	datasets = read_input(data_type)  # Change this to change task
 	forward_dict, backward_dict = build_indices(datasets[0])
 	train_inputs, train_outputs, test_inputs, test_outputs = list(map(lambda x: encode(x, forward_dict), datasets))
 	PATH = "model/" + data_type + ".model"
-	if os.path.exists(PATH):
-		models[data_type] = model(vocab_size=len(forward_dict), hidden_dim=128)
+	if os.path.exists(PATH) and SAVEMODEL:
+		models[data_type] = model(vocab_size=len(forward_dict), hidden_dim=128, method=method)
 		models[data_type].load_state_dict(torch.load(PATH))
 	if not data_type in models:
-		m = model(vocab_size=len(forward_dict), hidden_dim=128)
+		m = model(vocab_size=len(forward_dict), hidden_dim=128, method=method)
 		optimizer = optim.Adam(m.parameters())
 		minibatch_size = 100
 		num_minibatches = len(train_inputs) // minibatch_size
@@ -161,8 +163,6 @@ def train_evaluation():
 
 			predictions = 0
 			correct = 0  # number of tokens predicted correctly
-			references = []
-			candidates = []
 			for input_seq, gold_seq in zip(test_inputs, test_outputs):
 				_, predicted_seq = m(input_seq)
 				# Hint: why is this true? why is this assumption needed (for now)?
@@ -174,8 +174,6 @@ def train_evaluation():
 				predicted_sentence = " ".join(predicted_words)
 				gold_words = [backward_dict[index] for index in gold_seq]
 				gold_sentence = " ".join(gold_words)
-				candidates.append(predicted_words)
-				references.append(gold_words)
 			accuracy = correct / predictions
 			assert 0 <= accuracy <= 1
 			log = "Evaluation time: {} for epoch {}, Accuracy: {}".format(time.time() - start_eval, epoch, accuracy)
@@ -221,9 +219,8 @@ def train_evaluation():
 	accuracy = correct / predictions
 	assert 0 <= accuracy <= 1
 	log = "Evaluation time: {} for epoch {}, Accuracy: {}".format(time.time() - start_eval, 1, accuracy)
-	saveLog(references, candidates, log, "sameTraining_")
+	# saveLog(references, candidates, log, "sameTraining_")
 	print(log)
-
 
 def experiment(parameter):
 	global max_len, vocab_size, num_examples, varyParameters, data_type, current_value, special_num, models
@@ -290,15 +287,20 @@ def experiment(parameter):
 
 
 if __name__ == '__main__':
+	method = 'no'
+	if len(sys.argv) > 1 and (sys.argv[1] == 'add' or sys.argv[1] == 'mul'):
+		method = sys.argv[1]
+
 	num_examples = 2000
 	vocab_size = 20
 	max_len = 20
 	special_num = 5
-	data_type = "copy"
+	data_type = "reverse"
 	varyParameters = ""
 	current_value = 0
 	data_dict = {}
 	models = {}
 
-	train_evaluation()
+	train_evaluation(method)
+
 	# experiment("train")

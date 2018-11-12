@@ -28,7 +28,7 @@ elif [ "$#" -eq 5 ]; then
    echo "special:$5"
    SPECIAL_LEN=${SPECIAL_LEN:-$5}
 else
-   echo "toy.sh DATA_TYPE NUMEXAMPLES VOCAB_SIZE MAX_LEN"
+   echo "./toy.sh DATA_TYPE NUMEXAMPLES VOCAB_SIZE MAX_LEN SPECIAL_LEN"
    exit 1
 fi
 set -e

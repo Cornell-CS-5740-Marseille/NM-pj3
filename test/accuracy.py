@@ -52,4 +52,5 @@ def outputBLEU(dir):
 # outputBLEU("varyDictSize")
 # outputBLEU("varySequenceLength")
 # outputBLEU("varySpecialSize")
-outputBLEU("varyTrainingSize")
+# outputBLEU("varyTrainingSize")
+outputBLEU("varyOriginTest")
