@@ -15,6 +15,7 @@ TESTLOSS = False
 def read_input(task):
 	assert task in {"copy", "reverse", "sort"}
 	# modify the path
+
 	relativePath = "toy_data/" + "toy_" + task + "/"
 	origin = "data/"
 	path = Path(relativePath)
@@ -22,7 +23,7 @@ def read_input(task):
 	train_f = originPath / ("train.txt")
 	# test_f = originPath / ("test.txt")
 	test_f = path / ("test/sources.txt")
-	
+
 	with open(train_f, encoding='utf-8', errors='ignore') as train_file:
 		train_inputs = [line.split() for line in train_file]
 	train_file.close()
@@ -152,6 +153,33 @@ def train_evaluation():
 				optimizer.step()
 			print("Training time: {} for epoch {}".format(time.time() - start_train, epoch))
 
+			# Evaluation
+			print("Evaluation")
+			# Put the model in evaluation mode
+			m.eval()
+			start_eval = time.time()
+
+			predictions = 0
+			correct = 0  # number of tokens predicted correctly
+			references = []
+			candidates = []
+			for input_seq, gold_seq in zip(test_inputs, test_outputs):
+				_, predicted_seq = m(input_seq)
+				# Hint: why is this true? why is this assumption needed (for now)?
+				assert len(predicted_seq) == len(gold_seq)
+				correct += sum([predicted_seq[i] == gold_seq[i] for i in range(len(gold_seq))])
+				predictions += len(gold_seq)
+				# Hint: You might find the following useful for debugging.
+				predicted_words = [backward_dict[index] for index in predicted_seq]
+				predicted_sentence = " ".join(predicted_words)
+				gold_words = [backward_dict[index] for index in gold_seq]
+				gold_sentence = " ".join(gold_words)
+				candidates.append(predicted_words)
+				references.append(gold_words)
+			accuracy = correct / predictions
+			assert 0 <= accuracy <= 1
+			log = "Evaluation time: {} for epoch {}, Accuracy: {}".format(time.time() - start_eval, epoch, accuracy)
+			print(log)
 		torch.save(m.state_dict(), PATH)
 		models[data_type] = m
 		if TESTLOSS:
@@ -163,6 +191,7 @@ def train_evaluation():
 			data_dict[data_type][str(current_value)]["batch"] = minibatch_size
 			data_dict[data_type][str(current_value)]["loss"] = loss_list
 			data_dict[data_type][str(current_value)]["timer"] = timer_list
+
 
 	else:
 		m = models[data_type]
@@ -194,6 +223,7 @@ def train_evaluation():
 	log = "Evaluation time: {} for epoch {}, Accuracy: {}".format(time.time() - start_eval, 1, accuracy)
 	saveLog(references, candidates, log, "sameTraining_")
 	print(log)
+
 
 def experiment(parameter):
 	global max_len, vocab_size, num_examples, varyParameters, data_type, current_value, special_num, models
@@ -260,15 +290,15 @@ def experiment(parameter):
 
 
 if __name__ == '__main__':
-	# train_evaluation("sort")
 	num_examples = 2000
 	vocab_size = 20
 	max_len = 20
 	special_num = 5
-	data_type = "sort"
+	data_type = "copy"
 	varyParameters = ""
 	current_value = 0
 	data_dict = {}
 	models = {}
 
-	experiment("dict")
+	train_evaluation()
+	# experiment("train")
